@@ -1,0 +1,441 @@
+{
+    "æsthetic": {
+        "word": "æsthetic",
+        "wordset_id": "54bd55fb7265742391ce5e00",
+        "meanings": [
+            {
+                "id": "54bd55fb7265742391d05e00",
+                "def": "concerning or characterized by an appreciation of beauty or good taste",
+                "example": "I find that my aesthetic faculties get stronger every time I visit a museum.",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "aesthetical",
+                    "esthetical"
+                ]
+            },
+            {
+                "id": "54bd55fb7265742391d25e00",
+                "def": "pleasing in visually beautiful way",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "artistic"
+                ]
+            },
+            {
+                "id": "54bd55fb7265742391d65e00",
+                "def": "a philosophical theory attempting to explain and understand what is beautiful and why it might be considered that way",
+                "example": "",
+                "speech_part": "noun",
+                "synonyms": []
+            }
+        ],
+        "editors": [
+            "msingle",
+            "odd_bloke",
+            "hcatlin"
+        ],
+        "contributors": [
+            "sabreuse",
+            "lefurjah",
+            "zellerpress",
+            "malrase",
+            "luxfactaest",
+            "bryanedu"
+        ]
+    },
+    " analog": {
+        "word": " analog",
+        "wordset_id": "54bd55fd72657423912d6500",
+        "labels": [
+            {
+                "name": "American",
+                "is_dialect": true
+            }
+        ],
+        "meanings": [
+            {
+                "id": "54bd55fd72657423912f6500",
+                "def": "of a circuit or device having an output that is proportional to the input",
+                "example": "This analogue device picks up radio signals from all over the world.",
+                "speech_part": "adjective",
+                "synonyms": []
+            },
+            {
+                "id": "54bd55fd7265742391326500",
+                "def": "something having the property of being analogous to something else",
+                "example": "That argument is analogue to the one we just proved wrong.",
+                "speech_part": "noun",
+                "synonyms": []
+            }
+        ],
+        "editors": [
+            "lefurjah"
+        ],
+        "contributors": [
+            "bryanedu",
+            "zellerpress",
+            "sabreuse"
+        ]
+    },
+    " visualised": {
+        "word": " visualised",
+        "wordset_id": "54bd56417265742391103d01",
+        "labels": [
+            {
+                "name": "British",
+                "is_dialect": true
+            }
+        ],
+        "meanings": [
+            {
+                "id": "54bd56417265742391123d01",
+                "def": "seen in the mind as a mental image",
+                "example": "Have you visualized your championship win?",
+                "speech_part": "adjective",
+                "synonyms": []
+            }
+        ],
+        "editors": [
+            "lefurjah"
+        ],
+        "contributors": [
+            "msingle",
+            "zellerpress",
+            "malrase"
+        ]
+    },
+    " victimised": {
+        "word": " victimised",
+        "wordset_id": "54bd56517265742391347401",
+        "labels": [
+            {
+                "name": "British",
+                "is_dialect": true
+            }
+        ],
+        "meanings": [
+            {
+                "id": "54bd56517265742391367401",
+                "def": "being made a victim, i.e. being treated unjustly or cruelly",
+                "example": "The victimized townspeople hired an army to protect them from invaders.",
+                "speech_part": "adjective",
+                "synonyms": []
+            }
+        ],
+        "editors": [
+            "lefurjah"
+        ],
+        "contributors": [
+            "luxfactaest",
+            "zellerpress",
+            "hcatlin"
+        ]
+    },
+    " vaporization": {
+        "word": " vaporization",
+        "wordset_id": "54bd56717265742391e1df01",
+        "labels": [
+            {
+                "name": "American",
+                "is_dialect": true
+            }
+        ],
+        "meanings": [
+            {
+                "id": "54bd56717265742391e3df01",
+                "def": "annihilation by vaporizing something",
+                "example": "The bomb caused the immediate vaporization of thousands of people.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "vaporization"
+                ]
+            },
+            {
+                "id": "54bd56717265742391e4df01",
+                "def": "the process of becoming a vapor",
+                "speech_part": "noun",
+                "synonyms": [
+                    "vaporization"
+                ]
+            }
+        ],
+        "editors": [
+            "lefurjah"
+        ],
+        "contributors": [
+            "luxfactaest",
+            "msingle",
+            "zellerpress"
+        ]
+    },
+    "&": {
+        "word": "&",
+        "wordset_id": "54bd57337265742391a8b704",
+        "meanings": [
+            {
+                "id": "54bd57337265742391aab704",
+                "def": "a typographic mark used to represent 'and'",
+                "example": "The name of the firm was usually written with an ampersand.",
+                "speech_part": "noun"
+            }
+        ],
+        "editors": [
+            "msingle"
+        ],
+        "contributors": [
+            "luxfactaest",
+            "bryanedu",
+            "lefurjah"
+        ]
+    },
+    " kindheartedness": {
+        "word": " kindheartedness",
+        "wordset_id": "54bd5742726574239197f004",
+        "meanings": [
+            {
+                "id": "54bd5742726574239199f004",
+                "def": "sympathy arising from a kind heart",
+                "example": "You kind-heartedness toward the downtrodden is an example for us all.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "kindheartedness"
+                ]
+            }
+        ],
+        "editors": [
+            "lefurjah"
+        ],
+        "contributors": [
+            "luxfactaest",
+            "sabreuse",
+            "hcatlin"
+        ]
+    },
+    " travelling salesman": {
+        "word": " travelling salesman",
+        "wordset_id": "54bd57887265742391f4f405",
+        "meanings": [
+            {
+                "id": "54bd57887265742391f6f405",
+                "def": "a salesman who travels to call on customers",
+                "example": "A traveling salesman tried to sell me a set of knives.",
+                "speech_part": "noun",
+                "synonyms": []
+            }
+        ],
+        "editors": [
+            "lefurjah"
+        ],
+        "contributors": [
+            "msingle",
+            "hcatlin",
+            "malrase"
+        ]
+    },
+    " very important person": {
+        "word": " very important person",
+        "wordset_id": "54bd57897265742391d2f605",
+        "meanings": [
+            {
+                "id": "54bd57897265742391d4f605",
+                "def": "an important or influential person",
+                "speech_part": "noun",
+                "synonyms": [
+                    "very important person"
+                ]
+            }
+        ],
+        "editors": [
+            "lefurjah"
+        ],
+        "contributors": [
+            "luxfactaest",
+            "msingle",
+            "zellerpress"
+        ]
+    },
+    " virilization": {
+        "word": " virilization",
+        "wordset_id": "54bd57e67265742391813d07",
+        "labels": [
+            {
+                "name": "American",
+                "is_dialect": true
+            }
+        ],
+        "meanings": [
+            {
+                "id": "54bd57e67265742391833d07",
+                "def": "the abnormal development of male sexual characteristics in a female, usually as the result of hormone therapies or adrenal malfunction",
+                "example": "",
+                "speech_part": "noun",
+                "synonyms": []
+            },
+            {
+                "id": "568af260f02e6100030000d2",
+                "def": "the normal development of male sexual characteristics in a male",
+                "example": "",
+                "speech_part": "noun",
+                "synonyms": []
+            }
+        ],
+        "editors": [
+            "lefurjah"
+        ],
+        "contributors": [
+            "luxfactaest",
+            "malrase",
+            "hcatlin"
+        ]
+    },
+    "ångström": {
+        "word": "ångström",
+        "wordset_id": "54bd57e97265742391244807",
+        "meanings": [
+            {
+                "id": "54bd57e97265742391264807",
+                "def": "a metric unit of length equal to one ten billionth of a meter",
+                "example": "The scientists told us that the measurement was accurate to 3 angstroms.",
+                "speech_part": "noun",
+                "synonyms": [
+                    null
+                ]
+            }
+        ],
+        "editors": [
+            "msingle"
+        ],
+        "contributors": [
+            "odd_bloke",
+            "bryanedu",
+            "zellerpress",
+            "lefurjah"
+        ]
+    },
+    "Å": {
+        "word": "Å",
+        "wordset_id": "54bd57e97265742391244807",
+        "meanings": [
+            {
+                "id": "54bd57e97265742391264807",
+                "def": "a metric unit of length equal to one ten billionth of a meter",
+                "example": "The scientists told us that the measurement was accurate to 3 angstroms.",
+                "speech_part": "noun",
+                "synonyms": [
+                    null
+                ]
+            }
+        ],
+        "editors": [
+            "msingle"
+        ],
+        "contributors": [
+            "odd_bloke",
+            "bryanedu",
+            "zellerpress",
+            "lefurjah"
+        ]
+    },
+    "😂": {
+        "word": "😂",
+        "wordset_id": "56537cbc06bba00003000000",
+        "meanings": [
+            {
+                "id": "56537cf306bba00003000002",
+                "def": "the feeling of being so happy, or laughing so much that you cry",
+                "example": "Seeing that hilarious video made me so 😂.",
+                "speech_part": "noun",
+                "synonyms": []
+            }
+        ]
+    },
+    "#": {
+        "word": "#",
+        "wordset_id": "568a99aff02e61000300000c",
+        "meanings": [
+            {
+                "id": "568a99b0f02e61000300000d",
+                "def": "a typographic symbol for number",
+                "example": "The octothorpe is common on most phones.",
+                "speech_part": "noun",
+                "synonyms": []
+            }
+        ],
+        "editors": [
+            "msingle"
+        ],
+        "contributors": [
+            "chrise",
+            "luxfactaest",
+            "sabreuse",
+            "lefurjah",
+            "bryanedu"
+        ]
+    },
+    "¶": {
+        "word": "¶",
+        "wordset_id": "568a9a02f02e610003000031",
+        "meanings": [
+            {
+                "id": "568a9a02f02e610003000032",
+                "def": "a paragraph mark",
+                "example": "The pilcrow was drawn by the editor to emphasize where the indentation should be.",
+                "speech_part": "noun",
+                "synonyms": []
+            }
+        ],
+        "editors": [
+            "msingle"
+        ],
+        "contributors": [
+            "chrise",
+            "luxfactaest",
+            "sabreuse",
+            "lefurjah",
+            "bryanedu"
+        ]
+    },
+    "№": {
+        "word": "№",
+        "wordset_id": "568d7f052ebee80003000011",
+        "meanings": [
+            {
+                "id": "568d7f052ebee80003000012",
+                "def": "a typographic symbol, № , used for denoting numbers",
+                "example": "It is common in Europe to see a numero sign as opposed to an octothorpe.",
+                "speech_part": "noun",
+                "synonyms": []
+            }
+        ],
+        "editors": [
+            "msingle",
+            "hcatlin"
+        ],
+        "contributors": [
+            "luxfactaest",
+            "lefurjah",
+            "bryanedu"
+        ]
+    },
+    "☞": {
+        "word": "☞",
+        "wordset_id": "568e818a2ebee8000300003c",
+        "meanings": [
+            {
+                "id": "568e818a2ebee8000300003d",
+                "def": "a typographic symbol used to draw the reader's attention",
+                "example": "The typesetter preferred manicules to changes of font when emphasizing small notes in the text.",
+                "speech_part": "noun",
+                "synonyms": []
+            }
+        ],
+        "editors": [
+            "msingle"
+        ],
+        "contributors": [
+            "luxfactaest",
+            "bryanedu",
+            "lefurjah"
+        ]
+    }
+}

@@ -145,7 +145,6 @@
             {
                 "id": "54bd55e072657423910b0700",
                 "def": "a yawl used by a ship's sailors for general work",
-                "example": "",
                 "speech_part": "noun",
                 "synonyms": [
                     "jolly boat"
@@ -164,6 +163,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "kid"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -1105,10 +1110,23 @@
             {
                 "id": "54bd56077265742391877f00",
                 "def": "having jaundice, a disease which causes yellowing of the skin",
-                "example": "",
                 "speech_part": "adjective",
                 "synonyms": [
                     "yellow"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -1177,8 +1195,7 @@
             {
                 "id": "54bd560b7265742391718d00",
                 "def": "of something having the color of jade",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             },
             {
                 "id": "54bd560b7265742391738d00",
@@ -1193,8 +1210,7 @@
             {
                 "id": "54bd560b7265742391748d00",
                 "def": "a light green color varying from bluish green to yellowish green",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd560b7265742391758d00",
@@ -2134,7 +2150,6 @@
             {
                 "id": "54bd56327265742391e40801",
                 "def": "suggestive of sexual impropriety",
-                "example": "",
                 "speech_part": "adjective",
                 "synonyms": [
                     "gamy"
@@ -2285,8 +2300,7 @@
             {
                 "id": "54bd56367265742391df1501",
                 "def": "a young person, not fully developed",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -2438,7 +2452,13 @@
                 "id": "54bd563f72657423918f3601",
                 "def": "recently risen to much greater prominence or importance",
                 "example": "That jumped-up band could only book bar gigs last month, and now everyone wants them.",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    }
+                ]
             }
         ],
         "editors": [
@@ -2810,7 +2830,25 @@
                 "id": "54bd564e7265742391126901",
                 "def": "surprised or confounded",
                 "example": "Well I'm jiggered!",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    }
+                ]
             }
         ],
         "editors": [
@@ -3315,8 +3353,7 @@
                 "id": "56429049b527910097000901",
                 "def": "a person who follows the doctrine of Jainism",
                 "example": "Jainists renounce property and social ties.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -3347,15 +3384,13 @@
                 "id": "55f1c0a034333207ca020000",
                 "def": "the Japanese language",
                 "example": "Japanese uses several different alphabets.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "55f1c0a034333207ca030000",
                 "def": "collectively, the people of Japan or Japanese descent",
                 "example": "The Japanese historically have a diet based on rice.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -3395,7 +3430,6 @@
             {
                 "id": "54bd565f72657423917b9e01",
                 "def": "of or pertaining to or characteristic of Judaism",
-                "example": "",
                 "speech_part": "adjective",
                 "synonyms": [
                     "Orthodox"
@@ -3481,8 +3515,7 @@
                 "id": "54bd566372657423916dac01",
                 "def": "of or relating to the Jacobins of the French Revolution",
                 "example": "The necessity of Jacobinic terrorism is cause for historical debate.",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ],
         "editors": [
@@ -3501,8 +3534,7 @@
             {
                 "id": "54bd5663726574239171ac01",
                 "def": "of or relating to the Jacobins of the French Revolution",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ],
         "editors": [
@@ -3528,8 +3560,7 @@
                 "id": "563933e4724db200850007a1",
                 "def": "a person from Jamaica or of Jamaican descent",
                 "example": "The Jamaican loved their country's reggae music.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -3751,8 +3782,7 @@
                 "id": "5638fb3f169cd9008500025b",
                 "def": "to free a phone from a particular service carrier through the use of software",
                 "example": "I jailbroke my phone and changed carriers.",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             }
         ],
         "editors": [
@@ -4578,9 +4608,9 @@
                 "def": "a small roadside establishment in the southeastern United States where you can eat and drink and dance to music provided by a jukebox",
                 "speech_part": "noun",
                 "synonyms": [
-                    "jook joint",
                     "juke house",
                     "jook house",
+                    "jook joint",
                     "jook",
                     "juke joint"
                 ]
@@ -4751,8 +4781,7 @@
             {
                 "id": "54bd56747265742391a1ed01",
                 "def": "go on a pleasure trip",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             }
         ]
     },
@@ -4805,6 +4834,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "trip"
+                ],
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -4824,15 +4859,12 @@
             {
                 "id": "54bd5675726574239132ee01",
                 "def": "taking an excursion for pleasure",
-                "example": "",
                 "speech_part": "noun"
             },
             {
                 "id": "563bc9abb350f9009700001a",
                 "def": "a feast or banquet",
-                "example": "",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -5108,6 +5140,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "jest"
+                ],
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -5117,6 +5155,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "jest"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -5307,7 +5351,8 @@
         "wordset_id": "54bd567c72657423911e0a02",
         "labels": [
             {
-                "name": "archaic"
+                "name": "archaic",
+                "is_dialect": false
             }
         ],
         "meanings": [
@@ -5746,7 +5791,21 @@
             {
                 "id": "54bd56827265742391002002",
                 "def": "surgical creation of an opening between the jejunum and the anterior abdominal wall",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -5975,6 +6034,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "jacking off"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -6289,6 +6362,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "litigation"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -6312,6 +6399,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "default judgment"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -6334,6 +6435,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "default judgment"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -6357,6 +6472,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "conviction"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -6429,6 +6558,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     null
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -6451,6 +6594,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     null
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -6474,6 +6631,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "dismissal"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -6496,6 +6667,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "dismissal"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -6515,8 +6700,7 @@
             {
                 "id": "54bd56937265742391575e02",
                 "def": "judgment rendered through analysis and adjudication of the factual issues presented",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -6536,8 +6720,7 @@
             {
                 "id": "54bd56937265742391575e02",
                 "def": "judgment rendered through analysis and adjudication of the factual issues presented",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -6631,6 +6814,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "judgement"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -6810,13 +7007,61 @@
                 "id": "55902667666339008a260000",
                 "def": "leave a location",
                 "example": "I am going to jam.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "US",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "American",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             },
             {
                 "id": "55902668396666008a890000",
                 "def": "to play a musical instrument, usually with others",
                 "example": "I am going to jam with my friends later.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "US",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "American",
+                            "is_dialect": true
+                        }
+                    },
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "UK",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -6901,6 +7146,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "beast of burden"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -7135,7 +7386,6 @@
             {
                 "id": "54bd56a7726574239196ab02",
                 "def": "a tropical insectivorous bird native to Central and South America, having a long sharp bill and iridescent green or bronze plumage",
-                "example": "",
                 "speech_part": "noun"
             }
         ],
@@ -7498,8 +7748,7 @@
             {
                 "id": "54bd56b7726574239137e502",
                 "def": "wingless insect living in dark moist places as under dead tree trunks",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -7734,7 +7983,6 @@
             {
                 "id": "54bd56bb7265742391eaf402",
                 "def": "a male donkey",
-                "example": "",
                 "speech_part": "noun",
                 "synonyms": [
                     "jack"
@@ -7903,7 +8151,6 @@
             {
                 "id": "54bd56c372657423918d1303",
                 "def": "a relatively large silverside fish of the Pacific coast of North America, known to reach 18 inches in length",
-                "example": "",
                 "speech_part": "noun"
             }
         ],
@@ -7976,7 +8223,12 @@
                 "def": "to use a jackhammer or behave in a way similar to a jackhammer",
                 "example": "I jackhammered the pavement to break through the first layers.",
                 "speech_part": "verb",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -8112,6 +8364,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "bus"
+                ],
+                "labels": [
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    }
                 ]
             }
         ],
@@ -8129,7 +8387,8 @@
         "wordset_id": "54bd56ce7265742391493c03",
         "labels": [
             {
-                "name": "archaic"
+                "name": "archaic",
+                "is_dialect": false
             }
         ],
         "meanings": [
@@ -8137,8 +8396,7 @@
                 "id": "54bd56ce72657423914b3c03",
                 "def": "a car that is old and unreliable",
                 "example": "I don't know why I drive around that jalopy.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -8237,13 +8495,25 @@
                 "id": "54bd56d47265742391aa5503",
                 "def": "to put a jacket on",
                 "example": "I jacketed the kids before we went skiing.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd56d47265742391ac5503",
                 "def": "to provide with a thermally non-conducting cover",
                 "example": "The tubing needs to be jacketed.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -8361,6 +8631,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "greave"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -8511,8 +8787,7 @@
                 "id": "54bd56e27265742391158803",
                 "def": "a short crowbar",
                 "example": "in Britain they call a jimmy and jemmy",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56e27265742391188803",
@@ -8541,8 +8816,7 @@
                 "id": "54bd56e27265742391158803",
                 "def": "a short crowbar",
                 "example": "in Britain they call a jimmy and jemmy",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56e27265742391188803",
@@ -8634,7 +8908,13 @@
                 "id": "54bd56e27265742391288803",
                 "def": "a government office in a town where information about available jobs is displayed and where unemployment benefits are administered",
                 "example": "I went down to the jobcentre to find work.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    }
+                ]
             }
         ],
         "editors": [
@@ -9194,7 +9474,13 @@
             {
                 "id": "54bd56e272657423916d8803",
                 "def": "a large drinking bowl",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -9728,7 +10014,13 @@
                 "id": "54bd56e27265742391a08703",
                 "def": "something indescribable",
                 "example": "Giving birth and being able to hold your first born in your own two arms is je ne sais quoi.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -10105,8 +10397,7 @@
             {
                 "id": "54bd56e27265742391d58703",
                 "def": "a headdress adorned with jewels",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -10122,9 +10413,7 @@
             {
                 "id": "563f8ab0c208920085004e98",
                 "def": "an exercise where one jumps up and down in place, moving the arms and legs out and in synchonously",
-                "example": "",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -10215,9 +10504,9 @@
                 "def": "a small lyre-shaped musical instrument that is placed between the teeth and played by twanging a wire tongue while changing the shape of the mouth cavity",
                 "speech_part": "noun",
                 "synonyms": [
-                    "juice harp",
                     "mouth harp",
                     "jews' harp",
+                    "juice harp",
                     "jaw harp",
                     "Ozark harp",
                     "mouth bow"
@@ -10600,6 +10889,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "pajama"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -10667,7 +10962,6 @@
             {
                 "id": "54bd56f672657423915bd503",
                 "def": "a hinge with two long straps connecting it",
-                "example": "",
                 "speech_part": "noun",
                 "synonyms": [
                     null
@@ -10754,7 +11048,21 @@
                 "id": "54bd56fe7265742391eaf203",
                 "def": "a false boast that can harm others",
                 "example": "Your jactitation was not needed and could get you in trouble.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd56fe7265742391ebf203",
@@ -10981,6 +11289,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "ticket"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -11305,7 +11619,20 @@
                 "id": "54bd570e7265742391233104",
                 "def": "the craniometric point at the union of the frontal and temporal processes of the zygomatic bone",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -11325,7 +11652,20 @@
                 "id": "54bd570e7265742391233104",
                 "def": "the craniometric point at the union of the frontal and temporal processes of the zygomatic bone",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -11348,6 +11688,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "legal power"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -11423,6 +11777,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "zygomatic"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -11467,6 +11835,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "intestinal artery"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -11526,7 +11908,21 @@
             {
                 "id": "54bd57177265742391b25004",
                 "def": "the part of the small intestine between the duodenum and the ileum",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -11591,6 +11987,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     null
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -11613,6 +12023,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     null
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -11656,6 +12080,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "broad interpretation"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -11834,6 +12272,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "legal principle"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -11857,6 +12309,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "legal principle"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -11876,7 +12342,21 @@
             {
                 "id": "54bd572072657423919b7304",
                 "def": "the principle that a person's nationality at birth is the same as that of his natural parents",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -11896,7 +12376,21 @@
                 "id": "54bd572072657423919e7304",
                 "def": "the principle that a person's nationality at birth is determined by the place of birth",
                 "example": "The United States determines citizenship in part through jus soli.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -11915,10 +12409,23 @@
             {
                 "id": "54bd572472657423917d8004",
                 "def": "the branch of philosophy concerned with the law and the principles that lead courts to make the decisions they do",
-                "example": "",
                 "speech_part": "noun",
                 "synonyms": [
                     "law"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             },
             {
@@ -12049,6 +12556,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "autograph"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -12135,7 +12656,21 @@
                 "id": "54bd572b7265742391ae9b04",
                 "def": "a resolution passed by both houses of a bicameral legislative body which becomes legally binding when signed by the Chief Executive or passed over the Chief Executive's veto",
                 "example": "The joint resolution had little opposition and quickly became a law.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -12181,6 +12716,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     null
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -12204,6 +12753,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "writ"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -12439,6 +13002,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "jib"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -12448,6 +13017,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "tally"
+                ],
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -12549,7 +13124,6 @@
             {
                 "id": "54bd573672657423915fc404",
                 "def": "the Spanish dialect spoken by Sephardic Jews but written in the Hebrew script",
-                "example": "",
                 "speech_part": "noun"
             }
         ],
@@ -12811,6 +13385,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "stipulation"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -13268,8 +13856,7 @@
             {
                 "id": "54bd574372657423916cf304",
                 "def": "a vegetable cut into thin strips (usually used as a garnish)",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd574372657423916ef304",
@@ -13348,8 +13935,7 @@
             {
                 "id": "54bd57437265742391bdf504",
                 "def": "sugar-glazed jellied candy",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -13361,8 +13947,7 @@
                 "id": "54bd574472657423911ef904",
                 "def": "a raised doughnut filled with jelly or jam",
                 "example": "I ate a jelly donut in the gym parking lot.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -13426,7 +14011,33 @@
                 "id": "558daa13346166008a760000",
                 "def": "alternate form of jealous",
                 "example": "We are so jelly of our neighbors' new phones.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "US",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "American",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd57447265742391d0f904",
@@ -13519,7 +14130,20 @@
                 "def": "cornbread usually cooked pancake-style on a griddle, chiefly in  New England, also called johnny cake",
                 "example": "The restaurant had a journey cake special on the brunch menu.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "US",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "American",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -13543,7 +14167,20 @@
                 "def": "cornbread usually cooked pancake-style on a griddle, chiefly in  New England, also called johnny cake",
                 "example": "The restaurant had a journey cake special on the brunch menu.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "US",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "American",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -13567,7 +14204,20 @@
                 "def": "cornbread usually cooked pancake-style on a griddle, chiefly in  New England, also called johnny cake",
                 "example": "The restaurant had a journey cake special on the brunch menu.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "US",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "American",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -13655,8 +14305,7 @@
             {
                 "id": "54bd57477265742391120205",
                 "def": "hot green or red pepper of southwestern United States and Mexico",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57477265742391130205",
@@ -13683,8 +14332,7 @@
             {
                 "id": "54bd57477265742391120205",
                 "def": "hot green or red pepper of southwestern United States and Mexico",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57477265742391130205",
@@ -14004,8 +14652,7 @@
             {
                 "id": "54bd574f7265742391c42105",
                 "def": "a firm that sells and buys jewelry",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -14215,7 +14862,13 @@
                 "id": "54bd57537265742391e03005",
                 "def": "a set of rich and fashionable people who travel widely for pleasure",
                 "example": "They were considered part of the jet set.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -14255,7 +14908,13 @@
                 "id": "54bd575472657423918a3205",
                 "def": "the British school for children aged 7-11.",
                 "example": "My kids are both in junior school.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    }
+                ]
             }
         ],
         "editors": [
@@ -14294,7 +14953,21 @@
             {
                 "id": "54bd57547265742391e43405",
                 "def": "a Hindu caste or distinctive social group of which there are thousands throughout India",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "Indian",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -14459,8 +15132,7 @@
                 "id": "5638f4be169cd900b9000003",
                 "def": "a style of dance music that fuses elements of hip-hop, hardcore, and ragga, consisting almost exclusively of very fast electronic drum tracks and slower synthesized bass lines",
                 "example": "I danced to jungle all night in Berlin.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57577265742391af3e05",
@@ -14475,6 +15147,24 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "hobo camp"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -14677,6 +15367,28 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "coon"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "offensive",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -14721,6 +15433,24 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "Kraut"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "offensive",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -14814,6 +15544,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "chauvinist"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -14999,6 +15735,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "folk singer"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -15088,13 +15830,25 @@
                 "id": "54bd577c726574239103cb05",
                 "def": "a person who leaves a lover",
                 "example": "I saw your old jilt walking around town.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd577c726574239105cb05",
                 "def": "to cast aside capriciously or unfeelingly",
                 "example": "I felt horrible, but I had to jilt my ex on their birthday.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -15136,7 +15890,13 @@
             {
                 "id": "54bd577c726574239112cb05",
                 "def": "an employee who holds a regular job",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    }
+                ]
             }
         ],
         "editors": [
@@ -15203,7 +15963,13 @@
                 "id": "54bd577c72657423911ecb05",
                 "def": "to compete for an advantage or a position",
                 "example": "The employees jockey for promotion.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -15252,8 +16018,8 @@
                 "def": "a hypothetical average man",
                 "speech_part": "noun",
                 "synonyms": [
-                    "Joe Blow",
                     "Joe Bloggs",
+                    "Joe Blow",
                     "man in the street"
                 ]
             }
@@ -15344,8 +16110,13 @@
             {
                 "id": "54bd577c7265742391cbca05",
                 "def": "elite infantry soilders that formed the Ottoman Sultan's household troops and bodyguards",
-                "example": "",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -15594,7 +16365,21 @@
                 "id": "54bd577c726574239100cb05",
                 "def": "a shameless, impudent, scheming woman",
                 "example": "Since our marriage, my mother has unfairly called my wife a gold-digging jezebel.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "offensive",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -15735,6 +16520,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "jinx"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -15825,7 +16624,21 @@
                 "id": "54bd577d726574239148cb05",
                 "def": "the senior legal advisor to a branch of the military",
                 "example": "The judge advocate general set the rules for the military tribunal.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -16052,6 +16865,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "justiciary"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -16074,6 +16893,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "gob"
+                ],
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "UK",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    }
                 ]
             }
         ],
@@ -16096,6 +16929,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "gob"
+                ],
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "UK",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    }
                 ]
             }
         ],
@@ -16165,6 +17012,28 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "tosser"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "offensive",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -16209,7 +17078,12 @@
                 "def": "a tame monkey",
                 "example": "Did you see that jackanapes dancing to the accordion?",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd578a726574239173f905",
@@ -16281,7 +17155,21 @@
                 "id": "54bd57a572657423915a5a06",
                 "def": "a high-speed high-altitude airstream, usually blowing from west to east, near the top of the troposphere",
                 "example": "The jet stream causes this weather pattern.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -16897,8 +17785,7 @@
             {
                 "id": "54bd57ca72657423912bdf06",
                 "def": "a tall Brazilian feather palm with a terminal crown of very large leathery pinnatisect leaves rising from long strong stems used for structural purposes",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -16917,8 +17804,7 @@
             {
                 "id": "54bd57ca72657423912bdf06",
                 "def": "a tall Brazilian feather palm with a terminal crown of very large leathery pinnatisect leaves rising from long strong stems used for structural purposes",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -16937,8 +17823,7 @@
             {
                 "id": "54bd57ca72657423912edf06",
                 "def": "a tall Brazilian feather palm with a terminal crown of very large leathery pinnatisect leaves rising from long strong stems used for structural purposes",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -16957,7 +17842,6 @@
             {
                 "id": "54bd57ca7265742391dadd06",
                 "def": "fishtail palm of India to Malay Peninsula",
-                "example": "",
                 "speech_part": "noun",
                 "synonyms": [
                     "toddy palm"
@@ -17237,8 +18121,7 @@
                 "id": "5638f50e169cd90085000039",
                 "def": "a lantern made from a hollowed pumpkin in which holes are carved, typically to resemble facial features, in which a candle or light is placed; primarily created around Halloween",
                 "example": "We're going to carve the scariest jack-o-lanterns this year.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -17268,8 +18151,7 @@
                 "id": "5638f50e169cd90085000039",
                 "def": "a lantern made from a hollowed pumpkin in which holes are carved, typically to resemble facial features, in which a candle or light is placed; primarily created around Halloween",
                 "example": "We're going to carve the scariest jack-o-lanterns this year.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -17299,8 +18181,7 @@
                 "id": "5638f50e169cd90085000039",
                 "def": "a lantern made from a hollowed pumpkin in which holes are carved, typically to resemble facial features, in which a candle or light is placed; primarily created around Halloween",
                 "example": "We're going to carve the scariest jack-o-lanterns this year.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -17398,6 +18279,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "high-yield bond"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -17418,7 +18305,21 @@
                 "id": "54bd57e47265742391213607",
                 "def": "lien on a debtor's property that is granted to a creditor by court judgment",
                 "example": "The judgment lien was issued on our house.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -17457,7 +18358,6 @@
             {
                 "id": "54bd57eb72657423917c4d07",
                 "def": "10 jiao equal 1 yuan in China",
-                "example": "",
                 "speech_part": "noun"
             }
         ],
@@ -17646,7 +18546,21 @@
             {
                 "id": "54bd57f47265742391287007",
                 "def": "a form of rheumatoid arthritis that affects children",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -17700,7 +18614,21 @@
             {
                 "id": "54bd57f97265742391e97e07",
                 "def": "inflammation of the jejunum of the small intestine",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -17719,7 +18647,21 @@
             {
                 "id": "54bd57f97265742391ec7e07",
                 "def": "inflammation of the jejunum and the ileum of the small intestine",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -17837,6 +18779,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "transposon"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -17989,9 +18945,7 @@
             {
                 "id": "564209efb527910085003d2b",
                 "def": "a small-scale production plant that processes sugar cane",
-                "example": "",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -18018,9 +18972,7 @@
             {
                 "id": "564209efb527910085003d2b",
                 "def": "a small-scale production plant that processes sugar cane",
-                "example": "",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -18132,6 +19084,24 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "pep up"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -18155,6 +19125,24 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "pep up"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -18175,7 +19163,21 @@
                 "id": "54bd581872657423916cea07",
                 "def": "to set off quickly, usually with success",
                 "example": "The ad campaign will jump off tomorrow.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -18198,6 +19200,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "set"
+                ],
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -18221,13 +19229,25 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "jelly"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
                 "id": "54bd581b72657423915bf507",
                 "def": "to become jelly",
                 "example": "The liquid jellifies under certain conditions.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -18260,8 +19280,7 @@
             {
                 "id": "54bd581b726574239169f407",
                 "def": "show to be right by providing justification or proof",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             },
             {
                 "id": "54bd581b72657423916af407",
@@ -18292,6 +19311,24 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "ridicule"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -18317,6 +19354,28 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "kid"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -18346,7 +19405,13 @@
                 "id": "54bd58217265742391df0b08",
                 "def": "to celebrate an official jubilee",
                 "example": "We were so proud of our Monarch's long reign that we jubilated into the night.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -18369,6 +19434,24 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "cheer"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -18392,6 +19475,24 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "cheer"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -18399,7 +19500,24 @@
                 "def": "to become happier or more cheerful",
                 "example": "The kids at the hospital jollied up after a visit from a local football star.",
                 "speech_part": "verb",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -18503,7 +19621,13 @@
                 "id": "54bd582872657423914c2308",
                 "def": "to place side by side",
                 "example": "The fauvists juxtaposed strong colors.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -18554,6 +19678,20 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "wank"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -18577,6 +19715,20 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "wank"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -18623,6 +19775,20 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "exult"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -18668,6 +19834,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "gad"
+                ],
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -18737,6 +19909,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "jingle"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -18744,7 +19922,12 @@
                 "def": "to emit a sound typical of metallic objects",
                 "example": "The wind chime jingle-jangles through the night.",
                 "speech_part": "verb",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -18767,6 +19950,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "revel"
+                ],
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -18909,6 +20098,24 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "jump"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -18929,8 +20136,7 @@
                 "id": "5634fad39949f80097000007",
                 "def": "of bad or inferior quality",
                 "example": "I couldn't believe how janky my workplace's computers were compared to mine, but then again it's not like the company had much money to work with.",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ],
         "editors": [

@@ -21,8 +21,7 @@
                 "id": "54bd55df7265742391de0300",
                 "def": "of an unusually noticeable or exceptional or remarkable kind, not used with a negative",
                 "example": "Your victory was quite something.",
-                "speech_part": "adverb",
-                "synonyms": []
+                "speech_part": "adverb"
             },
             {
                 "id": "54bd55df7265742391e00300",
@@ -230,7 +229,13 @@
                 "id": "55a0e3d6376539018e060000",
                 "def": "alive or living",
                 "example": "Man is no star, but a quick coal of mortal fire.",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -345,8 +350,8 @@
                     "calm",
                     "lull",
                     "tranquillise",
-                    "tranquilise",
                     "tranquilize",
+                    "tranquilise",
                     "tranquillize",
                     "quieten",
                     "calm down"
@@ -1173,7 +1178,13 @@
                 "id": "54bd562272657423912cd200",
                 "def": "on equal terms by payment or requital",
                 "example": "Since you've paid me back for the drink, we're quits.",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    }
+                ]
             }
         ],
         "editors": [
@@ -1216,36 +1227,59 @@
                 "id": "54bd5625726574239108db00",
                 "def": "beyond or deviating from the usual or expected",
                 "example": "I thought that my boss was strange, but then I met my friend's queer boss and I realized that I had it good.",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             },
             {
                 "id": "54bd5625726574239109db00",
                 "def": "homosexual or arousing homosexual desires",
                 "example": "I wonder how diverse the queer community is in the city?",
                 "speech_part": "adjective",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "offensive",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd562572657423910bdb00",
                 "def": "a homosexual man",
                 "example": "Do people often discriminate against people who the believe are queer?",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "offensive",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd562572657423910ddb00",
                 "def": "to put in a dangerous, disadvantageous, or difficult position",
                 "example": "Throughout the game of chess my opponent kept queering me.",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             },
             {
                 "id": "54bd562572657423910edb00",
                 "def": "to hinder or prevent the efforts, plans, or desires of",
                 "example": "Should the government queer the advocate's attempts once more a rebellion will probably break out.",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             },
             {
                 "id": "54e6349a34393700030b0000",
@@ -1303,8 +1337,7 @@
                 "id": "54bd562872657423918be700",
                 "def": "of food, preserved by freezing sufficiently rapidly to retain flavor and nutritional value",
                 "example": "The peas are quick-frozen, but quite nice when heated.",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ],
         "editors": [
@@ -1371,8 +1404,7 @@
                 "id": "54bd56327265742391390b01",
                 "def": "(used especially of beds) not as large as king-size",
                 "example": "a queen-sized bed",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ]
     },
@@ -1747,7 +1779,21 @@
                 "id": "54bd56477265742391855301",
                 "def": "of a leaf shape, having five leaflets",
                 "example": "This is a great example of a quinquefoliate leaf.",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -2339,7 +2385,6 @@
             {
                 "id": "54bd5664726574239114b001",
                 "def": "of or relating to a 500th anniversary",
-                "example": "",
                 "speech_part": "adjective",
                 "synonyms": [
                     "quincentennial"
@@ -2372,8 +2417,7 @@
             {
                 "id": "54bd566472657423911eb001",
                 "def": "of or relating to the Quechua people or their language",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ],
         "editors": [
@@ -2394,8 +2438,7 @@
             {
                 "id": "54bd56647265742391ecaf01",
                 "def": "of or concerning Qatar or its inhabitants",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ],
         "editors": [
@@ -2489,7 +2532,29 @@
                 "id": "54bd5666726574239125b801",
                 "def": "the concept that something has a magnitude and can be represented in mathematical expressions by a constant or a variable",
                 "example": "Vectors have a quantity as well as a direction.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "mathematical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -2849,8 +2914,7 @@
             {
                 "id": "54bd567872657423919bfb01",
                 "def": "the act of dividing into quanta or expressing in terms of quantum theory",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -2875,8 +2939,7 @@
             {
                 "id": "54bd567872657423919bfb01",
                 "def": "the act of dividing into quanta or expressing in terms of quantum theory",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -3011,8 +3074,7 @@
             {
                 "id": "54bd56817265742391b91c02",
                 "def": "chemical analysis to determine the amounts of each element in the substance",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -3379,7 +3441,21 @@
                 "id": "54bd569372657423911c5f02",
                 "def": "a hearing to determine by what authority someone has an office, franchise or liberty",
                 "example": "The quo warranto hearing will take place in San Francisco next Wednesday.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -3450,7 +3526,21 @@
                 "id": "54bd56937265742391aa5e02",
                 "def": "an improper and unacceptable kind of compromise verdict in which monetary damages are decided upon by averaging what each juror believes to be the proper amount",
                 "example": "Your honor, we cannot let this quotient verdict stand!",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -3503,7 +3593,29 @@
                 "id": "54bd56957265742391606602",
                 "def": "a United States or Canadian coin worth one fourth of a dollar",
                 "example": "I fed four quarters into the slot machine.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "US",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "American",
+                            "is_dialect": true
+                        }
+                    },
+                    {
+                        "name": "Canadian",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "American",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd56957265742391626602",
@@ -3636,8 +3748,7 @@
             {
                 "id": "54bd56a77265742391c3ab02",
                 "def": "large trogon of Central America and South America having golden-green and scarlet plumage",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56a77265742391c4ab02",
@@ -3761,8 +3872,7 @@
             {
                 "id": "54bd56b17265742391b6d002",
                 "def": "an especially large mole rat and the only member of a colony of naked mole rats to bear offspring which are sired by only a few males",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56b17265742391b7d002",
@@ -4080,8 +4190,7 @@
                 "id": "54bd56e27265742391538903",
                 "def": "the leaves of the shrub Catha edulis which are chewed like tobacco or used to make tea",
                 "example": "The farmer had stained lips from chewing quat.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -4103,8 +4212,7 @@
                 "id": "54bd56e27265742391538903",
                 "def": "the leaves of the shrub Catha edulis which are chewed like tobacco or used to make tea",
                 "example": "The farmer had stained lips from chewing quat.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -4287,8 +4395,7 @@
             {
                 "id": "54bd56ee72657423911eb703",
                 "def": "a molding having a small groove in it",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -4320,15 +4427,13 @@
             {
                 "id": "54bd56ee72657423912fb703",
                 "def": "game equipment consisting of a ring of iron or circle of rope used in playing the game of quoits",
-                "example": "",
                 "speech_part": "noun"
             },
             {
                 "id": "562c474ab519a7008500295c",
                 "def": "a game played by tossing a ring on or near a spike",
                 "example": "We played quoits at the farm.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -4399,6 +4504,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "quadrilateral"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "mathematical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -4434,8 +4553,7 @@
             {
                 "id": "54bd56ee7265742391a7b603",
                 "def": "a quarter of the circumference of a circle",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -4605,8 +4723,7 @@
             {
                 "id": "54bd56ee7265742391cab603",
                 "def": "a stamp mill for stamping quartz",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -4753,7 +4870,17 @@
                 "id": "54bd56ee7265742391eab603",
                 "def": "to stitch or sew together",
                 "example": "I like to quilt in my spare time.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -4888,7 +5015,13 @@
                 "id": "54bd570372657423911f0404",
                 "def": "a reference to a marriage proposal",
                 "example": "Where were you when your spouse popped the question?",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd57037265742391210404",
@@ -4924,6 +5057,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "query"
+                ],
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -4933,6 +5072,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "interrogate"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -4942,6 +5087,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "interview"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -4952,6 +5103,12 @@
                 "synonyms": [
                     "oppugn",
                     "call into question"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -4961,6 +5118,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "wonder"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -5298,7 +5461,21 @@
                 "id": "54bd571c7265742391a86204",
                 "def": "any of three points that divide an ordered distribution into four parts each containing one quarter of the scores",
                 "example": "I was in the top quartile for the test.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "mathematical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -5321,6 +5498,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "biquadratic"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "mathematical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -5348,6 +5539,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "quadratic"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "mathematical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -5371,7 +5576,21 @@
                 "id": "54bd571e72657423912c6c04",
                 "def": "a homogeneous polynomial having at least two variables",
                 "example": "My teacher showed us how to easily solve quantics.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "mathematical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -5402,10 +5621,15 @@
             {
                 "id": "54bd571e7265742391756904",
                 "def": "the fifth and highest element after air and earth and fire and water",
-                "example": "",
                 "speech_part": "noun",
                 "synonyms": [
                     "ether"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -5426,7 +5650,21 @@
                 "id": "54bd571e7265742391c16b04",
                 "def": "the smallest discrete quantity of some physical property that a system can possess, according to quantum theory",
                 "example": "The quanta for electron energy are found in clouds around the atom's nucleus.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd571e7265742391c26b04",
@@ -5451,8 +5689,13 @@
             {
                 "id": "54bd571e7265742391f56804",
                 "def": "in the Middle Ages, a kind of philosophical debate where any topic could be discussed off hand",
-                "example": "",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -5516,7 +5759,21 @@
                 "id": "54bd57217265742391527704",
                 "def": "a branch of algebra dealing with quadratic equations",
                 "example": "I specialize in quadratics.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "mathematical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -5536,7 +5793,21 @@
                 "id": "54bd57237265742391547d04",
                 "def": "the branch of quantum physics that accounts for matter at the atomic level",
                 "example": "I decided to study quantum mechanics for my physics PhD.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -5556,7 +5827,21 @@
                 "id": "54bd57237265742391577d04",
                 "def": "the branch of quantum physics that is concerned with the theory of fields",
                 "example": "I don't know anything about quantum field theory.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -5591,7 +5876,28 @@
                 "def": "shortened form of \"quod erat demonstrandum,\" usually used at the end of a mathematical or scientific proof to show the desired outcome has been accomplished",
                 "example": "All fish live in water – a trout is a fish, so it must live in water. QED.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "mathematical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd572372657423915d7d04",
@@ -5600,6 +5906,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "quantum electrodynamics"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -5642,7 +5962,21 @@
                 "id": "54bd57237265742391727c04",
                 "def": "a quantum of energy in a crystal lattice or other system that has position, momentum, and can in some respects be regarded as a particle",
                 "example": "What's the difference between a quasiparticle and a collective excitation?",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -5683,7 +6017,13 @@
                 "id": "54bd57247265742391388104",
                 "def": "in the Middle Ages, a higher division of the curriculum in a medieval university involving arithmetic, music,  geometry and astronomy",
                 "example": "The student focused on the quadrivium in their final years of study.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -5818,6 +6158,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "quitclaim"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -5922,6 +6276,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "quadratic"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "mathematical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -5977,8 +6345,7 @@
                 "id": "54bd572f72657423919aa904",
                 "def": "an esoteric or occult matter resembling the mystical Jewish teachings, based on esoteric writings, that is traditionally secret",
                 "example": "Our human resources manual is a bit of a kabala.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -6000,8 +6367,7 @@
                 "id": "54bd572f72657423919aa904",
                 "def": "an esoteric or occult matter resembling the mystical Jewish teachings, based on esoteric writings, that is traditionally secret",
                 "example": "Our human resources manual is a bit of a kabala.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -6023,8 +6389,7 @@
                 "id": "54bd572f72657423919aa904",
                 "def": "an esoteric or occult matter resembling the mystical Jewish teachings, based on esoteric writings, that is traditionally secret",
                 "example": "Our human resources manual is a bit of a kabala.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -6046,8 +6411,7 @@
                 "id": "54bd572f72657423919aa904",
                 "def": "an esoteric or occult matter resembling the mystical Jewish teachings, based on esoteric writings, that is traditionally secret",
                 "example": "Our human resources manual is a bit of a kabala.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -6134,6 +6498,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "matter of fact"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -6420,8 +6798,7 @@
             {
                 "id": "54bd573872657423917bca04",
                 "def": "four performers or singers who perform together",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd573872657423917cca04",
@@ -6465,7 +6842,6 @@
             {
                 "id": "54bd5738726574239181ca04",
                 "def": "any group of four",
-                "example": "",
                 "speech_part": "noun",
                 "synonyms": [
                     "quadruple"
@@ -6489,8 +6865,7 @@
             {
                 "id": "54bd5738726574239185ca04",
                 "def": "a musical composition for five performers",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd5738726574239186ca04",
@@ -6511,8 +6886,7 @@
             {
                 "id": "54bd5738726574239188ca04",
                 "def": "five performers or singers who perform together",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd5738726574239189ca04",
@@ -6540,8 +6914,7 @@
             {
                 "id": "54bd5738726574239185ca04",
                 "def": "a musical composition for five performers",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd5738726574239186ca04",
@@ -6562,8 +6935,7 @@
             {
                 "id": "54bd5738726574239188ca04",
                 "def": "five performers or singers who perform together",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd5738726574239189ca04",
@@ -6690,7 +7062,21 @@
                 "id": "54bd573e7265742391dce104",
                 "def": "an abrupt transition of an electron, atom, or molecule from one quantum state to another with the emission or absorption of a quantum",
                 "example": "During the reaction the outermost electron underwent a quantum jump, which was monitored by the physicist.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -6766,6 +7152,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "tremor"
+                ],
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -6775,6 +7167,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "quiver"
+                ],
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -6963,8 +7361,7 @@
             {
                 "id": "54bd57487265742391db0805",
                 "def": "Australian tree with edible flesh and edible nutlike seed",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -6976,8 +7373,7 @@
                 "id": "54bd57487265742391e20805",
                 "def": "red Australian fruit",
                 "example": "I ate some quantong jam.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -7001,8 +7397,7 @@
             {
                 "id": "54bd57487265742391ec0805",
                 "def": "small Asian tree with pinkish flowers and pear-shaped fruit",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -7014,8 +7409,7 @@
                 "id": "54bd574a7265742391611005",
                 "def": "fresh unripened cheese of a smooth texture made from pasteurized milk, a starter, and rennet",
                 "example": "Quark is very popular in Germany.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd574a7265742391621005",
@@ -7252,7 +7646,25 @@
                 "id": "54bd57557265742391013705",
                 "def": "a local court with criminal jurisdiction and sometimes administrative functions",
                 "example": "We'll have to wait until the quarter sessions next week to find out if you do owe me that money!",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "UK",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -7291,8 +7703,7 @@
                 "id": "562ffe116f6e2b0085000506",
                 "def": "a situation that is difficult to reslove",
                 "example": "The military was in a logistical quagmire after their supply line was broken.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd576a7265742391198405",
@@ -7343,8 +7754,7 @@
             {
                 "id": "54bd576b7265742391b28705",
                 "def": "a starlike object that may send out radio waves and other forms of energy",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -7399,7 +7809,13 @@
             {
                 "id": "54bd57707265742391699a05",
                 "def": "a person of 1/4th African descent and 3/4th of European descent; dated racial term, considered offensive today",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -7418,7 +7834,13 @@
             {
                 "id": "54bd57707265742391699a05",
                 "def": "a person of 1/4th African descent and 3/4th of European descent; dated racial term, considered offensive today",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -7437,7 +7859,13 @@
             {
                 "id": "54bd57707265742391699a05",
                 "def": "a person of 1/4th African descent and 3/4th of European descent; dated racial term, considered offensive today",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -7576,6 +8004,16 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "kook"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -7601,6 +8039,16 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "kook"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -7781,7 +8229,13 @@
                 "id": "54bd57837265742391ade105",
                 "def": "any of several public officials of ancient Rome, usually in charge of finance and administration",
                 "example": "Our local quaestor is known to skim money.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -7801,7 +8255,17 @@
                 "id": "54bd57837265742391b0e105",
                 "def": "a person who drinks heartily",
                 "example": "The people who run this site are real quaffers.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -7820,8 +8284,7 @@
             {
                 "id": "54bd57837265742391b3e105",
                 "def": "one who quakes and trembles with (or as with) fear",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -8067,8 +8530,8 @@
                 "def": "the host or chairman of a radio or tv quiz show or panel game",
                 "speech_part": "noun",
                 "synonyms": [
-                    "quiz master",
-                    "quizmaster"
+                    "quizmaster",
+                    "quiz master"
                 ]
             }
         ]
@@ -8186,7 +8649,21 @@
                 "id": "54bd57837265742391ffe105",
                 "def": "woman who has given birth to a viable infant in each of five pregnancies",
                 "example": "There was little concern about the sixth birth for the quintipara.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -8242,8 +8719,7 @@
             {
                 "id": "54bd57b9726574239122a006",
                 "def": "European grass spreading rapidly by creeping rhizomes",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -8296,8 +8772,7 @@
                 "id": "54bd57cf7265742391d2ef06",
                 "def": "handsome South American shrub or small tree having bright scarlet flowers and yielding a valuable fine-grained yellowish wood",
                 "example": "Quassia is a fine looking plant.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57cf7265742391d4ef06",
@@ -8343,8 +8818,7 @@
                 "id": "54bd57d27265742391fcfb06",
                 "def": "woody flowering vine of southern United States",
                 "example": "We have quarter-vine on our property.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -8834,6 +9308,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "hundredweight"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -8977,8 +9457,7 @@
                 "id": "54bd57ec7265742391d35007",
                 "def": "a four-dimensional hypercomplex number that consists of a real dimension and 3 imaginary ones (i, j, k) that are each a square root of -1",
                 "example": "Quaternions are used often in vector mathematics.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -9037,6 +9516,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "quadric"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "mathematical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -9061,14 +9554,23 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "rest"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "euphemistic",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
                 "id": "56325d7ffad02f0097000f6b",
                 "def": "something that quiets or silences",
                 "example": "We need a quietus for these accusations.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -9188,7 +9690,21 @@
                 "id": "54bd57fd7265742391288d07",
                 "def": "paralysis of both arms and both legs",
                 "example": "Quadriplegia poses many difficulties.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -9209,7 +9725,21 @@
                 "id": "54bd57fd72657423919d8c07",
                 "def": "blindness in one fourth of the visual field",
                 "example": "The patient was born with quadrantanopia, which makes driving impractical.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -9233,6 +9763,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "erratic"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -9242,6 +9778,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "mercury"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -9265,6 +9815,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "erratic"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -9274,6 +9830,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "mercury"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -9344,8 +9914,7 @@
                 "id": "54bd5805726574239115a907",
                 "def": "colorless glass made of almost pure silica",
                 "example": "My watch face is made of quartz glass.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -9399,7 +9968,29 @@
                 "id": "54bd580c726574239189c207",
                 "def": "quarter days were the four dates in each year on which servants were hired, school terms started, and rents were due, falling on four religious festivals roughly three months apart and close to the two solstices and two equinoxes",
                 "example": "My lease payments are due on quarter days.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "UK",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    },
+                    {
+                        "name": "Irish",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -9573,7 +10164,13 @@
                 "id": "54bd58107265742391b2ce07",
                 "def": "a period during a parliamentary session when members of British Parliament may ask questions of the ministers",
                 "example": "Question time was quite raucous last week.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    }
+                ]
             }
         ],
         "editors": [
@@ -9794,6 +10391,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "hush"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -9803,6 +10406,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "quiet"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -9812,6 +10421,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "quiet"
+                ],
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -9990,6 +10605,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "absent"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -10008,6 +10629,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "step down"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -10059,6 +10686,20 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "quest for"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -10082,6 +10723,20 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "apprehend"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -10106,6 +10761,32 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "queue"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "UK",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -10153,6 +10834,24 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "quiet"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -10160,7 +10859,24 @@
                 "def": "to make someone or something become quieter",
                 "example": "You need to quiet down that motor to make it street legal.",
                 "speech_part": "verb",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -10238,7 +10954,12 @@
                 "def": "to act excited in an effeminate way, primarily used in Queer culture",
                 "example": "I totally queen out whenever I see a famous person.",
                 "speech_part": "verb",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -10258,16 +10979,22 @@
             {
                 "id": "5670eca0f40df500030000bc",
                 "def": "a dense growth of bushes; a thicket ",
-                "example": "",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "UK",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             },
             {
                 "id": "5670eca1f40df500030000c0",
                 "def": "a patch of untillable land characterized by such thickets",
-                "example": "",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [

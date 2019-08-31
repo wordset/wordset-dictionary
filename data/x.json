@@ -30,6 +30,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "yellow"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -66,6 +72,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "twenty-eight"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -88,6 +100,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "ten"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -119,6 +137,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "twenty-nine"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -142,6 +166,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "eleven"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -169,6 +199,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "thirty"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -213,6 +249,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "twelve"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -235,6 +277,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "thirty-two"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -257,6 +305,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "thirty-three"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -279,6 +333,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "thirteen"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -301,6 +361,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "thirty-four"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -323,6 +389,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "fourteen"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -345,6 +417,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "thirty-five"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -367,6 +445,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "thirty-six"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -389,6 +473,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "fifteen"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -411,6 +501,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "thirty-seven"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -433,6 +529,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "sixteen"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -453,7 +555,12 @@
                 "id": "54bd56487265742391755601",
                 "def": "the Roman numeral for 38",
                 "speech_part": "adjective",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -475,6 +582,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "seventeen"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -497,6 +610,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "forty"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -541,6 +660,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "nineteen"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -563,6 +688,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "forty-two"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -585,6 +716,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "twenty"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -607,6 +744,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "forty-three"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -629,6 +772,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "forty-four"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -651,6 +800,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "twenty-one"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -673,6 +828,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "forty-five"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -695,6 +856,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "twenty-two"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -717,6 +884,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "forty-six"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -739,6 +912,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "forty-seven"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -758,10 +937,15 @@
             {
                 "id": "54bd56487265742391d25501",
                 "def": "the Roman numeral for 23",
-                "example": "",
                 "speech_part": "adjective",
                 "synonyms": [
                     "twenty-three"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -784,6 +968,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "forty-eight"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -803,7 +993,6 @@
             {
                 "id": "54bd56487265742391df5501",
                 "def": "the Roman numeral for 24",
-                "example": "",
                 "speech_part": "adjective",
                 "synonyms": [
                     "twenty-four"
@@ -829,6 +1018,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "twenty-five"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -851,6 +1046,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "twenty-six"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -873,6 +1074,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "ninety"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -895,6 +1102,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "ninety-one"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -917,6 +1130,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "one hundred ninety"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -939,6 +1158,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     null
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -958,9 +1183,7 @@
             {
                 "id": "54bd56497265742391a55801",
                 "def": "nintey-four in Roman numerals",
-                "example": "",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ],
         "editors": [
@@ -982,6 +1205,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "ninety-five"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -1004,6 +1233,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "ninety-six"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -1049,6 +1284,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "ninety-eight"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -1071,7 +1312,13 @@
                 "id": "54bd565372657423910c7b01",
                 "def": "being deficient in moisture",
                 "example": "The Sahara desert is a xeric environment – it rarely rains there.",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -1111,7 +1358,21 @@
                 "id": "54bd56537265742391a77b01",
                 "def": "denoting or relating to cells or tissues from individuals belonging to different species",
                 "example": "The xenogenic reactions of trees and mosses is quite fascinating.",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -1131,7 +1392,29 @@
                 "id": "54bd566572657423917bb401",
                 "def": "relating to genes or characteristics or conditions carried on the X chromosome",
                 "example": "I think it might be an X-linked mutation.",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -1211,7 +1494,29 @@
                 "id": "54bd568a7265742391a03d02",
                 "def": "radiography using X-rays and xerographic techniques",
                 "example": "The radiologist specialized in xeroradiography.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -1250,6 +1555,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "xenotransplant"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -1270,7 +1589,21 @@
                 "id": "54bd56977265742391127002",
                 "def": "bacteria producing yellow non-water-soluble pigments",
                 "example": "I cultured a flask full of xanthomonad.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -1394,8 +1727,7 @@
             {
                 "id": "54bd56fe726574239116f103",
                 "def": "a copy made by a xerographic printer",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56fe726574239118f103",
@@ -1451,10 +1783,15 @@
             {
                 "id": "54bd56fe726574239124f103",
                 "def": "gate for exclusive OR, used in circuit design",
-                "example": "",
                 "speech_part": "noun",
                 "synonyms": [
                     "X-OR circuit"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -1474,7 +1811,21 @@
             {
                 "id": "54bd57107265742391e93504",
                 "def": "smallest of the three parts of the breastbone",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -1517,7 +1868,21 @@
                 "id": "54bd57217265742391fe7604",
                 "def": "the horizontal axis in a plane coordinate system",
                 "example": "We marked the x-axis with the number of visitors that the museum received.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "mathematical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -1536,8 +1901,21 @@
             {
                 "id": "54bd576c7265742391ab8d05",
                 "def": "a piece of rock of different origin from the igneous rock in which it is embedded",
-                "example": "",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -1580,6 +1958,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "alternation of generations"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -1672,6 +2064,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "desert plant"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -1692,7 +2098,21 @@
                 "id": "54bd57dc7265742391ea1b07",
                 "def": "the woody part of plants: the supporting and water-conducting tissue, consisting primarily of tracheids and vessels",
                 "example": "The xylem carries water up into the tree.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -1711,7 +2131,21 @@
             {
                 "id": "54bd57f67265742391927407",
                 "def": "xanthoma of the eyelids",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -1731,7 +2165,21 @@
                 "id": "54bd57f67265742391957407",
                 "def": "a skin problem marked by the development of irregular yellow nodules on the eyelids, neck and back",
                 "example": "The patient is suffering from xanthoma.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -1750,7 +2198,21 @@
             {
                 "id": "54bd57f67265742391987407",
                 "def": "rare chronic xanthoma of adults in which orange or brownish papules develop on many surfaces of the body",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -1789,6 +2251,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "xanthomatosis"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -1809,7 +2285,21 @@
                 "id": "54bd57f67265742391aa7407",
                 "def": "an abnormal yellow discoloration of the skin",
                 "example": "The child was so unhealthy that the skin displayed xanthosis.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -1872,6 +2362,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "dryness"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -1908,6 +2404,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "xeroderma"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -1927,7 +2437,21 @@
             {
                 "id": "54bd57fd7265742391528b07",
                 "def": "a rare genetic condition characterized by an eruption of exposed skin occurring in childhood and photosensitivity with severe sunburn",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -1965,6 +2489,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "xerophthalmia"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -1988,6 +2526,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "xerophthalmia"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -2025,6 +2577,28 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "carotenemia"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -2045,8 +2619,7 @@
                 "id": "54bd58007265742391609607",
                 "def": "a colorless, odorless, inert gaseous element occurring in the earth's atmosphere in trace amounts",
                 "example": "The canister was filled with xenon.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -2086,6 +2659,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "xanthophyll"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -2105,7 +2692,21 @@
             {
                 "id": "54bd580b726574239152be07",
                 "def": "a salt or ester of xanthic acid",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -2124,7 +2725,21 @@
             {
                 "id": "54bd580b726574239155be07",
                 "def": "any of a class of unstable organic acids containing sulphur",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -2144,7 +2759,21 @@
                 "id": "54bd580b726574239158be07",
                 "def": "crystalline oxidation product of the metabolism of nucleoproteins",
                 "example": "Once generated from guanine, xanthine is often turned into uric acid.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -2167,6 +2796,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "wood sugar"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -2186,7 +2829,21 @@
             {
                 "id": "54bd580b7265742391c6bd07",
                 "def": "a brown-to-yellow mineral that is a phosphate of yttrium in crystalline form",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -2223,6 +2880,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "xylene"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],

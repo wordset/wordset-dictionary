@@ -335,6 +335,20 @@
                     "mightily",
                     "powerful",
                     "right"
+                ],
+                "labels": [
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "US",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "American",
+                            "is_dialect": true
+                        }
+                    }
                 ]
             },
             {
@@ -1020,8 +1034,7 @@
                 "id": "54bd55e57265742391111a00",
                 "def": "in a moral manner",
                 "example": "The teens acted morally under the circumstances.",
-                "speech_part": "adverb",
-                "synonyms": []
+                "speech_part": "adverb"
             }
         ],
         "editors": [
@@ -1137,7 +1150,21 @@
                 "id": "54bd55e57265742391761a00",
                 "def": "to a significant degree",
                 "example": "It aided them materially in winning the argument.",
-                "speech_part": "adverb"
+                "speech_part": "adverb",
+                "labels": [
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "US",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "American",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -1202,8 +1229,7 @@
                 "id": "561c29971c96904dc0000002",
                 "def": "relating to general medicine or its practice; used to distinguish from things relating to surgery",
                 "example": "Medically trained nurses take care of patients in the hospital but do not work in the operating rooms.",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ],
         "editors": [
@@ -1367,8 +1393,7 @@
             {
                 "id": "54bd55e77265742391882300",
                 "def": "in a similar way",
-                "speech_part": "adverb",
-                "synonyms": []
+                "speech_part": "adverb"
             }
         ]
     },
@@ -5209,6 +5234,16 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "drive"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -5218,6 +5253,20 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "centrifugal"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -6324,8 +6373,8 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "miasmic",
-                    "vaporous",
-                    "vapourous"
+                    "vapourous",
+                    "vaporous"
                 ]
             }
         ]
@@ -6622,6 +6671,20 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "mixable"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -8234,8 +8297,7 @@
             {
                 "id": "54bd562172657423911bd000",
                 "def": "offering fun and gaiety",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             },
             {
                 "id": "54bd562172657423911cd000",
@@ -11890,7 +11952,13 @@
                 "id": "54bd56357265742391a31301",
                 "def": "a university student who is studying a particular field as the principal subject",
                 "example": "I am a major in liguistics.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    }
+                ]
             },
             {
                 "id": "54bd56357265742391a61301",
@@ -14727,8 +14795,8 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "improvised",
-                    "jury-rigged",
-                    "jerry-rigged"
+                    "jerry-rigged",
+                    "jury-rigged"
                 ]
             },
             {
@@ -15051,14 +15119,44 @@
             {
                 "id": "54bd563f72657423919e3501",
                 "def": "in former medical usage, having a mental age of between eight and twelve years",
-                "example": "",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "55e4878f35393200b6760000",
                 "def": "stupid or mentally deficient, used as an insult",
-                "example": "",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "offensive",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -15133,6 +15231,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "short"
+                ],
+                "labels": [
+                    {
+                        "name": "euphemistic",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -19112,8 +19216,7 @@
                 "id": "5612d5c70184950094000006",
                 "def": "a person or being from Mars",
                 "example": "The Martian did not understand our humor.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -19773,7 +19876,21 @@
                 "id": "54bd5661726574239106a501",
                 "def": "of or relating to heart muscle",
                 "example": "I just had a minor myocardial infarct.",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -19803,7 +19920,21 @@
                 "id": "54bd566172657423910ca501",
                 "def": "of or relating to or caused by myotonia, the prolonged contraction of muscles",
                 "example": "The myotonic patient was unable to loosen up their muscles.",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -19934,8 +20065,7 @@
                 "id": "55f8637765623600b6990100",
                 "def": "a person from Mexico or of Mexican descent",
                 "example": "The Mexican wore a wrestling costume.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -20672,15 +20802,13 @@
                 "id": "5610617734333600b6560000",
                 "def": "the Mongolian language",
                 "example": "Mongolian is spoken in Mongolia and parts of China.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "5610617734333600b6570000",
                 "def": "a person from Mongolia or of Mongolian descent",
                 "example": "The Mongolians spread as far west as Europe.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -20806,8 +20934,7 @@
                 "id": "5647c216c015f80085004c54",
                 "def": "a person from Moscow",
                 "example": "The Muscovite was a gracious host.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -21326,6 +21453,12 @@
                 "synonyms": [
                     "manoeuvre",
                     "manoeuver"
+                ],
+                "labels": [
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    }
                 ]
             }
         ],
@@ -21780,8 +21913,8 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "brand",
-                    "stigmatize",
                     "stigmatise",
+                    "stigmatize",
                     "denounce"
                 ]
             }
@@ -22270,6 +22403,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "chemical mechanism"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -23076,8 +23223,7 @@
                 "id": "54bd566f7265742391d2d701",
                 "def": "a fellow member of a team",
                 "example": "It was my first start against my former teammates.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd566f7265742391d4d701",
@@ -23091,6 +23237,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "fellow"
+                ],
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    }
                 ]
             },
             {
@@ -24880,8 +25032,8 @@
                     "clear",
                     "gain",
                     "take in",
-                    "realise",
                     "realize",
+                    "realise",
                     "pull in",
                     "bring in",
                     "earn"
@@ -26227,7 +26379,13 @@
                 "id": "55b28039323231193b060000",
                 "def": "to attack with the hands or handheld not projectile weapon, typically in video games",
                 "example": "I meleed my friend ten times in a row.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -27868,7 +28026,13 @@
                 "id": "54bd568772657423917b3402",
                 "def": "a large bite",
                 "example": "I tried to talk between munches on the sandwich.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd568772657423917e3402",
@@ -27998,7 +28162,21 @@
                 "id": "54bd56887265742391513602",
                 "def": "hybridization using a single trait with two alleles, as in Mendel's experiments with garden peas",
                 "example": "That flower is a monohybrid cross.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -29164,6 +29342,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "trap play"
+                ],
+                "labels": [
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "US",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "American",
+                            "is_dialect": true
+                        }
+                    }
                 ]
             },
             {
@@ -30792,8 +30984,7 @@
             {
                 "id": "54bd56947265742391e36302",
                 "def": "the combination of two or more commercial companies",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56947265742391e46302",
@@ -34560,7 +34751,13 @@
                 "id": "54bd56b97265742391beec02",
                 "def": "to manipulate the mouse of a computer",
                 "example": "I moused over the window in order to close it.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd56b97265742391bfec02",
@@ -34569,6 +34766,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "creep"
+                ],
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -35046,6 +35249,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "elk"
+                ],
+                "labels": [
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    }
                 ]
             }
         ],
@@ -35730,8 +35939,7 @@
             {
                 "id": "54bd56c07265742391890703",
                 "def": "flesh of scaleless food fish of the southern United States",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -37776,7 +37984,21 @@
                 "id": "54bd56e57265742391079403",
                 "def": "a scientific instrument that registers magnetic variations, especially variations of the earth's magnetic field",
                 "example": "The scientist used a magnetograph to track differences in magnetism.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -38858,8 +39080,7 @@
             {
                 "id": "54bd56e57265742391819303",
                 "def": "a waterproof raincoat made of rubberized fabric",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56e57265742391829303",
@@ -38919,8 +39140,7 @@
             {
                 "id": "54bd56e57265742391859303",
                 "def": "a waterproof raincoat made of rubberized fabric",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -38945,8 +39165,7 @@
             {
                 "id": "54bd56e57265742391889303",
                 "def": "a waterproof raincoat made of rubberized fabric",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -39715,8 +39934,7 @@
             {
                 "id": "54bd56e57265742391d69303",
                 "def": "(computer science) a memory device consisting of a flat disk covered with a magnetic coating on which information is stored",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -39727,8 +39945,7 @@
             {
                 "id": "54bd56e57265742391d99303",
                 "def": "(computer science) a memory device consisting of a flat disk covered with a magnetic coating on which information is stored",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -42813,6 +43030,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "gel"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -43614,6 +43837,16 @@
                 "synonyms": [
                     "mimeo",
                     "mimeograph machine"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -43623,6 +43856,16 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "mimeo"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -46728,14 +46971,12 @@
             {
                 "id": "54bd56e87265742391d09d03",
                 "def": "a theater in which vaudeville is staged",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56e87265742391d19d03",
                 "def": "a variety show with songs and comic acts etc.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -47008,8 +47249,7 @@
             {
                 "id": "54bd56ec726574239180af03",
                 "def": "mercantile establishment consisting of a carefully landscaped complex of shops representing leading merchandisers",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56ec726574239181af03",
@@ -51681,8 +51921,7 @@
             {
                 "id": "54bd57107265742391443604",
                 "def": "large elongated squash with creamy to deep green skins",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57107265742391453604",
@@ -51974,7 +52213,21 @@
                 "id": "54bd57107265742391e63504",
                 "def": "the upper part of the sternum",
                 "example": "The manubrium and body of the sternum are separated by the angle of Louis.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -52298,8 +52551,7 @@
             {
                 "id": "54bd57127265742391563e04",
                 "def": "either of two cerebral veins",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -52310,8 +52562,7 @@
             {
                 "id": "54bd57137265742391c03f04",
                 "def": "posterior continuation of the pterygoid plexus",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -52379,6 +52630,28 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "bicuspid valve"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -52513,8 +52786,7 @@
             {
                 "id": "54bd57137265742391c63f04",
                 "def": "veins at accompany the meningeal arteries",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -52525,8 +52797,7 @@
             {
                 "id": "54bd57137265742391cc3f04",
                 "def": "a tributary of the portal vein passing from the intestine between the two layers of mesentery",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -52537,8 +52808,7 @@
             {
                 "id": "54bd57137265742391d23f04",
                 "def": "dorsal and palmar veins of the hand",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -52549,8 +52819,7 @@
             {
                 "id": "54bd57137265742391d83f04",
                 "def": "dorsal and plantar branches of veins serving the metatarsal region of the foot",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -52561,8 +52830,7 @@
             {
                 "id": "54bd57137265742391de3f04",
                 "def": "veins that drain the upper abdominal wall and the lower intercostal spaces and the abdomen",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -53373,7 +53641,29 @@
                 "id": "54bd571672657423915d4c04",
                 "def": "the inner part of an organ or structure in plant or animal",
                 "example": "The renal medulla is the innermost part of the kidneys.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd571672657423915e4c04",
@@ -54172,8 +54462,7 @@
             {
                 "id": "54bd57187265742391ae5404",
                 "def": "rhomboid muscle that draws the scapula toward the spinal column",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -54577,7 +54866,21 @@
                 "id": "54bd57197265742391f35704",
                 "def": "attention or notice",
                 "example": "Don't pay them any mind.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "US",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "American",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd57197265742391f55704",
@@ -54757,8 +55060,7 @@
             {
                 "id": "54bd571a7265742391515c04",
                 "def": "the ability to feel movements of the limbs and body",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -55783,7 +56085,13 @@
                 "id": "54bd571e7265742391b56a04",
                 "def": "a traditional notion that is obstinately held although it is unreasonable",
                 "example": "They still hold to the old mumpsimus that a woman's place is in the kitchen.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -59650,8 +59958,7 @@
             {
                 "id": "54bd5731726574239167b104",
                 "def": "a mistake in printed matter resulting from mechanical failures of some kind",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd5731726574239169b104",
@@ -63754,7 +64061,13 @@
                 "id": "54bd57467265742391a5ff04",
                 "def": "a British dandy in the 18th century who affected Continental mannerisms",
                 "example": "Yankee Doodle stuck a feather in a cap and called it macaroni.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    }
+                ]
             }
         ],
         "editors": [
@@ -66102,8 +66415,7 @@
             {
                 "id": "54bd57507265742391a22505",
                 "def": "the academic department responsible for teaching music and music appreciation",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -66605,8 +66917,7 @@
             {
                 "id": "54bd57537265742391893005",
                 "def": "an organization of musicians who perform together",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -67622,8 +67933,7 @@
             {
                 "id": "54bd57587265742391c64305",
                 "def": "a point equidistant from the ends of a line or the extremities of a figure",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -68475,6 +68785,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "sight"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -69262,7 +69578,13 @@
             {
                 "id": "54bd57707265742391669a05",
                 "def": "the of a black and a white parent; offensive in any modern use",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -72606,7 +72928,17 @@
                 "id": "54bd577e7265742391d3d005",
                 "def": "a single individual, usually used in the idiom 'every man jack'",
                 "example": "Every man jack will quit if you fire the beloved boss.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -74055,7 +74387,13 @@
                 "id": "54bd577f72657423916ed405",
                 "def": "a marauder and plunderer, originally operating in the bogs between England and Scotland",
                 "example": "The moss-trooper stole all the parliamentarian's money.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -75029,8 +75367,7 @@
             {
                 "id": "54bd577f7265742391e1d205",
                 "def": "the emperor of Japan",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -76532,8 +76869,7 @@
             {
                 "id": "54bd57a772657423912f6306",
                 "def": "low shrubby pine of central Europe with short bright green needles in bunches of two",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57a77265742391306306",
@@ -76561,8 +76897,7 @@
             {
                 "id": "54bd57a77265742391376306",
                 "def": "low shrubby pine of central Europe with short bright green needles in bunches of two",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -76573,8 +76908,7 @@
             {
                 "id": "54bd57a772657423913a6306",
                 "def": "low shrubby pine of central Europe with short bright green needles in bunches of two",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -76928,8 +77262,7 @@
             {
                 "id": "54bd57aa7265742391a16b06",
                 "def": "with ovules borne on the wall along the ventral suture of a simple ovary",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -77900,8 +78233,7 @@
             {
                 "id": "54bd57b27265742391918706",
                 "def": "annual or biennial cress growing in damp places sometimes used in salads or as a potherb",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -78156,8 +78488,7 @@
             {
                 "id": "54bd57b572657423917b9206",
                 "def": "any of various coarse shrubby plants of the genus Iva with small greenish flowers",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -79474,8 +79805,7 @@
             {
                 "id": "54bd57c0726574239157b906",
                 "def": "evergreen South American shrub naturalized in United States",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -80244,8 +80574,7 @@
             {
                 "id": "54bd57c8726574239101d806",
                 "def": "scrambling perennial Eurasian wild pea having yellowish flowers and compressed seed pods",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -81056,8 +81385,7 @@
             {
                 "id": "54bd57d07265742391d9f506",
                 "def": "common nonpoisonous shrub of eastern North America with compound leaves and green paniculate flowers followed by red berries",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -81456,8 +81784,7 @@
             {
                 "id": "54bd57d47265742391850107",
                 "def": "any of various aromatic herbs of the genus Monarda",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -83343,7 +83670,13 @@
                 "id": "54bd57e67265742391c13d07",
                 "def": "the transduction of sound waves into electrical waves by a microphone",
                 "example": "Our sound technicians make sure there are no issues with the presenter's microphoning, so the whole auditorium can hear the speech.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -83538,7 +83871,21 @@
                 "id": "54bd57e67265742391fe3d07",
                 "def": "regeneration on a reduced scale of a body part",
                 "example": "The hydra underwent morphallaxis when I cut off one of its heads.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -84861,6 +85208,24 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "sight"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "UK",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    }
                 ]
             }
         ],
@@ -85211,6 +85576,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "inclination"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -85433,16 +85812,12 @@
             {
                 "id": "5656168ee962000003000014",
                 "def": "an unsuitable alliance",
-                "example": "",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "56561692e962000003000017",
                 "def": "an unsuitable alliance",
-                "example": "",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -85468,16 +85843,12 @@
             {
                 "id": "5656168ee962000003000014",
                 "def": "an unsuitable alliance",
-                "example": "",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "56561692e962000003000017",
                 "def": "an unsuitable alliance",
-                "example": "",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -85503,16 +85874,12 @@
             {
                 "id": "5656168ee962000003000014",
                 "def": "an unsuitable alliance",
-                "example": "",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "56561692e962000003000017",
                 "def": "an unsuitable alliance",
-                "example": "",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -86040,7 +86407,21 @@
                 "id": "54bd57f27265742391226807",
                 "def": "a sudden and severe instance of abnormal heart function resulting from the lack of blood flow to a part of the heart",
                 "example": "The doctors had to hook me up to an EKG to determine that I had a heart attack.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -87196,6 +87577,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "cancer"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -87660,6 +88055,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "myodynia"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -87683,6 +88092,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "myalgia"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -89350,8 +89773,7 @@
             {
                 "id": "54bd57ff7265742391279407",
                 "def": "a light silver-white ductile bivalent metallic element",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -89362,8 +89784,7 @@
             {
                 "id": "54bd57ff7265742391309407",
                 "def": "a hard brittle grey polyvalent metallic element that resembles iron but is not magnetic",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -89399,8 +89820,7 @@
             {
                 "id": "54bd57ff72657423915d9407",
                 "def": "a polyvalent metallic element that resembles chromium and tungsten in its properties",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -93111,8 +93531,8 @@
                 "def": "make into a myth",
                 "speech_part": "verb",
                 "synonyms": [
-                    "mythicize",
-                    "mythicise"
+                    "mythicise",
+                    "mythicize"
                 ]
             },
             {
@@ -93146,8 +93566,8 @@
                 "def": "make into a myth",
                 "speech_part": "verb",
                 "synonyms": [
-                    "mythicize",
-                    "mythicise"
+                    "mythicise",
+                    "mythicize"
                 ]
             },
             {
@@ -94405,8 +94825,8 @@
                 "def": "convert from a non-metric to the metric system",
                 "speech_part": "verb",
                 "synonyms": [
-                    "metricize",
-                    "metricise"
+                    "metricise",
+                    "metricize"
                 ]
             },
             {
@@ -94425,8 +94845,8 @@
                 "def": "convert from a non-metric to the metric system",
                 "speech_part": "verb",
                 "synonyms": [
-                    "metricize",
-                    "metricise"
+                    "metricise",
+                    "metricize"
                 ]
             }
         ]
@@ -95146,8 +95566,8 @@
                 "def": "produce virilism in or cause to assume masculine characteristics, as through a hormonal imbalance or hormone therapy",
                 "speech_part": "verb",
                 "synonyms": [
-                    "virilise",
-                    "virilize"
+                    "virilize",
+                    "virilise"
                 ]
             }
         ],
@@ -95176,8 +95596,8 @@
                 "def": "produce virilism in or cause to assume masculine characteristics, as through a hormonal imbalance or hormone therapy",
                 "speech_part": "verb",
                 "synonyms": [
-                    "virilise",
-                    "virilize"
+                    "virilize",
+                    "virilise"
                 ]
             }
         ],
@@ -95789,7 +96209,25 @@
                 "id": "54bd581e726574239116ff07",
                 "def": "to search for a location and directions by means of the MapQuest program",
                 "example": "You can just mapquest the restaurant.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -97163,8 +97601,7 @@
                 "id": "54bd58287265742391df2008",
                 "def": "to stimulate sexually",
                 "example": "I was told at a young age that masturbating another person was inappropriate.",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             }
         ],
         "editors": [
@@ -97591,6 +98028,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "rubricate"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -97724,7 +98167,21 @@
                 "id": "54bd582b7265742391772e08",
                 "def": "to force one's way",
                 "example": "I muscled into the crowd to find my friends.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -97870,6 +98327,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "slam dance"
+                ],
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -98402,8 +98865,7 @@
                 "id": "54bd582f7265742391f63b08",
                 "def": "to relegate to a lower or outer edge, as of specific groups of people",
                 "example": "We must not marginalize the poor in our society.",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             }
         ],
         "editors": [
@@ -98428,8 +98890,7 @@
                 "id": "54bd582f7265742391f63b08",
                 "def": "to relegate to a lower or outer edge, as of specific groups of people",
                 "example": "We must not marginalize the poor in our society.",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             }
         ],
         "editors": [
@@ -98980,8 +99441,7 @@
                 "id": "5612d317c5a9ff000300002e",
                 "def": "when a male takes up more space than necessary in public",
                 "example": "I couldn't find a seat on the bus because there was so much manspreading.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -99001,8 +99461,7 @@
                 "id": "5612d324c5a9ff000300004b",
                 "def": "similar to anniversary but based on months rather than years",
                 "example": "Today is the fifth monthiversary of my first date with Chirstal!",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -99025,7 +99484,24 @@
                 "def": "to phone someone's mobile without the intent of answering, but to show a missed call, either to avoid contact or as a sign of affection",
                 "example": "I miss call my spouse a few times a day.",
                 "speech_part": "verb",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "Indian",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -99055,8 +99531,7 @@
                 "id": "566f5f7356e25f000300000a",
                 "def": "a portmanteau of man and landscaping, the grooming of a man and in particular their body hair",
                 "example": "My hairy friend's manscaping was always well a source of pride.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -99087,15 +99562,13 @@
                 "id": "566f61aa56e25f0003000057",
                 "def": "having the qualities of a metrosexual",
                 "example": "Many beauty salons now accomodate metrosexual customers for waxing.",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             },
             {
                 "id": "566f61aa56e25f0003000058",
                 "def": "a straight man having the careful grooming and fashion habits typically associated with gay men",
                 "example": "I was in the salon with a metrosexual getting a manicure.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -99115,8 +99588,7 @@
                 "id": "568e818a2ebee8000300003d",
                 "def": "a typographic symbol used to draw the reader's attention",
                 "example": "The typesetter preferred manicules to changes of font when emphasizing small notes in the text.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -99136,15 +99608,13 @@
                 "id": "569aedb2b0e4640003000018",
                 "def": "meek or timid",
                 "example": "I tried not to be the milquetoast spouse that some people thought I was.",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             },
             {
                 "id": "569aedb2b0e4640003000019",
                 "def": "a person that is meek or timid",
                 "example": "The milquetoast was compelled to act.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [

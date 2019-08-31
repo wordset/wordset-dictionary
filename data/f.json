@@ -1010,6 +1010,12 @@
                 "speech_part": "adverb",
                 "synonyms": [
                     "plumb"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -1339,9 +1345,9 @@
                 "def": "being satisfactory or in satisfactory condition",
                 "speech_part": "adjective",
                 "synonyms": [
+                    "okeh",
                     "o.k.",
                     "ok",
-                    "okeh",
                     "okay"
                 ]
             },
@@ -4991,6 +4997,12 @@
                 "speech_part": "adverb",
                 "synonyms": [
                     "very well"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -7980,15 +7992,13 @@
                 "id": "54bd56057265742391df7a00",
                 "def": "tangled, especially referring to a ship's lines",
                 "example": "The fouled rigging had to be cut off.",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             },
             {
                 "id": "54bd56057265742391e07a00",
                 "def": "made dirty or foul",
                 "example": "We washed the soot off the fouled building.",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ],
         "editors": [
@@ -12312,8 +12322,7 @@
             {
                 "id": "54bd5626726574239134df00",
                 "def": "(of an arrow) equipped with feathers",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             },
             {
                 "id": "54bd5626726574239135df00",
@@ -14696,8 +14705,7 @@
                 "id": "54bd56327265742391bf0801",
                 "def": "offering fun and gaiety",
                 "example": "a festive (or festal) occasion",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ]
     },
@@ -14709,15 +14717,13 @@
                 "id": "54bd56327265742391c30801",
                 "def": "offering fun and gaiety, often associated with a holiday",
                 "example": "There were many festive parties in the run up to Christmas.",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             },
             {
                 "id": "55ef646a39343000bdc10000",
                 "def": "in a mood to celebrate",
                 "example": "I'm feeling festive – let's invite all our friends over.",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ],
         "editors": [
@@ -16361,6 +16367,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "fabulous"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -17221,6 +17233,24 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "flip out"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "US",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "American",
+                            "is_dialect": true
+                        }
+                    }
                 ]
             },
             {
@@ -17845,8 +17875,7 @@
             {
                 "id": "54bd56487265742391915601",
                 "def": "being one more than forty",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ]
     },
@@ -17965,8 +17994,7 @@
             {
                 "id": "54bd56487265742391c15401",
                 "def": "being one more than four",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             },
             {
                 "id": "54bd56487265742391c35401",
@@ -21038,15 +21066,13 @@
                 "id": "56297d10088f120085001551",
                 "def": "the Finnish language",
                 "example": "Finnish is very different from most European languages.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "56297d10088f120085001552",
                 "def": "collectively, the people of Finland",
                 "example": "The Finnish have very well trained teachers.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -21788,8 +21814,7 @@
             {
                 "id": "54bd566672657423915eb701",
                 "def": "establish or impress firmly in the mind",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             },
             {
                 "id": "54bd566672657423915fb701",
@@ -21797,8 +21822,8 @@
                 "example": "social groups form everywhere",
                 "speech_part": "verb",
                 "synonyms": [
-                    "organise",
-                    "organize"
+                    "organize",
+                    "organise"
                 ]
             },
             {
@@ -22539,7 +22564,6 @@
             {
                 "id": "54bd56687265742391b0c001",
                 "def": "a wrong action attributable to bad judgment, ignorance, or inattention",
-                "example": "",
                 "speech_part": "noun",
                 "synonyms": [
                     "mistake"
@@ -22570,7 +22594,13 @@
                 "id": "54bd56687265742391b6c001",
                 "def": "in electronics, equipment failure attributable to some defect in a circuit, such as a loose connection, insulation failure or short circuit",
                 "example": "It took much longer to find the fault than to fix it.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd56687265742391b8c001",
@@ -22583,6 +22613,20 @@
                     "fracture",
                     "faulting",
                     "geological fault"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             },
             {
@@ -23252,7 +23296,13 @@
                 "id": "54bd566a7265742391c2c701",
                 "def": "the application of maximum thrust",
                 "example": "I moved the throttle to the firewall.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd566a7265742391c4c701",
@@ -24250,7 +24300,21 @@
                 "id": "54bd566e72657423915dd501",
                 "def": "something craved, especially an intravenous injection of a narcotic drug",
                 "example": "They needed a fix of chocolate after abstaining from sweets.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd566e72657423915fd501",
@@ -24264,6 +24328,12 @@
                     "pickle",
                     "muddle",
                     "kettle of fish"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -26957,7 +27027,21 @@
                 "id": "54bd5678726574239166fb01",
                 "def": "the condition of a file that is broken up and stored in many different locations on a magnetic disk",
                 "example": "Fragmentation slows system performance because it takes extra time to locate and assemble the parts of the fragmented file.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd5678726574239168fb01",
@@ -28199,8 +28283,8 @@
                 "def": "a game resembling ice hockey that is played on an open field",
                 "speech_part": "noun",
                 "synonyms": [
-                    "hockey",
-                    "hockey game"
+                    "hockey game",
+                    "hockey"
                 ]
             }
         ]
@@ -28797,8 +28881,8 @@
                 "def": "make a mathematical calculation or computation",
                 "speech_part": "verb",
                 "synonyms": [
-                    "cipher",
                     "cypher",
+                    "cipher",
                     "work out",
                     "reckon",
                     "calculate",
@@ -30916,8 +31000,7 @@
             {
                 "id": "54bd56877265742391513202",
                 "def": "an ornamental coating to a building",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -31030,6 +31113,28 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "shag"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "offensive",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             },
             {
@@ -31062,6 +31167,28 @@
                     "lie with",
                     "have a go at it",
                     "get it on"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "offensive",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -33324,8 +33451,8 @@
                     "fetich",
                     "hoodoo",
                     "juju",
-                    "voodoo",
-                    "vodoun"
+                    "vodoun",
+                    "voodoo"
                 ]
             },
             {
@@ -33717,8 +33844,7 @@
             {
                 "id": "54bd56967265742391316b02",
                 "def": "battle in World War I (1914)",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -36445,8 +36571,7 @@
                 "id": "54bd56bd7265742391f0fc02",
                 "def": "musteline mammal of prairie regions of United States",
                 "example": "The farm was filled with ferrets.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56bd7265742391f2fc02",
@@ -36455,19 +36580,37 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "ferret out"
+                ],
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
                 "id": "54bd56bd7265742391f4fc02",
                 "def": "to hunt with ferrets",
                 "example": "I often go ferreting on the weekends.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd56bd7265742391f5fc02",
                 "def": "to hound or harry relentlessly",
                 "example": "The child ferreted their parents for an ice-cream.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -38989,6 +39132,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "faggot"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -40826,8 +40975,7 @@
             {
                 "id": "54bd56da72657423919f6b03",
                 "def": "delicate and intricate ornamentation, usually in gold or silver or other fine twisted wire",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56da7265742391a16b03",
@@ -40852,8 +41000,7 @@
             {
                 "id": "54bd56da72657423919f6b03",
                 "def": "delicate and intricate ornamentation, usually in gold or silver or other fine twisted wire",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56da7265742391a16b03",
@@ -40878,8 +41025,7 @@
             {
                 "id": "54bd56da72657423919f6b03",
                 "def": "delicate and intricate ornamentation, usually in gold or silver or other fine twisted wire",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56da7265742391a16b03",
@@ -41984,8 +42130,7 @@
             {
                 "id": "54bd56da7265742391e56a03",
                 "def": "a bow used in playing the violin",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -46139,7 +46284,21 @@
                 "id": "54bd56dc7265742391307203",
                 "def": "the atmospheric phenomenon created at the boundary between two different air masses",
                 "example": "A front passed through, bringing with it a sudden thunderstorm.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd56dc7265742391317203",
@@ -46497,7 +46656,13 @@
                 "id": "54bd56dc7265742391547203",
                 "def": "the yard in front of a house",
                 "example": "I cut my grass in the front yard over the weekend.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    }
+                ]
             }
         ],
         "editors": [
@@ -48059,8 +48224,7 @@
             {
                 "id": "54bd56e67265742391c19803",
                 "def": "someone who intervenes with authorities for a person in trouble (usually using underhand or illegal methods for a fee)",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56e67265742391c29803",
@@ -49407,8 +49571,8 @@
                 "example": "Please format this disk before entering data!",
                 "speech_part": "verb",
                 "synonyms": [
-                    "initialize",
-                    "initialise"
+                    "initialise",
+                    "initialize"
                 ]
             },
             {
@@ -49638,8 +49802,7 @@
                 "id": "54bd570172657423911afe03",
                 "def": "direct one's attention on something",
                 "example": "Please focus on your studies and not on your hobbies",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             },
             {
                 "id": "54bd570172657423911cfe03",
@@ -50522,8 +50685,7 @@
             {
                 "id": "54bd57047265742391630804",
                 "def": "originality by virtue of being refreshingly novel",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57047265742391640804",
@@ -51428,8 +51590,7 @@
             {
                 "id": "54bd57097265742391661c04",
                 "def": "greatness of volume",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57097265742391671c04",
@@ -52137,7 +52298,6 @@
             {
                 "id": "54bd570c7265742391b92504",
                 "def": "the distance from a lens to its focus",
-                "example": "",
                 "speech_part": "noun",
                 "synonyms": [
                     "focal length"
@@ -53224,8 +53384,7 @@
             {
                 "id": "54bd57127265742391073f04",
                 "def": "a vein that accompanies the femoral artery in the same sheath",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -53265,8 +53424,7 @@
             {
                 "id": "54bd57127265742391013f04",
                 "def": "any of several veins draining the face",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -54201,7 +54359,12 @@
                 "def": "the signature style of a Morse code operator",
                 "example": "The enemy was able to identify the ship by the radio operator's distinct fist.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd571872657423917f5304",
@@ -54860,8 +55023,7 @@
             {
                 "id": "54bd571b72657423914c6104",
                 "def": "the perception of body position and movement and muscular tensions etc",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -56190,7 +56352,21 @@
             {
                 "id": "54bd57237265742391ea7b04",
                 "def": "the branch of chemistry that studies elementary chemical reactions that occur within one femtosecond; one quadrillionth of a second",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -56764,8 +56940,7 @@
             {
                 "id": "54bd57277265742391818c04",
                 "def": "(computer science) the name given to a computer file in order to distinguish it from other files",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -58402,7 +58577,25 @@
                 "id": "54bd57317265742391f3b004",
                 "def": "used only in combinations to show the height or length of something in feet",
                 "example": "They are a six-footer.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "US",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "American",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -58493,7 +58686,20 @@
                 "def": "a radix numeration system in which the location of the decimal point is fixed by convention",
                 "example": "I wrote the formula in fixed-point notation.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "mathematical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -59048,9 +59254,9 @@
                 "synonyms": [
                     "family",
                     "family line",
-                    "kinsfolk",
                     "kin",
                     "kinfolk",
+                    "kinsfolk",
                     "sept",
                     "phratry"
                 ]
@@ -62998,8 +63204,7 @@
             {
                 "id": "54bd574d7265742391ca1a05",
                 "def": "a person having kinship with another or others",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -63337,7 +63542,13 @@
                 "id": "54bd574f7265742391bf2005",
                 "def": "the domain controlled by a feudal lord",
                 "example": "The fiefdom covered over one hundred acres.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -63662,6 +63873,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "garden party"
+                ],
+                "labels": [
+                    {
+                        "name": "formal",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -65932,7 +66149,20 @@
                 "def": "a dessert made by combining custard and a fruit puree",
                 "example": "Dessert will be a strawberry fool.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "UK",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd577572657423915aae05",
@@ -65976,7 +66206,6 @@
             {
                 "id": "54bd577572657423915fae05",
                 "def": "to spend frivolously and unwisely",
-                "example": "",
                 "speech_part": "verb",
                 "synonyms": [
                     "shoot"
@@ -67004,7 +67233,13 @@
                 "id": "556cb4dd6639660095600000",
                 "def": "an athlete who plays football",
                 "example": "Mesut Özil is my favourite footballer.",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    }
+                ]
             },
             {
                 "id": "54bd577972657423914ebf05",
@@ -67013,6 +67248,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "football player"
+                ],
+                "labels": [
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "US",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "American",
+                            "is_dialect": true
+                        }
+                    }
                 ]
             }
         ],
@@ -67085,10 +67334,15 @@
             {
                 "id": "54bd5779726574239154bf05",
                 "def": "a highwayman who robs on foot",
-                "example": "",
                 "speech_part": "noun",
                 "synonyms": [
                     "padder"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -67375,7 +67629,25 @@
                 "id": "54bd577972657423916fbe05",
                 "def": "someone whose duty was to watch for fires caused by bombs dropped from the air during World War II",
                 "example": "The fire watcher patrolled the streets of London.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "UK",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -69572,8 +69844,8 @@
                 "def": "a competitor thought likely to win",
                 "speech_part": "noun",
                 "synonyms": [
-                    "favorite",
-                    "favourite"
+                    "favourite",
+                    "favorite"
                 ]
             }
         ]
@@ -69728,8 +70000,7 @@
             {
                 "id": "54bd577a7265742391c8c005",
                 "def": "an acrobat who performs on a tightrope or slack rope",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -70860,8 +71131,7 @@
             {
                 "id": "54bd57a47265742391975906",
                 "def": "a pale light sometimes seen at night over marshy ground",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -72171,8 +72441,7 @@
             {
                 "id": "54bd57b37265742391ad8a06",
                 "def": "a variety of pussytoes",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -75292,8 +75561,7 @@
             {
                 "id": "54bd57d97265742391661207",
                 "def": "the taxonomic kingdom including yeast, molds, smuts, mushrooms, and toadstools",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -75698,8 +75966,7 @@
             {
                 "id": "54bd57de7265742391862107",
                 "def": "east Asian fern having fronds shaped like tongues",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -76585,7 +76852,21 @@
             {
                 "id": "54bd57e57265742391783b07",
                 "def": "the emission of electrons that are stripped from parent atoms by a high electric field",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -76683,7 +76964,21 @@
                 "id": "54bd57e57265742391913b07",
                 "def": "the process of flocculating",
                 "example": "I put the chemical through flocculation before going to bed.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -77309,7 +77604,21 @@
                 "id": "54bd57e97265742391044707",
                 "def": "a unit of potential equal to one quadrillionth of a volt, or one thousandth of a nanosecond",
                 "example": "We need forty femtovolts to power this device.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -77716,6 +78025,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "bugger all"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "offensive",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -78125,8 +78448,7 @@
             {
                 "id": "54bd57ef7265742391f65b07",
                 "def": "the state of being friends (or friendly)",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -78824,8 +79146,7 @@
             {
                 "id": "54bd57f67265742391347707",
                 "def": "alveolitis caused by an allergic reaction to fungal spores in the dust that is inhaled from moldy hay",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -79639,6 +79960,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     null
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -79658,7 +79993,8 @@
         "wordset_id": "54bd57fe72657423918c8e07",
         "labels": [
             {
-                "name": "informal"
+                "name": "informal",
+                "is_dialect": false
             }
         ],
         "meanings": [
@@ -79669,6 +80005,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     null
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -79712,8 +80062,7 @@
             {
                 "id": "54bd57ff7265742391529307",
                 "def": "a radioactive transuranic metallic element produced by bombarding plutonium with neutrons",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -79724,8 +80073,7 @@
             {
                 "id": "54bd57ff72657423915b9307",
                 "def": "a nonmetallic univalent element belonging to the halogens",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -79736,8 +80084,7 @@
             {
                 "id": "54bd57ff7265742391619307",
                 "def": "a radioactive element of the alkali-metal group discovered as a disintegration product of actinium",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -81507,8 +81854,7 @@
             {
                 "id": "54bd580b7265742391f6bd07",
                 "def": "oxide of zinc",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -82583,8 +82929,8 @@
                 "def": "convert into the form or the style of a novel",
                 "speech_part": "verb",
                 "synonyms": [
-                    "novelize",
-                    "novelise"
+                    "novelise",
+                    "novelize"
                 ]
             },
             {
@@ -82623,8 +82969,8 @@
                 "def": "convert into the form or the style of a novel",
                 "speech_part": "verb",
                 "synonyms": [
-                    "novelize",
-                    "novelise"
+                    "novelise",
+                    "novelize"
                 ]
             },
             {
@@ -88102,13 +88448,41 @@
                 "id": "54bd583172657423911f4308",
                 "def": "to form into an aggregated lumpy or fluffy mass",
                 "example": "The protoplasms flocculated quickly.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd58317265742391214308",
                 "def": "to cause to become a fluffy or lumpy aggregate",
                 "example": "The chemist flocculated the suspended material.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -88228,21 +88602,56 @@
                 "def": "to make a mess of, destroy or ruin",
                 "example": "Be careful to not fuck it up.",
                 "speech_part": "verb",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "567442a07cc6db000300009e",
                 "def": "a person who makes a mess of things",
                 "example": "You are such a fuck up!",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "56787279cd82190003000052",
                 "def": "a person who makes a mess of things",
                 "example": "You are such a fuck up!",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -88488,8 +88897,7 @@
             {
                 "id": "54bd58327265742391bf4408",
                 "def": "center upon",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             }
         ]
     },
@@ -88529,7 +88937,17 @@
                 "id": "554cf6a73761330003c00100",
                 "def": "about to be fired or removed from one's position",
                 "example": "When their party lost the election, the leader was for the chop.",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    }
+                ]
             }
         ],
         "editors": [
@@ -88549,7 +88967,29 @@
                 "id": "55902662396666008a820000",
                 "def": "an expression of support, enthusiasm, or celebration",
                 "example": "Far out, I never knew that!",
-                "speech_part": "interjection"
+                "speech_part": "interjection",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "US",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "American",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -88569,8 +89009,7 @@
                 "id": "5612d31ac5a9ff0003000036",
                 "def": "rock climbing without the assistance of equipment placed in to the rock face",
                 "example": "They wanted more of a challenge, so they went free climbing.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -88591,8 +89030,7 @@
                 "id": "5612d336c5a9ff0003000074",
                 "def": "a trinket or collectible",
                 "example": "The family's most valued set of finnimbruns is of silver spoons dating back to the eighteenth century.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -88612,8 +89050,7 @@
                 "id": "56297d11088f120097000226",
                 "def": "a person from Finland or of Finnish descent",
                 "example": "The Finn had a famous tolerance for the cold.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -88633,7 +89070,12 @@
                 "id": "563514b5e4ec4c0097000056",
                 "def": "a moving control surface on an aircraft wing that fulfills the function of an aileron and a flap",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -88654,8 +89096,7 @@
                 "id": "564f3709d78e780085004eba",
                 "def": "a member of the fraternal organization the Freemasons",
                 "example": "I recently became a Freemason.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -88675,8 +89116,7 @@
                 "id": "564f3710d78e780095000755",
                 "def": "the fraternal organization tracing its roots to ancient stone masons",
                 "example": "The Freemasons have a secret handshake.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -88697,7 +89137,16 @@
                 "def": "perfectly styled or manicured",
                 "example": "You must have just come from the salon, because your eyebrows are on fleek!",
                 "speech_part": "adjective",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [

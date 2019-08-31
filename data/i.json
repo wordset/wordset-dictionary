@@ -1718,8 +1718,17 @@
             {
                 "id": "54bd55e47265742391e21700",
                 "def": "regardless",
-                "example": "",
-                "speech_part": "adverb"
+                "speech_part": "adverb",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    }
+                ]
             }
         ],
         "editors": [
@@ -2413,8 +2422,7 @@
                 "id": "54bd55e67265742391701f00",
                 "def": "in a relatively short time",
                 "example": "The student finished the assignment in no time.",
-                "speech_part": "adverb",
-                "synonyms": []
+                "speech_part": "adverb"
             }
         ],
         "editors": [
@@ -7797,7 +7805,21 @@
                 "id": "54bd55f97265742391f15800",
                 "def": "not progressing or increasing, usually referring to a disease or pathogen",
                 "example": "The blood tests showed that the virus was inactive.",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd55f97265742391f25800",
@@ -7846,7 +7868,21 @@
                 "id": "54bd55f97265742391f75800",
                 "def": "not participating in a chemical reaction",
                 "example": "The ideal compound for the procedure would be inactive.",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -10236,8 +10272,7 @@
             {
                 "id": "54bd560d7265742391a99100",
                 "def": "(of color) having the highest saturation",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             },
             {
                 "id": "54bd560d7265742391aa9100",
@@ -11239,6 +11274,20 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "inviolate"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             },
             {
@@ -13584,6 +13633,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "wink"
+                ],
+                "labels": [
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    }
                 ]
             },
             {
@@ -19078,6 +19133,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "bittie"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -20976,6 +21037,20 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "insoluble"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -22153,8 +22228,7 @@
             {
                 "id": "54bd56437265742391694601",
                 "def": "a heavy ductile magnetic metallic element",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd564372657423916b4601",
@@ -23497,7 +23571,21 @@
                 "id": "54bd56507265742391467001",
                 "def": "having made no legally valid will before death or not disposed of by a legal will",
                 "example": "They died intestate so we had to deal with the courts to resolve some issues of the inheritance.",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -24210,7 +24298,21 @@
                 "id": "54bd56577265742391468701",
                 "def": "located or occurring between the ribs",
                 "example": "My intercostal muscles hurt a little.",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd56577265742391498701",
@@ -25332,15 +25434,13 @@
                 "id": "55f0a76e33313100b6210000",
                 "def": "the Italian language",
                 "example": "Learning Italian is easier with a background in Latin.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "55f1c0b333313100b62d0100",
                 "def": "a person from Italy or of Italian descent",
                 "example": "The Italian spoke quickly to their family.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -26375,8 +26475,7 @@
             {
                 "id": "54bd56697265742391fcc301",
                 "def": "dye (fabric) before it is spun",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             },
             {
                 "id": "54bd56697265742391fdc301",
@@ -26399,8 +26498,7 @@
                 "id": "54bd56697265742391ffc301",
                 "def": "mark or stamp with or as if with pressure",
                 "example": "To make a batik, you impress a design with wax",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             }
         ],
         "editors": [
@@ -27592,7 +27690,29 @@
                 "id": "54bd5670726574239126dd01",
                 "def": "the process whereby nerves can retard or prevent the functioning of an organ or part",
                 "example": "The inhibition of the heart by the vagus nerve is an important transmission.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -27955,8 +28075,7 @@
             {
                 "id": "54bd5672726574239142e301",
                 "def": "a part of a published serial",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd5672726574239143e301",
@@ -28003,8 +28122,7 @@
             {
                 "id": "54bd5672726574239142e301",
                 "def": "a part of a published serial",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd5672726574239143e301",
@@ -28113,7 +28231,21 @@
                 "id": "54bd56727265742391dae201",
                 "def": "inducing the childbirth process artificially by administering oxytocin or by puncturing the amniotic sac",
                 "example": "With the baby already overdue, the doctor scheduled an induction of labor.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -28550,6 +28682,12 @@
                 "synonyms": [
                     "instillment",
                     "instilment"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -29657,8 +29795,8 @@
                 "def": "a game played on an ice rink by two opposing teams of six skaters each who try to knock a flat round puck into the opponents' goal with angled sticks",
                 "speech_part": "noun",
                 "synonyms": [
-                    "hockey",
-                    "hockey game"
+                    "hockey game",
+                    "hockey"
                 ]
             }
         ]
@@ -33517,6 +33655,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "immobilisation"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -35938,7 +36090,13 @@
                 "id": "54bd56e17265742391318503",
                 "def": "In computer science, a register used to determine the address of an operand.",
                 "example": "We were able to find the source of the code bug by following its index register.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -37852,7 +38010,6 @@
             {
                 "id": "54bd56e17265742391e98403",
                 "def": "a device produced by pressure on a surface",
-                "example": "",
                 "speech_part": "noun"
             },
             {
@@ -37865,8 +38022,7 @@
                 "id": "54bd56e17265742391ec8403",
                 "def": "an impression produced by pressure or printing",
                 "example": "I used a stamp to make an imprint of my address on the envelope.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56e17265742391ed8403",
@@ -37878,22 +38034,19 @@
                 "id": "54bd56e17265742391ee8403",
                 "def": "a concavity in a surface produced by pressing",
                 "example": "I left an imprint on the chair where I had been sitting.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56e17265742391f08403",
                 "def": "to mark or stamp with or as if with pressure",
                 "example": "I imprinted the logo onto the letter.",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             },
             {
                 "id": "54bd56e17265742391f18403",
                 "def": "to establish or impress firmly in the mind",
                 "example": "We imprint our ideas onto our children.",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             }
         ],
         "editors": [
@@ -41250,8 +41403,7 @@
             {
                 "id": "54bd57047265742391af0704",
                 "def": "a lack of competence",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -43540,21 +43692,33 @@
                 "id": "54bd570c7265742391df2704",
                 "def": "lack of an adequate quantity or number",
                 "example": "There was an insufficiency of seats at the meeting.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd570c7265742391e02704",
                 "def": "inability of a bodily part or organ to function normally",
                 "example": "The insufficiency of the lungs was no doubt due to years of smoking.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd570c7265742391e12704",
                 "def": "a lack of competence",
                 "example": "The group's insufficiency meant they failed the task at hand.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -44609,8 +44773,7 @@
             {
                 "id": "54bd571072657423914e3704",
                 "def": "a main organ that is situated inside the body",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -44778,8 +44941,7 @@
             {
                 "id": "54bd571272657423914a3e04",
                 "def": "veins that drain the undersurface of the cerebral hemispheres and empty into the cavernous and transverse sinuses",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -44804,8 +44966,7 @@
             {
                 "id": "54bd571272657423914f3f04",
                 "def": "a vein that drains the end of the ileum and the appendix and the cecum and the lower part of the ascending colon",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -44816,8 +44977,7 @@
             {
                 "id": "54bd57127265742391503e04",
                 "def": "two paired veins passing caudally near the midline and uniting to form the great cerebral vein",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -44828,8 +44988,7 @@
             {
                 "id": "54bd571272657423915b3f04",
                 "def": "one of three veins draining the pelvic area",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -44840,8 +44999,7 @@
             {
                 "id": "54bd57127265742391613f04",
                 "def": "a branch of the internal iliac vein",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -44866,8 +45024,7 @@
             {
                 "id": "54bd57127265742391673f04",
                 "def": "veins connecting the dorsal and palmar veins of the hand or the dorsal and plantar veins of the foot",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -44915,8 +45072,7 @@
             {
                 "id": "54bd571272657423916d3f04",
                 "def": "several veins draining the intercostal spaces of the rib cage",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -44941,8 +45097,7 @@
             {
                 "id": "54bd57127265742391733f04",
                 "def": "one of several veins accompanying spinal nerves",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -45020,8 +45175,7 @@
             {
                 "id": "54bd57127265742391903f04",
                 "def": "a tributary of the facial vein that drains the lower lip",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -45113,8 +45267,7 @@
             {
                 "id": "54bd57127265742391d43e04",
                 "def": "empties into the external iliac vein",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -45233,8 +45386,7 @@
             {
                 "id": "54bd57137265742391744004",
                 "def": "either of two pulmonary veins (left and right) returning blood from the inferior lobes of the lungs",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -45498,7 +45650,21 @@
                 "id": "54bd57177265742391314f04",
                 "def": "hymen that is completely closed so that menstrual blood cannot flow out",
                 "example": "The patient has a imperforate hymen.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -47208,8 +47374,7 @@
             {
                 "id": "54bd571f7265742391ae6e04",
                 "def": "a pale light sometimes seen at night over marshy ground",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -49288,8 +49453,7 @@
             {
                 "id": "54bd57337265742391f0b604",
                 "def": "the 26th letter of the Roman alphabet",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -51284,8 +51448,7 @@
             {
                 "id": "54bd57537265742391632f05",
                 "def": "a labor union that admits all workers in a given industry irrespective of their craft",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -53546,8 +53709,7 @@
             {
                 "id": "54bd577c726574239175ca05",
                 "def": "someone who advises others how to invest their money",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -54977,8 +55139,7 @@
             {
                 "id": "54bd57aa7265742391f96c06",
                 "def": "evergreen Asian tree with aromatic greenish-yellow flowers yielding a volatile oil",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57aa7265742391fa6c06",
@@ -55137,8 +55298,7 @@
             {
                 "id": "54bd57b772657423917d9806",
                 "def": "any of various plants of the genus Vernonia of tropical and warm regions of especially North America that take their name from their loose heads of purple to rose flowers that quickly take on a rusty hue",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -55696,7 +55856,21 @@
                 "id": "54bd57e07265742391082a07",
                 "def": "intangible property that is the result of creativity such as patents, trademarks, or copyrights",
                 "example": "The corporation was very protective of its intellectual property.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -55842,6 +56016,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "incidental"
+                ],
+                "labels": [
+                    {
+                        "name": "formal",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -56424,6 +56604,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "intumescence"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -57677,7 +57863,21 @@
                 "id": "54bd57ef7265742391f95d07",
                 "def": "the ability to develop an immune response following exposure to an antigen",
                 "example": "This patient shows remarkable immunocompetence.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -58602,6 +58802,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "infarction"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -58844,6 +59058,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "spastic colon"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -59639,8 +59867,7 @@
             {
                 "id": "54bd57ff7265742391d09307",
                 "def": "a rare soft silvery metallic element",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -59687,8 +59914,7 @@
             {
                 "id": "54bd57ff7265742391e59307",
                 "def": "a heavy brittle metallic element of the platinum group",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -61213,6 +61439,20 @@
                     "knock up",
                     "bang up",
                     "prang up"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             },
             {
@@ -62969,8 +63209,8 @@
                 "def": "make personal or more personal",
                 "speech_part": "verb",
                 "synonyms": [
-                    "personalize",
-                    "personalise"
+                    "personalise",
+                    "personalize"
                 ]
             },
             {
@@ -63004,8 +63244,8 @@
                 "def": "make personal or more personal",
                 "speech_part": "verb",
                 "synonyms": [
-                    "personalize",
-                    "personalise"
+                    "personalise",
+                    "personalize"
                 ]
             },
             {
@@ -63214,8 +63454,7 @@
             {
                 "id": "54bd581a726574239130f207",
                 "def": "to put down by force or authority",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             },
             {
                 "id": "54bd581a726574239131f207",
@@ -64171,8 +64410,8 @@
                 "def": "draw from specific cases for more general cases",
                 "speech_part": "verb",
                 "synonyms": [
-                    "generalize",
-                    "generalise"
+                    "generalise",
+                    "generalize"
                 ]
             }
         ]
@@ -64931,7 +65170,13 @@
                 "id": "54bd581f7265742391f70208",
                 "def": "to place into a mutual relationship",
                 "example": "I cannot interrelate these two events.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd581f7265742391f90208",
@@ -64940,6 +65185,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "relate"
+                ],
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -65471,8 +65722,8 @@
                 "def": "convert ordinary language into code",
                 "speech_part": "verb",
                 "synonyms": [
-                    "cipher",
-                    "cypher"
+                    "cypher",
+                    "cipher"
                 ]
             },
             {
@@ -67848,7 +68099,8 @@
         "wordset_id": "56415d85b52791009700001c",
         "labels": [
             {
-                "name": "informal"
+                "name": "informal",
+                "is_dialect": false
             }
         ],
         "meanings": [
@@ -67856,22 +68108,25 @@
                 "id": "56415d86b52791009700001d",
                 "def": "an expression of surprise and disgust",
                 "example": "Ick, that is so gross!",
-                "speech_part": "interjection",
-                "synonyms": []
+                "speech_part": "interjection"
             },
             {
                 "id": "56415d86b52791009700001e",
                 "def": "to evoke a feeling of disgust",
                 "example": "That scene of the movie really icked me.",
                 "speech_part": "verb",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "56415d86b52791009700001f",
                 "def": "a disgusting, and possibly sticky, object or substance. ",
                 "example": "I tried to wipe the ick off my pants.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -67891,8 +68146,7 @@
                 "id": "568c0d15f90ea90003000080",
                 "def": "a less common typographic character that combines the question mark with exclamation mark, often used to convey questioning surprise",
                 "example": "The sentence ended with an interrobang.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [

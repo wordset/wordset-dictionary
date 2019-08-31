@@ -240,8 +240,21 @@
             {
                 "id": "54bd562c726574239117f600",
                 "def": "of bird feet, having the first and fourth toes directed backward the second and third forward",
-                "example": "",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -271,7 +284,13 @@
                 "id": "54bd562e72657423918ffd00",
                 "def": "a buffoon in one of the old comedies, or someone who is a stupid incompetent fool",
                 "example": "The zany is funny.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -330,8 +349,8 @@
                 "def": "a mathematical element that when added to another number yields the same number",
                 "speech_part": "noun",
                 "synonyms": [
-                    "cipher",
                     "cypher",
+                    "cipher",
                     "nought"
                 ]
             },
@@ -532,6 +551,20 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "bilaterally symmetrical"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -581,7 +614,21 @@
                 "id": "54bd565572657423913d8201",
                 "def": "pertaining to animals or animal life or action",
                 "example": "There is zoic evidence in the fossil record.",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -629,7 +676,29 @@
                 "id": "54bd565c7265742391549701",
                 "def": "of or relating to a zygote",
                 "example": "The zygotic cells travel trough the Fallopian tubes.",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -760,8 +829,7 @@
                 "id": "5621147decc3550166000a76",
                 "def": "a person from Zimbabwe or of Zimbabwean descent",
                 "example": "The Zimbabwean was born on the high veld.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -898,8 +966,13 @@
             {
                 "id": "54bd5665726574239196b401",
                 "def": "resembling an enzyme",
-                "example": "",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -1212,7 +1285,21 @@
                 "id": "54bd56987265742391897202",
                 "def": "animal constituent of plankton",
                 "example": "The zooplankton were thriving in the toxin-free environment.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -1257,8 +1344,7 @@
             {
                 "id": "54bd56997265742391657602",
                 "def": "flagellate protozoan lacking photosynthesis and other plant-like characteristics",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -1969,6 +2055,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "zygoma"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -2003,7 +2103,21 @@
             {
                 "id": "54bd571972657423919e5704",
                 "def": "thick membrane around the mammalian ovum",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -2074,6 +2188,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "zone"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -2188,7 +2316,21 @@
                 "id": "54bd57217265742391047704",
                 "def": "the third axis in a 3-dimensional coordinate system",
                 "example": "The line needs to be drawn on the z-axis.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "mathematical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -2209,7 +2351,21 @@
                 "id": "54bd57217265742391047704",
                 "def": "the third axis in a 3-dimensional coordinate system",
                 "example": "The line needs to be drawn on the z-axis.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "mathematical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -2268,8 +2424,7 @@
                 "id": "54bd57237265742391ca7b04",
                 "def": "the branch of biology that studies animals",
                 "example": "I studied zoology for two semesters before I changed majors.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57237265742391cb7b04",
@@ -2426,8 +2581,7 @@
                 "id": "54bd57337265742391e0b604",
                 "def": "the 26th letter of the Roman alphabet",
                 "example": "The British call 'Z' zed, and the Scots call it ezed, but Americans call it zee.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -2448,8 +2602,7 @@
                 "id": "54bd57337265742391e0b604",
                 "def": "the 26th letter of the Roman alphabet",
                 "example": "The British call 'Z' zed, and the Scots call it ezed, but Americans call it zee.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -2476,8 +2629,7 @@
                 "id": "54bd57337265742391e0b604",
                 "def": "the 26th letter of the Roman alphabet",
                 "example": "The British call 'Z' zed, and the Scots call it ezed, but Americans call it zee.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -2540,7 +2692,13 @@
                 "id": "54bd5739726574239168cf04",
                 "def": "use of a word to govern two or more words though appropriate to only one",
                 "example": "'The Pickwicks took their hats and their leave' is an example of zeugma.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "formal",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -2562,7 +2720,21 @@
                 "id": "54bd573d7265742391c9dc04",
                 "def": "a striking, amusing or caustic remark",
                 "example": "I always greet people with a new zinger.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -2916,8 +3088,7 @@
                 "id": "5622923c03bbac00980002f7",
                 "def": "highest point, peak",
                 "example": "We reached the zenith exhausted but triumphant.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd575b7265742391ce4c05",
@@ -3043,7 +3214,21 @@
                 "id": "54bd57a77265742391a36006",
                 "def": "an asexual spore of some algae and fungi that moves by means of flagella",
                 "example": "The zoospores were only visible with a microscope.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -3085,8 +3270,7 @@
             {
                 "id": "54bd57ad7265742391357406",
                 "def": "any of various trees or shrubs having mottled or striped wood",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57ad7265742391367406",
@@ -3102,7 +3286,21 @@
             {
                 "id": "54bd57e07265742391a62907",
                 "def": "a plant spore formed by two similar sexual cells",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -3159,8 +3357,7 @@
             {
                 "id": "54bd57e47265742391303707",
                 "def": "a security that makes no interest payments but instead is sold at a deep discount from its face value",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -3171,7 +3368,21 @@
             {
                 "id": "54bd57e77265742391604107",
                 "def": "the second stage of the prophase of meiosis",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -3217,6 +3428,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "zymosis"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -3259,6 +3484,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "zettabyte"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -3279,7 +3518,13 @@
                 "id": "54bd57e87265742391f34507",
                 "def": "a unit of information equal to 1000 exabits or 10^21 bits",
                 "example": "Hard drives are not yet capable of storing zettabits of data, but future hardware technology may one day allow such storage possibilities.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -3363,6 +3608,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "nothing"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -3386,6 +3637,16 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "nothing"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -3457,6 +3718,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "herpes zoster"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -3560,7 +3835,21 @@
                 "id": "54bd57fa7265742391c58107",
                 "def": "visual hallucination of animals",
                 "example": "Zoopsia caused the patient to act very strangely.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -3622,8 +3911,7 @@
             {
                 "id": "54bd58007265742391759607",
                 "def": "a bluish-white lustrous metallic element",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd58007265742391779607",
@@ -3639,8 +3927,7 @@
             {
                 "id": "54bd58007265742391809607",
                 "def": "a lustrous grey strong metallic element resembling titanium",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -3654,6 +3941,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "proenzyme"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -3678,7 +3979,20 @@
                 "def": "any toxin that comes from an animal",
                 "example": "The rattlesnake's zootoxin can induce necrosis and impaired coagulation.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -3698,7 +4012,13 @@
                 "id": "54bd580b72657423911abe07",
                 "def": "a mica containing iron and lithium",
                 "example": "The zinnwaldite was found in an underground quartz vein.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -3718,8 +4038,7 @@
                 "id": "54bd580b72657423911dbe07",
                 "def": "a common mineral occurring in small crystals",
                 "example": "chief source of zirconium",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -3768,7 +4087,21 @@
                 "id": "54bd580b7265742391d8bd07",
                 "def": "any of a family of glassy minerals analogous to feldspar containing hydrated aluminum silicates of calcium or sodium or potassium",
                 "example": "The zeolite was easy to identify for the amateur geologist.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -3808,7 +4141,21 @@
                 "id": "54bd58107265742391d9cf07",
                 "def": "to fall asleep fast, as when one is extremely tired",
                 "example": "I zonked out after my 18 hour shift.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd58107265742391dacf07",
@@ -3818,6 +4165,20 @@
                 "synonyms": [
                     "pass out",
                     "black out"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -3874,6 +4235,20 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "zip"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -3897,6 +4272,20 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "fly by"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -3940,7 +4329,21 @@
                 "id": "54bd582e7265742391bc3508",
                 "def": "to examine closely",
                 "example": "I zoomed in on the photo.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [

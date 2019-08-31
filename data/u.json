@@ -9322,13 +9322,33 @@
                 "id": "54bd560972657423912c8700",
                 "def": "very uncertain",
                 "example": "They left everything up in the air.",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd560972657423912e8700",
                 "def": "not yet determined",
                 "example": "Our plans are still up in the air.",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -11210,7 +11230,6 @@
             {
                 "id": "54bd561372657423911da200",
                 "def": "eminent beyond or above comparison",
-                "example": "",
                 "speech_part": "adjective",
                 "synonyms": [
                     "nonpareil"
@@ -11241,7 +11260,6 @@
             {
                 "id": "54bd561372657423911da200",
                 "def": "eminent beyond or above comparison",
-                "example": "",
                 "speech_part": "adjective",
                 "synonyms": [
                     "nonpareil"
@@ -11469,6 +11487,20 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "immiscible"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -16161,6 +16193,20 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "clear"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -17019,8 +17065,7 @@
             {
                 "id": "54bd562472657423910bda00",
                 "def": "not fair",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ]
     },
@@ -24271,8 +24316,7 @@
                 "id": "54bd56397265742391f02001",
                 "def": "not objective or easily verified",
                 "example": "The unobjective evidence was rejected in court.",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ],
         "editors": [
@@ -24292,8 +24336,7 @@
             {
                 "id": "54bd56397265742391f32001",
                 "def": "(of e.g. evidence) not objective or easily verified",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ]
     },
@@ -31965,6 +32008,20 @@
                 "synonyms": [
                     "sum",
                     "join"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "mathematical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             },
             {
@@ -33254,15 +33311,13 @@
                 "id": "5609a28c6239304bb21d0000",
                 "def": "the Ukrainian language",
                 "example": "My lessons in Ukrainian were progressing nicely.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "5609a28c6239304bb21e0000",
                 "def": "a person from Ukraine or of Ukrainian descent",
                 "example": "My boss was a proud Ukrainian that liked to decorate the office in blue and yellow.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -35141,8 +35196,8 @@
                 "def": "an exorbitant or unlawful rate of interest",
                 "speech_part": "noun",
                 "synonyms": [
-                    "vigorish",
-                    "vig"
+                    "vig",
+                    "vigorish"
                 ]
             }
         ]
@@ -35879,8 +35934,8 @@
                 "def": "gauge consisting of an instrument to measure the quantity of precipitation",
                 "speech_part": "noun",
                 "synonyms": [
-                    "rain gauge",
-                    "rain gage"
+                    "rain gage",
+                    "rain gauge"
                 ]
             }
         ]
@@ -39449,8 +39504,7 @@
             {
                 "id": "54bd57137265742391434104",
                 "def": "any of several veins of the forearm",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -39461,8 +39515,7 @@
             {
                 "id": "54bd57137265742391494104",
                 "def": "a vein in the umbilical cord",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -39594,7 +39647,21 @@
                 "id": "54bd571672657423915b4e04",
                 "def": "either of a pair of thick-walled tubes that carry urine from the kidney to the urinary bladder",
                 "example": "My ureters are inflamed.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -40323,6 +40390,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "wave theory"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -40876,8 +40957,7 @@
             {
                 "id": "54bd573972657423917ecf04",
                 "def": "the use of uttered sounds for auditory communication",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -40927,8 +41007,7 @@
             {
                 "id": "54bd573c726574239147d904",
                 "def": "an accusation that is understood without needing to be spoken",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -42357,8 +42436,7 @@
                 "id": "54bd57867265742391e1ec05",
                 "def": "an organism that can utter vocal sounds",
                 "example": "an utterer of foul oaths",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -42566,7 +42644,13 @@
                 "id": "54bd5789726574239148f605",
                 "def": "a female usher",
                 "example": "The usherette took our tickets.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -43210,8 +43294,7 @@
             {
                 "id": "54bd57c4726574239136ca06",
                 "def": "any of several perennials of the genus Aletris having grasslike leaves and bitter roots reputed to cure colic",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -43222,8 +43305,7 @@
             {
                 "id": "54bd57d77265742391cd0a07",
                 "def": "any of numerous aromatic herbs of the family Umbelliferae",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -43538,7 +43620,21 @@
                 "id": "54bd57e77265742391104107",
                 "def": "the process of ulcer formation",
                 "example": "The ulceration of the stomach took only a few hours.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd57e77265742391114107",
@@ -43547,6 +43643,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "ulcer"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -43721,7 +43831,6 @@
             {
                 "id": "54bd57e772657423919c4207",
                 "def": "in physics, the universal constant relating force to mass and distance in Newton's law of gravitation",
-                "example": "",
                 "speech_part": "noun",
                 "synonyms": [
                     "gravitational constant"
@@ -44268,7 +44377,21 @@
                 "id": "54bd57f97265742391fd7f07",
                 "def": "inflammation of the uvea of the eye",
                 "example": "The patient has uveitis.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -44663,8 +44786,7 @@
             {
                 "id": "54bd580072657423914e9607",
                 "def": "a heavy toxic silvery-white radioactive metallic element",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -46034,13 +46156,25 @@
                 "id": "54bd581b7265742391f2f407",
                 "def": "to make more industrial or city-like",
                 "example": "The area was urbanized after many people moved in.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd581b7265742391f3f407",
                 "def": "to impart urban habits, ways of life, or responsibilities upon",
                 "example": "People in outdoor cafes are urbanising birds by feeding them.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -46067,13 +46201,25 @@
                 "id": "54bd581b7265742391f2f407",
                 "def": "to make more industrial or city-like",
                 "example": "The area was urbanized after many people moved in.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd581b7265742391f3f407",
                 "def": "to impart urban habits, ways of life, or responsibilities upon",
                 "example": "People in outdoor cafes are urbanising birds by feeding them.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -46188,8 +46334,8 @@
                 "synonyms": [
                     "sympathize",
                     "sympathise",
-                    "empathize",
-                    "empathise"
+                    "empathise",
+                    "empathize"
                 ]
             }
         ],
@@ -48333,15 +48479,27 @@
                 "example": "The auto workers decided to unionise.",
                 "speech_part": "verb",
                 "synonyms": [
-                    "organise",
-                    "organize"
+                    "organize",
+                    "organise"
+                ],
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
                 "id": "54bd583072657423918c3d08",
                 "def": "to recruit for a union or organize into a union",
                 "example": "We don't allow people to come into our plant and try to unionize the workers.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -48370,15 +48528,27 @@
                 "example": "The auto workers decided to unionise.",
                 "speech_part": "verb",
                 "synonyms": [
-                    "organise",
-                    "organize"
+                    "organize",
+                    "organise"
+                ],
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
                 "id": "54bd583072657423918c3d08",
                 "def": "to recruit for a union or organize into a union",
                 "example": "We don't allow people to come into our plant and try to unionize the workers.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -48486,8 +48656,7 @@
                 "id": "56730603f83457000300010d",
                 "def": "the habit or act of giving opinions outside of one's area of expertise",
                 "example": "I try to refrain from ultracrepidarianism and only comment on areas I understand.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -48507,15 +48676,13 @@
                 "id": "56747fb7d9901d0003000004",
                 "def": "one who offers their opinion on matters outside their expertise",
                 "example": "Everyone knew the ultracrepidarian would speak up in the meeting.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "56787269cd82190003000042",
                 "def": "one who offers their opinion on matters outside their expertise",
                 "example": "Everyone knew the ultracrepidarian would speak up in the meeting.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [

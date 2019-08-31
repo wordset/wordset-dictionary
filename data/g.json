@@ -1710,6 +1710,28 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "damn"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "offensive",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -3728,23 +3750,17 @@
             {
                 "id": "54bd560b7265742391068b00",
                 "def": "bright and pleasant",
-                "example": "",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             },
             {
                 "id": "54bd560b7265742391078b00",
                 "def": "brightly colored and showy",
-                "example": "",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             },
             {
                 "id": "54bd560b7265742391088b00",
                 "def": "homosexual or arousing homosexual desires",
-                "example": "",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             },
             {
                 "id": "54bd560b7265742391098b00",
@@ -3755,23 +3771,19 @@
             {
                 "id": "54bd560b72657423910b8b00",
                 "def": "offering fun and gaiety",
-                "example": "",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             },
             {
                 "id": "54bd560b72657423910c8b00",
                 "def": "full of or showing high-spirited merriment",
                 "example": "It was back when hearts were young and gay!",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             },
             {
                 "id": "54bd560b72657423910f8b00",
                 "def": "someone who is homosexual",
                 "example": "Is your friend homosexual?",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -4319,8 +4331,7 @@
             {
                 "id": "54bd560b7265742391e38b00",
                 "def": "a soft yellow malleable ductile (trivalent and univalent) metallic element",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -4916,7 +4927,13 @@
                 "id": "54bd560e72657423916e9400",
                 "def": "a celebratory reunion feast or entertainment held a college",
                 "example": "Are you coming to the gaudy at eight?",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    }
+                ]
             }
         ],
         "editors": [
@@ -6295,6 +6312,28 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "swagger"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "US",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "American",
+                            "is_dialect": true
+                        }
+                    },
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    }
                 ]
             },
             {
@@ -6304,6 +6343,36 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "hot"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "US",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "American",
+                            "is_dialect": true
+                        }
+                    },
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "UK",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    }
                 ]
             }
         ],
@@ -9514,8 +9583,7 @@
             {
                 "id": "54bd564c7265742391f76001",
                 "def": "converted into a gas or vapor",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ]
     },
@@ -10670,7 +10738,12 @@
                 "def": "an old person",
                 "example": "We had dinner next to a couple of geriatrics.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -10945,15 +11018,13 @@
                 "id": "55ef0ba566386300b6490200",
                 "def": "the German language",
                 "example": "I know enough German to get directions to the airport.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "5604871e32646200b6660000",
                 "def": "a person from Germany or of German descent",
                 "example": "The Germans were generous hosts on our trip through Europe.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -11222,15 +11293,13 @@
                 "id": "55f1c0af34333200b6150100",
                 "def": "the language of Greece",
                 "example": "Greek is a source of many words in English.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "55f1c0af34333200b6160100",
                 "def": "a person from Greece or of Greek descent",
                 "example": "The restaurant owner was an outgoing Greek.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -15491,7 +15560,6 @@
             {
                 "id": "54bd56877265742391543402",
                 "def": "a spasmodic reflex of the throat made as if in swallowing",
-                "example": "",
                 "speech_part": "noun",
                 "synonyms": [
                     "gulp"
@@ -15610,7 +15678,33 @@
                 "id": "5564ecdc656665007e700000",
                 "def": "another word for food",
                 "example": "Let's get some graze at that BBQ place.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "South African",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -17298,8 +17392,8 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "heroism",
-                    "valour",
                     "valor",
+                    "valour",
                     "valorousness"
                 ]
             },
@@ -20671,8 +20765,7 @@
             {
                 "id": "54bd56b872657423918bea02",
                 "def": "informal terms for a meal",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56b872657423918dea02",
@@ -22126,8 +22219,7 @@
             {
                 "id": "54bd56c572657423918c1b03",
                 "def": "flounder found from North Carolina to Florida and the eastern Gulf of Mexico",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -22645,7 +22737,21 @@
                 "id": "554931156334330003b20000",
                 "def": "a term for a latex condom",
                 "example": "Safe sex is very important, you should always bring a glove with you on a date.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -26068,7 +26174,6 @@
             {
                 "id": "54bd56dd7265742391637503",
                 "def": "to judge tentatively or form an estimate of quantities or time",
-                "example": "",
                 "speech_part": "verb",
                 "synonyms": [
                     "estimate"
@@ -26084,7 +26189,13 @@
                 "id": "54bd56dd7265742391667503",
                 "def": "to rub to a uniform size",
                 "example": "We should gauge the bricks.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -26101,7 +26212,8 @@
         "wordset_id": "54bd56dd7265742391557503",
         "labels": [
             {
-                "name": "archaic"
+                "name": "archaic",
+                "is_dialect": false
             },
             {
                 "name": "American",
@@ -26165,7 +26277,6 @@
             {
                 "id": "54bd56dd7265742391637503",
                 "def": "to judge tentatively or form an estimate of quantities or time",
-                "example": "",
                 "speech_part": "verb",
                 "synonyms": [
                     "estimate"
@@ -26181,7 +26292,13 @@
                 "id": "54bd56dd7265742391667503",
                 "def": "to rub to a uniform size",
                 "example": "We should gauge the bricks.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -27945,19 +28062,37 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "mousse"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
                 "id": "54bd56dd7265742391f57503",
                 "def": "to become a gel",
                 "example": "The solid, when heated, gelled.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "55e4ec42353931017f020000",
                 "def": "to form a bond or friendship with",
                 "example": "Even though we had never met, we instantly gelled.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -31067,6 +31202,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "scoop"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             },
             {
@@ -32198,6 +32347,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "disconnection"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -33931,8 +34086,7 @@
             {
                 "id": "54bd570a7265742391991e04",
                 "def": "the properties that distinguish organisms on the basis of their reproductive roles",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd570a72657423919a1e04",
@@ -35176,8 +35330,7 @@
             {
                 "id": "54bd571272657423910d3f04",
                 "def": "one of several veins draining the stomach walls",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -35216,8 +35369,7 @@
             {
                 "id": "54bd571272657423911c3f04",
                 "def": "veins that drain blood from structures around the knee",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -35261,8 +35413,7 @@
             {
                 "id": "54bd571272657423912b3f04",
                 "def": "veins draining the gluteal muscles on either side of the body",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -35287,8 +35438,7 @@
             {
                 "id": "54bd57127265742391443e04",
                 "def": "a cerebral vein formed by the two internal cerebral veins and continuing into the sinus rectus",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -36026,6 +36176,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "sex gland"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -36283,8 +36447,7 @@
             {
                 "id": "54bd57187265742391ab5404",
                 "def": "rhomboid muscle that draws the scapula toward the spinal column",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -42120,8 +42283,7 @@
             {
                 "id": "54bd57487265742391490805",
                 "def": "small tropical American shrubby tree",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd574872657423914a0805",
@@ -44859,6 +45021,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "taco"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "offensive",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -45291,6 +45467,12 @@
                 "synonyms": [
                     "girlfriend",
                     "lady friend"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -45721,8 +45903,7 @@
             {
                 "id": "54bd577a72657423911fc305",
                 "def": "someone who has completed the course of study (including hospital practice) at a nurses training school",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -46173,8 +46354,7 @@
                 "id": "54bd577a726574239149c305",
                 "def": "the father of your father or mother",
                 "example": "I called my grandfather on the phone.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -46190,7 +46370,8 @@
         "wordset_id": "54bd577a726574239147c305",
         "labels": [
             {
-                "name": "informal"
+                "name": "informal",
+                "is_dialect": false
             }
         ],
         "meanings": [
@@ -46198,8 +46379,7 @@
                 "id": "54bd577a726574239149c305",
                 "def": "the father of your father or mother",
                 "example": "I called my grandfather on the phone.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -46215,12 +46395,15 @@
         "wordset_id": "54bd577a726574239147c305",
         "labels": [
             {
-                "name": "informal"
+                "name": "informal",
+                "is_dialect": false
             },
             {
                 "name": "slang",
+                "is_dialect": false,
                 "parent": {
-                    "name": "informal"
+                    "name": "informal",
+                    "is_dialect": false
                 }
             },
             {
@@ -46233,8 +46416,7 @@
                 "id": "54bd577a726574239149c305",
                 "def": "the father of your father or mother",
                 "example": "I called my grandfather on the phone.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -49048,6 +49230,24 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "stinkpot"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "offensive",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    }
                 ]
             }
         ],
@@ -49806,8 +50006,7 @@
             {
                 "id": "54bd57a87265742391f76606",
                 "def": "a procumbent variety of the common juniper",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57a87265742391f86606",
@@ -50372,8 +50571,7 @@
             {
                 "id": "54bd57af7265742391637c06",
                 "def": "any of several Old World plants cultivated for their brightly colored flowers",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -50567,8 +50765,7 @@
             {
                 "id": "54bd57b07265742391a87f06",
                 "def": "Asiatic plant resembling spinach often used as a potherb",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -51791,8 +51988,7 @@
             {
                 "id": "54bd57bb7265742391aba606",
                 "def": "tall grass of southern United States growing in thickets",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -53783,8 +53979,7 @@
             {
                 "id": "54bd57d372657423911cff06",
                 "def": "low-growing annual with yellow flowers dotted red",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57d372657423911dff06",
@@ -54262,8 +54457,7 @@
             {
                 "id": "54bd57da7265742391f11607",
                 "def": "any fungus of the class Gasteromycetes",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -56582,8 +56776,7 @@
             {
                 "id": "54bd57f27265742391b16607",
                 "def": "loss of all ability to communicate",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -56731,6 +56924,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "clap"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -57281,6 +57488,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "glossodynia"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -57727,8 +57948,7 @@
             {
                 "id": "54bd57ff72657423916a9307",
                 "def": "a ductile silvery-white ductile ferromagnetic trivalent metallic element of the rare earth group",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -57739,8 +57959,7 @@
             {
                 "id": "54bd57ff7265742391739307",
                 "def": "a rare silvery (usually trivalent) metallic element",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -57765,8 +57984,7 @@
             {
                 "id": "54bd57ff72657423917c9307",
                 "def": "a brittle grey crystalline element that is a semiconducting metalloid (resembling silicon) used in transistors",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -57809,7 +58027,8 @@
         "wordset_id": "54bd580072657423917b9807",
         "labels": [
             {
-                "name": "archaic"
+                "name": "archaic",
+                "is_dialect": false
             }
         ],
         "meanings": [
@@ -57839,8 +58058,7 @@
             {
                 "id": "54bd58007265742391939707",
                 "def": "a mineral that is a source of rare earths",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -59832,6 +60050,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "fall"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -60278,6 +60502,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "check"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -60287,6 +60517,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "review"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -62423,8 +62659,8 @@
                 "example": "This new wallpaper really glamorizes the living room!",
                 "speech_part": "verb",
                 "synonyms": [
-                    "glamourize",
-                    "glamourise"
+                    "glamourise",
+                    "glamourize"
                 ]
             },
             {
@@ -62462,8 +62698,8 @@
                 "example": "This new wallpaper really glamorizes the living room!",
                 "speech_part": "verb",
                 "synonyms": [
-                    "glamourize",
-                    "glamourise"
+                    "glamourise",
+                    "glamourize"
                 ]
             },
             {
@@ -63621,8 +63857,8 @@
                 "def": "compensate",
                 "speech_part": "verb",
                 "synonyms": [
-                    "equalise",
-                    "equalize"
+                    "equalize",
+                    "equalise"
                 ]
             },
             {
@@ -64171,7 +64407,25 @@
                 "id": "55b025213737610169140000",
                 "def": "to cause difficulty",
                 "example": "That gums up my plans.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -64307,6 +64561,24 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "get"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -65602,8 +65874,8 @@
                 "def": "rule a country as a tyrant",
                 "speech_part": "verb",
                 "synonyms": [
-                    "tyrannize",
-                    "tyrannise"
+                    "tyrannise",
+                    "tyrannize"
                 ]
             }
         ]
@@ -65971,13 +66243,49 @@
                 "id": "5554edc6663663008c0e0000",
                 "def": "not working properly",
                 "example": "The company's servers were going haywire last night. ",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "US",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "American",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             },
             {
                 "id": "55578c2f326439008c0e0000",
                 "def": "act in an atypical way, especially in terms of anger and/or aggression ",
                 "example": "After receiving a failing grade, the honors student went haywire.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "US",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "American",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -65999,7 +66307,24 @@
                 "def": "a greeting; truncation of \"good day\"",
                 "example": "G'day mate, how are you?",
                 "speech_part": "phrase",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "Australian",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -66022,7 +66347,24 @@
                 "def": "a greeting; truncation of \"good day\"",
                 "example": "G'day mate, how are you?",
                 "speech_part": "phrase",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "Australian",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -66044,8 +66386,7 @@
                 "id": "569435a29734cc0003000066",
                 "def": "a portmanteau of 'gigantic' and 'enormous' meaning large",
                 "example": "The boulder was ginormous.",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ],
         "editors": [

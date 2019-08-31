@@ -48,8 +48,8 @@
                 "example": "it was rather cold",
                 "speech_part": "adverb",
                 "synonyms": [
-                    "kind of",
                     "kinda",
+                    "kind of",
                     "sort of"
                 ]
             },
@@ -124,6 +124,12 @@
                 "speech_part": "adverb",
                 "synonyms": [
                     "right on"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -461,8 +467,7 @@
             {
                 "id": "54bd55e07265742391d50500",
                 "def": "coinciding with reality",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             },
             {
                 "id": "54bd55e07265742391d60500",
@@ -2247,6 +2252,12 @@
                 "speech_part": "adverb",
                 "synonyms": [
                     "roughly"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -2943,8 +2954,7 @@
             {
                 "id": "54bd55f37265742391624900",
                 "def": "in a vindictive, revengeful manner",
-                "speech_part": "adverb",
-                "synonyms": []
+                "speech_part": "adverb"
             }
         ]
     },
@@ -4280,8 +4290,7 @@
                 "id": "54bd55f87265742391dd5500",
                 "def": "people who have possessions and wealth (considered as a group)",
                 "example": "only the very rich benefit from this legislation",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -4307,7 +4316,6 @@
             {
                 "id": "54bd55f87265742391ca5700",
                 "def": "generally approved or compelling recognition",
-                "example": "",
                 "speech_part": "adjective",
                 "synonyms": [
                     "accepted"
@@ -4346,7 +4354,6 @@
             {
                 "id": "54bd55f87265742391ca5700",
                 "def": "generally approved or compelling recognition",
-                "example": "",
                 "speech_part": "adjective",
                 "synonyms": [
                     "accepted"
@@ -4834,8 +4841,7 @@
             {
                 "id": "54bd55fe72657423912e6700",
                 "def": "a vector that is the sum of two or more other vectors",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd55fe72657423912f6700",
@@ -5142,7 +5148,13 @@
                 "id": "54bd560272657423916c7200",
                 "def": "articulate a consonant with the tongue curled back against the palate",
                 "example": "Indian English accents can be characterized by the fact that speakers often retroflex their consonants.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd560272657423916e7200",
@@ -7068,6 +7080,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "bare"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -7649,8 +7667,7 @@
                 "id": "54bd561372657423915ba400",
                 "def": "not fully developed in mature animals",
                 "example": "rudimentary wings",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             },
             {
                 "id": "54bd561372657423915da400",
@@ -13663,8 +13680,7 @@
                 "id": "54bd563d7265742391362e01",
                 "def": "capable of being rescinded or voided",
                 "example": "the judgment was rescindable",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ]
     },
@@ -16686,8 +16702,7 @@
             {
                 "id": "54bd564772657423910c5301",
                 "def": "(of a leaf or bean shape) resembling the shape of kidney",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ]
     },
@@ -17071,7 +17086,21 @@
                 "id": "54bd564c72657423912c6301",
                 "def": "the ability of an early embryo to continue normal development after its structure has been somehow damaged or altered",
                 "example": "The infection within the womb almost killed the embryo, but regulation ensured it continued uneffected.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd564c72657423912d6301",
@@ -18830,15 +18859,13 @@
                 "id": "5606f8cd34306100b6030100",
                 "def": "a person from Romania or of Romanian descent",
                 "example": "The Romanian was a top competitor in gymnastics.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "5606f8cd34306100b6040100",
                 "def": "the Romanian language",
                 "example": "Romanian was the interpreter's first language, but they were fluent in several others.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -18898,15 +18925,13 @@
                 "id": "55ef242c663863217e020000",
                 "def": "the Russian language",
                 "example": "Learning Russian requires learning the Cyrillic alphabet.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "55f1c0b234333207ca080000",
                 "def": "a person from Russia or of Russian decent",
                 "example": "The old Russians would tell us stories of their homeland.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -19593,6 +19618,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "relation back"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             },
             {
@@ -20388,11 +20427,11 @@
                 "def": "be or provide a memorial to a person or an event",
                 "speech_part": "verb",
                 "synonyms": [
-                    "immortalise",
                     "immortalize",
+                    "immortalise",
                     "commemorate",
-                    "memorialize",
-                    "memorialise"
+                    "memorialise",
+                    "memorialize"
                 ]
             },
             {
@@ -20620,7 +20659,21 @@
                 "id": "54bd5668726574239160c001",
                 "def": "a return to a normal phenotype, usually resulting from a second mutation",
                 "example": "The only explanation for the natural coat color was a reversion.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd5668726574239161c001",
@@ -23007,8 +23060,7 @@
                 "id": "54bd566e726574239145d501",
                 "def": "the speech act of answering an attack on your assertions",
                 "example": "Your refutation of the charges was short and persuasive.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -23395,8 +23447,8 @@
                 "example": "the partners were delighted with the recognition of their work",
                 "speech_part": "noun",
                 "synonyms": [
-                    "acknowledgment",
-                    "acknowledgement"
+                    "acknowledgement",
+                    "acknowledgment"
                 ]
             }
         ],
@@ -24272,6 +24324,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "reducing"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -27099,6 +27165,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "rock candy"
+                ],
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "UK",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    }
                 ]
             },
             {
@@ -27114,7 +27194,13 @@
                 "id": "54bd56767265742391c6f401",
                 "def": "someone who is strong and stable and dependable, figuratively",
                 "example": "You've always been a rock in my life and I really appreciate that.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd56767265742391c8f401",
@@ -27132,6 +27218,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "shake"
+                ],
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -27141,13 +27233,33 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "sway"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
                 "id": "55e6b47062393127ce020000",
                 "def": "a diamond or other gemstone",
                 "example": "Did you see the rock on that ring?",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "55e6b47062393127ce030000",
@@ -29298,8 +29410,7 @@
             {
                 "id": "54bd567e7265742391cc1002",
                 "def": "violently angry and destructive behavior",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd567e7265742391ce1002",
@@ -29724,6 +29835,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "radiotherapy"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             },
             {
@@ -34369,7 +34494,13 @@
                 "id": "54bd56917265742391b65602",
                 "def": "the act of paying for goods or services or to recompense for losses",
                 "example": "I require adequate remuneration for my work.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "formal",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd56917265742391b85602",
@@ -37711,8 +37842,7 @@
             {
                 "id": "54bd56a47265742391e79e02",
                 "def": "very large python of tropical and southern Africa",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -40626,7 +40756,13 @@
                 "id": "54bd56c77265742391ee2403",
                 "def": "Paraphernalia indicative of royalty or other high office.",
                 "example": "The judge's  only piece of regalia was a long black robe.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "formal",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -42092,8 +42228,7 @@
             {
                 "id": "54bd56e27265742391348803",
                 "def": "flared trousers ending at the calves",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -45217,7 +45352,8 @@
         "wordset_id": "54bd56ef7265742391b4b803",
         "labels": [
             {
-                "name": "archaic"
+                "name": "archaic",
+                "is_dialect": false
             },
             {
                 "name": "American",
@@ -47107,8 +47243,7 @@
             {
                 "id": "54bd56f0726574239139bc03",
                 "def": "give new treads to (a tire)",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             },
             {
                 "id": "54bd56f072657423913abc03",
@@ -47735,8 +47870,7 @@
             {
                 "id": "54bd56f0726574239170bd03",
                 "def": "direct one's attention on something",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             },
             {
                 "id": "54bd56f0726574239171bd03",
@@ -48574,8 +48708,7 @@
             {
                 "id": "54bd56f07265742391a4be03",
                 "def": "a flower bed in which roses are growing",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -49295,8 +49428,7 @@
             {
                 "id": "54bd56f07265742391d0bd03",
                 "def": "a lever pivoted at the center",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -50067,7 +50199,13 @@
             {
                 "id": "54bd56f1726574239160bf03",
                 "def": "a hinged vertical airfoil mounted at the tail of an aircraft and used to control the aircraft about its yaw axis",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -50224,6 +50362,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "formula"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -52775,8 +52919,7 @@
             {
                 "id": "54bd57077265742391261604",
                 "def": "(computer science) a kind of computer architecture that has a relatively small set of computer instructions that it can perform",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -54626,6 +54769,20 @@
                 "synonyms": [
                     "theory of relativity",
                     "relativity theory"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -55320,6 +55477,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "arteria renalis"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -55353,8 +55524,7 @@
             {
                 "id": "54bd57137265742391894004",
                 "def": "superficial veins ascending the radial side of the forearm",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -55365,8 +55535,7 @@
             {
                 "id": "54bd571372657423918f4004",
                 "def": "veins that accompany renal arteries",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -57890,6 +58059,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "relation"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -59830,8 +60013,8 @@
                 "def": "give a summary (of)",
                 "speech_part": "verb",
                 "synonyms": [
-                    "summarize",
                     "summarise",
+                    "summarize",
                     "sum up"
                 ]
             },
@@ -60558,6 +60741,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "scrap"
+                ],
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    }
                 ]
             },
             {
@@ -60846,7 +61035,13 @@
                 "id": "54bd572f726574239120ab04",
                 "def": "an extravagantly enthusiastic review",
                 "example": "I gave it a rave.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd572f726574239122ab04",
@@ -62175,8 +62370,7 @@
             {
                 "id": "54bd573972657423913bce04",
                 "def": "(prosody) a system of versification",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -62727,6 +62921,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "informing"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -63447,7 +63647,13 @@
                 "id": "54bd573e7265742391d7e004",
                 "def": "an oscillation of small amplitude imposed on top of a steady value",
                 "example": "The engineer worked hard to get rid of the electrical ripple.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd573e7265742391d9e004",
@@ -66518,8 +66724,7 @@
             {
                 "id": "54bd57567265742391233b05",
                 "def": "the class of people exerting power or authority",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -67056,6 +67261,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "scrapheap"
+                ],
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    }
                 ]
             }
         ],
@@ -67861,7 +68072,29 @@
                 "id": "54bd57707265742391229b05",
                 "def": "offensive term for Native Americans",
                 "example": "We bought a rug from a red man.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "offensive",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -68203,8 +68436,7 @@
             {
                 "id": "54bd57777265742391e5b505",
                 "def": "a political leader who seeks support by appealing to popular passions and prejudices",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -68659,8 +68891,7 @@
                 "id": "54bd578072657423910ed905",
                 "def": "a baseball pitcher who throws with the right hand",
                 "example": "The coach chose a right-hander to start the game.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd578072657423910fd905",
@@ -72044,7 +72275,6 @@
             {
                 "id": "54bd57a67265742391b95d06",
                 "def": "a shift in the electromagnetic radiation of a distant object toward longer wavelengths, the red end of the spectrum",
-                "example": "",
                 "speech_part": "noun",
                 "synonyms": [
                     "redshift"
@@ -72987,8 +73217,7 @@
             {
                 "id": "54bd57b17265742391be8206",
                 "def": "bushy houseplant having white to pale pink flowers followed by racemes of scarlet berries",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -72999,8 +73228,7 @@
             {
                 "id": "54bd57b17265742391c18206",
                 "def": "bushy houseplant having white to pale pink flowers followed by racemes of scarlet berries",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -74923,6 +75151,28 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "ringworm bush"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -75098,8 +75348,7 @@
             {
                 "id": "54bd57c972657423914bdb06",
                 "def": "desert shrub of Syria and Arabia having small white flowers",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -75110,8 +75359,7 @@
             {
                 "id": "54bd57c972657423914edb06",
                 "def": "desert shrub of Syria and Arabia having small white flowers",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -75577,8 +75825,7 @@
             {
                 "id": "54bd57ce7265742391a9eb06",
                 "def": "any of several southern African geraniums having fragrant three-lobed to five-lobed leaves and pink flowers",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -76606,8 +76853,7 @@
             {
                 "id": "54bd57df7265742391d52707",
                 "def": "tufted spikemoss forming loose spreading mats",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -76864,8 +77110,8 @@
                 "def": "a percentage (of winnings or loot or profit) taken by an operator or gangster",
                 "speech_part": "noun",
                 "synonyms": [
-                    "vigorish",
-                    "vig"
+                    "vig",
+                    "vigorish"
                 ]
             }
         ]
@@ -77394,6 +77640,12 @@
                 "synonyms": [
                     "cold cash",
                     "ready money"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -77827,7 +78079,21 @@
                 "id": "54bd57e77265742391d63f07",
                 "def": "in psychiatry, a defense mechanism in which a person unconsciously develops attitudes and behavior that are the opposite of unacceptable repressed desires and impulses and serve to conceal them",
                 "example": "Homophobia is often a reaction formation to hide people's unacknowledged desires.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -78945,8 +79211,7 @@
             {
                 "id": "54bd57ee7265742391f95807",
                 "def": "a polygon with one or more reentrant angles",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -79409,6 +79674,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     null
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -80419,6 +80698,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "coryza"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -80908,8 +81201,7 @@
             {
                 "id": "54bd57ff72657423910e9507",
                 "def": "an intensely radioactive metallic element that occurs in minute amounts in uranium ores",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -80920,8 +81212,7 @@
             {
                 "id": "54bd57ff7265742391149507",
                 "def": "a radioactive gaseous element formed by the disintegration of radium",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -80932,8 +81223,7 @@
             {
                 "id": "54bd57ff72657423911d9507",
                 "def": "a rare heavy polyvalent metallic element that resembles manganese chemically and is used in some alloys",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -80944,8 +81234,7 @@
             {
                 "id": "54bd57ff7265742391239507",
                 "def": "a white hard metallic element that is one of the platinum group and is found in platinum ores",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -80970,8 +81259,7 @@
             {
                 "id": "54bd57ff72657423913a9507",
                 "def": "a soft silvery metallic element of the alkali metal group",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -80982,8 +81270,7 @@
             {
                 "id": "54bd57ff7265742391439507",
                 "def": "a rare polyvalent metallic element of the platinum group",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -81213,7 +81500,13 @@
                 "id": "54bd58017265742391579907",
                 "def": "a type of soil consisting of unconsolidated material from freshly deposited alluvium or sand",
                 "example": "Much of Australia is covered in regosol.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -84094,7 +84387,21 @@
                 "id": "54bd581372657423911fd907",
                 "def": "break a bone that was previously broken but mended in an abnormal way",
                 "example": "The surgeon had to refracture my wrist.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "55a959033132620176060000",
@@ -85178,6 +85485,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "rubber"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -85210,6 +85523,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "rubber"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -85772,8 +86091,7 @@
             {
                 "id": "54bd581572657423916adf07",
                 "def": "place restrictions on",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             },
             {
                 "id": "54bd581572657423916bdf07",
@@ -85839,6 +86157,16 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "remedy"
+                ],
+                "labels": [
+                    {
+                        "name": "formal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -86987,13 +87315,25 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "petrify"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
                 "id": "54bd58197265742391c8ef07",
                 "def": "to become rigid",
                 "example": "Their opinions rigidified as they grew older.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -87138,6 +87478,20 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "rev"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             },
             {
@@ -87147,6 +87501,20 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "step up"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -87227,6 +87595,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "resurface"
+                ],
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -87784,7 +88158,13 @@
                 "id": "54bd581c72657423911af707",
                 "def": "to make romantic in style",
                 "example": "The designer romanticized the little black dress.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd581c72657423911bf707",
@@ -87794,15 +88174,27 @@
                 "synonyms": [
                     "glamorize",
                     "glamorise",
-                    "glamourize",
-                    "glamourise"
+                    "glamourise",
+                    "glamourize"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
                 "id": "55e104a335333900b64a0000",
                 "def": "to act in a romantic way",
                 "example": "My partner romanticised on the boardwalk.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -87829,7 +88221,13 @@
                 "id": "54bd581c72657423911af707",
                 "def": "to make romantic in style",
                 "example": "The designer romanticized the little black dress.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd581c72657423911bf707",
@@ -87839,15 +88237,27 @@
                 "synonyms": [
                     "glamorize",
                     "glamorise",
-                    "glamourize",
-                    "glamourise"
+                    "glamourise",
+                    "glamourize"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
                 "id": "55e104a335333900b64a0000",
                 "def": "to act in a romantic way",
                 "example": "My partner romanticised on the boardwalk.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -88477,8 +88887,8 @@
                 "def": "be fully aware or cognizant of",
                 "speech_part": "verb",
                 "synonyms": [
-                    "realise",
-                    "realize"
+                    "realize",
+                    "realise"
                 ]
             },
             {
@@ -88558,8 +88968,8 @@
                 "def": "be fully aware or cognizant of",
                 "speech_part": "verb",
                 "synonyms": [
-                    "realise",
-                    "realize"
+                    "realize",
+                    "realise"
                 ]
             },
             {
@@ -89925,7 +90335,8 @@
         "wordset_id": "54bd58207265742391a40508",
         "labels": [
             {
-                "name": "archaic"
+                "name": "archaic",
+                "is_dialect": false
             }
         ],
         "meanings": [
@@ -89933,15 +90344,13 @@
                 "id": "54bd58207265742391a60508",
                 "def": "revise the terms of in order to limit or regain excess profits gained by the contractor",
                 "example": "We renegociated our old mortgage now that the interest rates have come down",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             },
             {
                 "id": "54bd58207265742391a80508",
                 "def": "negociate anew",
                 "example": "The two warring parties will have to renegociate",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             }
         ],
         "editors": [
@@ -89961,15 +90370,13 @@
                 "id": "54bd58207265742391a60508",
                 "def": "revise the terms of in order to limit or regain excess profits gained by the contractor",
                 "example": "We renegociated our old mortgage now that the interest rates have come down",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             },
             {
                 "id": "54bd58207265742391a80508",
                 "def": "negociate anew",
                 "example": "The two warring parties will have to renegociate",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             }
         ],
         "editors": [
@@ -90919,8 +91326,8 @@
                 "def": "write in the Latin alphabet",
                 "speech_part": "verb",
                 "synonyms": [
-                    "Latinise",
-                    "Latinize"
+                    "Latinize",
+                    "Latinise"
                 ]
             }
         ],
@@ -90950,8 +91357,8 @@
                 "def": "write in the Latin alphabet",
                 "speech_part": "verb",
                 "synonyms": [
-                    "Latinise",
-                    "Latinize"
+                    "Latinize",
+                    "Latinise"
                 ]
             }
         ],
@@ -93405,6 +93812,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "steam"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -93843,8 +94256,7 @@
             {
                 "id": "54bd582d72657423914e3408",
                 "def": "center upon",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             }
         ]
     },
@@ -93977,6 +94389,24 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "rail"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -94017,7 +94447,21 @@
                 "id": "54bd582d7265742391023408",
                 "def": "escape from the control of",
                 "example": "I ran away from home when I was a kid.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -94145,8 +94589,8 @@
                 "def": "convert into cash",
                 "speech_part": "verb",
                 "synonyms": [
-                    "realise",
-                    "realize"
+                    "realize",
+                    "realise"
                 ]
             },
             {
@@ -95256,7 +95700,17 @@
                 "id": "54bd583272657423910e4608",
                 "def": "to ignite anew, as of something burning",
                 "example": "The strong winds reignited the cooling embers.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -95427,8 +95881,7 @@
             {
                 "id": "54bd58327265742391c64408",
                 "def": "center upon",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             }
         ]
     },
@@ -95560,7 +96013,13 @@
                 "id": "54bd58327265742391004508",
                 "def": "to locate by means of radar",
                 "example": "The pilot managed to radiolocate the lost aircraft.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -95599,7 +96058,29 @@
                 "id": "559c05f6386265008aa40400",
                 "def": "the innermost part of the kidney that balances the salt and water contents of blood",
                 "example": "The biopsy of the renal medulla seems to be cancer free.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -95619,8 +96100,7 @@
                 "id": "5612d31ec5a9ff000300003e",
                 "def": "pancake-like pastry, common to Indian cusine, often stuffed with curry",
                 "example": "I like to eat roti on a park bench when the weather is nice.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -95642,7 +96122,36 @@
                 "def": "to clean up",
                 "example": "You need to red up your room before we go to the movie.",
                 "speech_part": "verb",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -95661,16 +96170,12 @@
             {
                 "id": "56d07f8cd1254b000300006f",
                 "def": "capable of being ridden, as a horse. ",
-                "example": "",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             },
             {
                 "id": "56d07f8cd1254b0003000070",
                 "def": "personal mode of transportation, often electric or motorized, used for urban commuting",
-                "example": "",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [

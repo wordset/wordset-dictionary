@@ -24,9 +24,7 @@
             {
                 "id": "54bd55fb7265742391d65e00",
                 "def": "a philosophical theory attempting to explain and understand what is beautiful and why it might be considered that way",
-                "example": "",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -57,15 +55,13 @@
                 "id": "54bd55fd72657423912f6500",
                 "def": "of a circuit or device having an output that is proportional to the input",
                 "example": "This analogue device picks up radio signals from all over the world.",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             },
             {
                 "id": "54bd55fd7265742391326500",
                 "def": "something having the property of being analogous to something else",
                 "example": "That argument is analogue to the one we just proved wrong.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -91,8 +87,7 @@
                 "id": "54bd56417265742391123d01",
                 "def": "seen in the mind as a mental image",
                 "example": "Have you visualized your championship win?",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ],
         "editors": [
@@ -118,8 +113,7 @@
                 "id": "54bd56517265742391367401",
                 "def": "being made a victim, i.e. being treated unjustly or cruelly",
                 "example": "The victimized townspeople hired an army to protect them from invaders.",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ],
         "editors": [
@@ -219,8 +213,7 @@
                 "id": "54bd57887265742391f6f405",
                 "def": "a salesman who travels to call on customers",
                 "example": "A traveling salesman tried to sell me a set of knives.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -267,16 +260,32 @@
             {
                 "id": "54bd57e67265742391833d07",
                 "def": "the abnormal development of male sexual characteristics in a female, usually as the result of hormone therapies or adrenal malfunction",
-                "example": "",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "568af260f02e6100030000d2",
                 "def": "the normal development of male sexual characteristics in a male",
-                "example": "",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -344,8 +353,7 @@
                 "id": "56537cf306bba00003000002",
                 "def": "the feeling of being so happy, or laughing so much that you cry",
                 "example": "Seeing that hilarious video made me so 😂.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -357,8 +365,7 @@
                 "id": "568a99b0f02e61000300000d",
                 "def": "a typographic symbol for number",
                 "example": "The octothorpe is common on most phones.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -380,8 +387,7 @@
                 "id": "568a9a02f02e610003000032",
                 "def": "a paragraph mark",
                 "example": "The pilcrow was drawn by the editor to emphasize where the indentation should be.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -403,8 +409,7 @@
                 "id": "568d7f052ebee80003000012",
                 "def": "a typographic symbol, № , used for denoting numbers",
                 "example": "It is common in Europe to see a numero sign as opposed to an octothorpe.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -425,8 +430,7 @@
                 "id": "568e818a2ebee8000300003d",
                 "def": "a typographic symbol used to draw the reader's attention",
                 "example": "The typesetter preferred manicules to changes of font when emphasizing small notes in the text.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [

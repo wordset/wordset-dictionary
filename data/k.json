@@ -65,7 +65,8 @@
         "wordset_id": "54bd55df7265742391d00300",
         "labels": [
             {
-                "name": "informal"
+                "name": "informal",
+                "is_dialect": false
             }
         ],
         "meanings": [
@@ -170,8 +171,7 @@
                 "id": "54bd55ea7265742391a72e00",
                 "def": "up to the knees",
                 "example": "we were standing knee-deep in the water",
-                "speech_part": "adverb",
-                "synonyms": []
+                "speech_part": "adverb"
             },
             {
                 "id": "54bd55ea7265742391aa2e00",
@@ -252,6 +252,20 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "anabatic"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -272,13 +286,39 @@
                 "id": "54bd55fd7265742391e66400",
                 "def": "characterized by destructive metabolism",
                 "speech_part": "adjective",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd55fd7265742391e76400",
                 "def": "relating to or characterized by catabolism",
                 "speech_part": "adjective",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -491,6 +531,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "halal"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -924,8 +970,7 @@
                 "id": "54bd562072657423916dca00",
                 "def": "alert and fully informed",
                 "example": "a knowing collector of rare books",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             },
             {
                 "id": "54bd562072657423916fca00",
@@ -982,8 +1027,7 @@
                 "id": "56554b53aca2ed0085000795",
                 "def": "tacky, cheap in quality, made of kitsch",
                 "example": "The restaurant had a kitschy decor.",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ],
         "editors": [
@@ -1041,6 +1085,20 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "gibbous"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -1060,7 +1118,21 @@
             {
                 "id": "54bd56267265742391b5e100",
                 "def": "having the knees abnormally close together and the ankles wide apart",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -1133,8 +1205,7 @@
             {
                 "id": "54bd562e7265742391dcfd00",
                 "def": "an event that causes someone to die",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd562e7265742391ddfd00",
@@ -1348,8 +1419,7 @@
                 "id": "54bd56327265742391670901",
                 "def": "having or proceeding from an innately kind disposition",
                 "example": "The generous and kindhearted teacher stayed after school to help students in need.",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ],
         "editors": [
@@ -1371,8 +1441,7 @@
                 "id": "54bd56327265742391670901",
                 "def": "having or proceeding from an innately kind disposition",
                 "example": "The generous and kindhearted teacher stayed after school to help students in need.",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ],
         "editors": [
@@ -1676,8 +1745,7 @@
                 "id": "54bd56467265742391085001",
                 "def": "having knobs",
                 "example": "I have knobbly knees.",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ],
         "editors": [
@@ -1697,8 +1765,7 @@
                 "id": "54bd56467265742391085001",
                 "def": "having knobs",
                 "example": "I have knobbly knees.",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ],
         "editors": [
@@ -1778,15 +1845,13 @@
                 "id": "5655260f986ccb0085006268",
                 "def": "having small and isolated hills",
                 "example": "I was impressed by the knobbed landscape.",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             },
             {
                 "id": "5655260f986ccb0085006269",
                 "def": "having a knob",
                 "example": "After the locksmith comes, the front door will be knobbed again.",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ],
         "editors": [
@@ -1814,8 +1879,7 @@
             {
                 "id": "54bd564d7265742391996501",
                 "def": "a blow that renders the opponent unconscious",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd564d72657423919a6501",
@@ -1979,8 +2043,7 @@
             {
                 "id": "54bd565c7265742391119601",
                 "def": "of or relating to kinesthesis",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ],
         "editors": [
@@ -2005,8 +2068,7 @@
             {
                 "id": "54bd565c7265742391119601",
                 "def": "of or relating to kinesthesis",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ],
         "editors": [
@@ -2052,15 +2114,13 @@
                 "id": "5609a28f35653200bd680100",
                 "def": "the Korean language",
                 "example": "I learned to write Korean quickly after learning how to speak it.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "5609a28f35653200bd690100",
                 "def": "a person from the Korea or of Korean descent",
                 "example": "The Koreans liked to share the food of their homeland.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -2081,15 +2141,12 @@
             {
                 "id": "54bd565f7265742391b4a001",
                 "def": "of or relating to or characteristic of Cambodia or its people or language",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             },
             {
                 "id": "565558f3aca2ed00aa0000d5",
                 "def": "an individual from Cambodia",
-                "example": "",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -2131,7 +2188,21 @@
             {
                 "id": "54bd56617265742391eda501",
                 "def": "of living being in an oxygenated environment lacking organic matter",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -2210,7 +2281,21 @@
             {
                 "id": "54bd56637265742391abac01",
                 "def": "of or relating to the division of the nucleus of a cell during mitosis or meiosis",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -2276,8 +2361,7 @@
                 "id": "5654a513986ccb0095000777",
                 "def": "a person from Kenya or of Kenyan descent",
                 "example": "The Kenyans performed very well.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -2360,8 +2444,7 @@
             {
                 "id": "54bd566472657423911eb001",
                 "def": "of or relating to the Quechua people or their language",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ],
         "editors": [
@@ -2382,8 +2465,7 @@
             {
                 "id": "54bd56647265742391ecaf01",
                 "def": "of or concerning Qatar or its inhabitants",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ],
         "editors": [
@@ -2827,8 +2909,7 @@
             {
                 "id": "54bd566d726574239171d001",
                 "def": "a blow that renders the opponent unconscious",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd566d726574239173d001",
@@ -2856,8 +2937,7 @@
             {
                 "id": "54bd566d726574239171d001",
                 "def": "a blow that renders the opponent unconscious",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd566d726574239173d001",
@@ -3285,8 +3365,25 @@
             {
                 "id": "54bd56797265742391fbff01",
                 "def": "a form of torture where fingers are bound between two pieces of bamboo or other wood and squeezed, purportedly used in parts of India around 1830",
-                "example": "",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "Indian",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -3346,7 +3443,25 @@
                 "id": "54bd567a7265742391660202",
                 "def": "sleep, especially a short nap or snooze",
                 "example": "I was annoyed to be roused from my kip.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "UK",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd567a7265742391690202",
@@ -3555,7 +3670,21 @@
             {
                 "id": "54bd56817265742391311c02",
                 "def": "examination of the cornea with a keratoscope to detect irregularities in its anterior surface",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -3589,7 +3718,21 @@
             {
                 "id": "54bd56827265742391dc1f02",
                 "def": "a surgical incision into the cornea",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -3617,9 +3760,7 @@
             {
                 "id": "5654e4a5986ccb00850049fe",
                 "def": "a knave's misbehavior",
-                "example": "",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -3639,8 +3780,7 @@
             {
                 "id": "54bd56847265742391dc2702",
                 "def": "the illegal use of children in pornographic pictures or films",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -3660,8 +3800,7 @@
             {
                 "id": "54bd56847265742391dc2702",
                 "def": "the illegal use of children in pornographic pictures or films",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -3792,6 +3931,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "cardiopulmonary resuscitation"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -3811,7 +3964,21 @@
             {
                 "id": "54bd56887265742391333802",
                 "def": "a movement that is a response to a stimulus but is not oriented with respect to the source of stimulation",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -3916,33 +4083,34 @@
             {
                 "id": "54bd569172657423913f5902",
                 "def": "the act of restraining power or action or limiting excess",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56917265742391405902",
                 "def": "an edge between a sidewalk and a roadway consisting of a line of curbstones (usually forming part of a gutter)",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56917265742391415902",
                 "def": "a horse's bit with an attached chain or strap to check the horse",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56917265742391435902",
                 "def": "to place restrictions on",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             },
             {
                 "id": "54bd56917265742391445902",
                 "def": "to put down by force or authority",
                 "example": "We need to curb this behavoir before it spreads.",
                 "speech_part": "verb",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd56917265742391455902",
@@ -3953,8 +4121,7 @@
             {
                 "id": "54bd56917265742391475902",
                 "def": "to lessen the intensity of",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             }
         ],
         "editors": [
@@ -3982,8 +4149,7 @@
                 "id": "56539e71b2e8f10095000007",
                 "def": "an occurrence that serves as a major motivating factor",
                 "example": "It was a real kick in the butt when they lost their job.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -4132,8 +4298,7 @@
             {
                 "id": "54bd569c7265742391048102",
                 "def": "fuzzy brown egg-shaped fruit with slightly tart green flesh",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd569c7265742391058102",
@@ -4231,25 +4396,53 @@
                 "id": "54bd569f7265742391a38d02",
                 "def": "to fly a kite",
                 "example": "I like to kite when the wind is right.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd569f7265742391a48d02",
                 "def": "to soar or fly like a kite",
                 "example": "The pilot kited for a long time over the mountains.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd569f7265742391a68d02",
                 "def": "to get credit or money by using a bad check",
                 "example": "The businessman kited millions of dollars before they were caught.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd569f7265742391a88d02",
                 "def": "to increase the amount of a check fraudulently",
                 "example": "They kited many checks.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -4289,8 +4482,7 @@
             {
                 "id": "54bd56a37265742391829d02",
                 "def": "any of numerous nonvenomous North American constrictors",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -4309,8 +4501,7 @@
             {
                 "id": "54bd56a37265742391829d02",
                 "def": "any of numerous nonvenomous North American constrictors",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -4577,8 +4768,7 @@
             {
                 "id": "54bd56a87265742391f1af02",
                 "def": "a sluggish tailless Australian arboreal marsupial with grey furry ears and coat",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -4660,8 +4850,7 @@
             {
                 "id": "54bd56ae726574239118c302",
                 "def": "an American plover of inland waters and fields having a distinctive cry",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -4680,8 +4869,7 @@
             {
                 "id": "54bd56ae72657423911bc302",
                 "def": "an American plover of inland waters and fields having a distinctive cry",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -4700,8 +4888,7 @@
             {
                 "id": "54bd56ae72657423911bc302",
                 "def": "an American plover of inland waters and fields having a distinctive cry",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -5095,6 +5282,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "kitty"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -5125,7 +5318,13 @@
                 "id": "54bd56b17265742391c7d002",
                 "def": "to have kittens",
                 "example": "Our cat kittened again this year.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -5255,6 +5454,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "cattle"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -5275,8 +5480,7 @@
             {
                 "id": "54bd56bc726574239108fa02",
                 "def": "either of two spiral-horned antelopes of the African bush",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -5296,8 +5500,7 @@
             {
                 "id": "54bd56bc726574239108fa02",
                 "def": "either of two spiral-horned antelopes of the African bush",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -5317,8 +5520,7 @@
             {
                 "id": "54bd56bc726574239108fa02",
                 "def": "either of two spiral-horned antelopes of the African bush",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -5689,8 +5891,7 @@
                 "id": "56535b6b5c2325008500007b",
                 "def": "a small store that sells convenience products",
                 "example": "I bought a coffee at the kiosk.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -5845,7 +6046,6 @@
             {
                 "id": "54bd56cd7265742391f73803",
                 "def": "trousers ending above the knee",
-                "example": "",
                 "speech_part": "noun",
                 "synonyms": [
                     "knickers"
@@ -6016,6 +6216,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "curbstone"
+                ],
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "UK",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    }
                 ]
             }
         ],
@@ -6451,9 +6665,7 @@
             {
                 "id": "56531ead8f886400850038dc",
                 "def": "cotton plants that are khaki in color",
-                "example": "",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -6544,8 +6756,7 @@
                 "id": "5655fda0aca2ed00850037a2",
                 "def": "to grind coarsely",
                 "example": "The machine kibbles the oats to make it cook faster.",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             }
         ],
         "editors": [
@@ -6667,8 +6878,8 @@
                 "def": "a starter (as on a motorcycle) that is activated with the foot and the weight of the body",
                 "speech_part": "noun",
                 "synonyms": [
-                    "kick-start",
-                    "kick start"
+                    "kick start",
+                    "kick-start"
                 ]
             }
         ]
@@ -6710,7 +6921,12 @@
                 "def": "to use a kick starter to start an engine",
                 "example": "I kick start my bike when it is cold out.",
                 "speech_part": "verb",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -6740,7 +6956,12 @@
                 "def": "to use a kick starter to start an engine",
                 "example": "I kick start my bike when it is cold out.",
                 "speech_part": "verb",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -7000,8 +7221,7 @@
                 "id": "54bd56e272657423914d8a03",
                 "def": "a male sovereign",
                 "example": "ruler of a kingdom",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56e272657423914f8a03",
@@ -7050,8 +7270,7 @@
                 "id": "54bd56e27265742391538903",
                 "def": "the leaves of the shrub Catha edulis which are chewed like tobacco or used to make tea",
                 "example": "The farmer had stained lips from chewing quat.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -7114,7 +7333,21 @@
             {
                 "id": "54bd56e272657423915c8903",
                 "def": "measures thermal conductivity",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -7140,7 +7373,13 @@
                 "id": "54bd56e27265742391618903",
                 "def": "to travel in a small canoe",
                 "example": "We kayaked down the river.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -7179,7 +7418,6 @@
             {
                 "id": "54bd56e27265742391638a03",
                 "def": "a ceremonial four-inch curved dagger that Sikh men and women are obliged to wear at all times",
-                "example": "",
                 "speech_part": "noun"
             }
         ],
@@ -7261,6 +7499,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "lurch"
+                ],
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -7432,8 +7676,7 @@
             {
                 "id": "54bd56e27265742391808a03",
                 "def": "a small garden where vegetables are grown",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -7541,7 +7784,21 @@
             {
                 "id": "54bd56e27265742391a88903",
                 "def": "a medical instrument to examine the cornea in order to detect irregularities in its anterior surface",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -7612,8 +7869,7 @@
             {
                 "id": "54bd56e27265742391b78903",
                 "def": "a general anesthetic and tranquilizer (not a barbiturate) that is administered intravenously or intramuscularly",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -8053,7 +8309,6 @@
             {
                 "id": "54bd56e372657423913f8b03",
                 "def": "a cosmetic preparation used by women in Egypt and Arabia to darken the edges of their eyelids",
-                "example": "",
                 "speech_part": "noun"
             }
         ],
@@ -8168,7 +8423,21 @@
                 "id": "54bd56e372657423916f8b03",
                 "def": "a loose collarless shirt worn by many people on the Indian subcontinent, usually with a salwar, churidars, or pyjama",
                 "example": "I wore a bright yellow kurta on my trip.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "Indian",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -8347,7 +8616,21 @@
             {
                 "id": "54bd56e37265742391b38a03",
                 "def": "an electron tube used to generate or amplify electromagnetic radiation in the microwave region by velocity modulation",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -9078,6 +9361,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "quixotism"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -9155,6 +9444,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "patella"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -9175,7 +9478,21 @@
                 "id": "54bd57117265742391f23a04",
                 "def": "a bean-shaped excretory organ that filters urea and other waste from the blood and excretes them",
                 "example": "Urine passes out of the kidney to the bladder through ureters.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -9196,7 +9513,21 @@
             {
                 "id": "54bd57137265742391854204",
                 "def": "a clear liquid in the cell nucleus in which the nucleolus and chromatin and other structures are dispersed",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -9219,6 +9550,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "nucleoplasm"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -9241,6 +9586,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "nucleus"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -9277,6 +9636,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "centromere"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -9297,7 +9670,21 @@
             {
                 "id": "54bd571572657423913f4704",
                 "def": "the appearance of the chromosomal makeup of a somatic cell in an individual or species, including the number and arrangement and size and structure of the chromosomes",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -9344,6 +9731,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "knee"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -9518,8 +9919,7 @@
             {
                 "id": "54bd571a7265742391435c04",
                 "def": "the ability to feel movements of the limbs and body",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -9544,8 +9944,7 @@
             {
                 "id": "54bd571a7265742391435c04",
                 "def": "the ability to feel movements of the limbs and body",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -9568,6 +9967,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     null
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -9591,6 +10004,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     null
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -9610,8 +10037,7 @@
             {
                 "id": "54bd571a72657423914e5c04",
                 "def": "the ability to feel movements of the limbs and body",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -9631,7 +10057,21 @@
                 "id": "54bd571a7265742391575c04",
                 "def": "an inability to sense bodily movement",
                 "example": "The paralyzed patient displayed kinanesthesia.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -9651,7 +10091,21 @@
                 "id": "54bd571a7265742391575c04",
                 "def": "an inability to sense bodily movement",
                 "example": "The paralyzed patient displayed kinanesthesia.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -9735,7 +10189,21 @@
                 "id": "54bd571c7265742391e76104",
                 "def": "the system of social relationships that constitute kinship in a particular culture, including the terminology that is used and the reciprocal obligations that are entailed",
                 "example": "Anthropologists study kinship systems.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -9780,8 +10248,8 @@
                 "example": "possess knowledge or information about",
                 "speech_part": "verb",
                 "synonyms": [
-                    "cognize",
-                    "cognise"
+                    "cognise",
+                    "cognize"
                 ]
             },
             {
@@ -9874,13 +10342,25 @@
                 "id": "54bd572072657423915a7104",
                 "def": "to set the keynote of",
                 "example": "That song keynotes the album.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd572072657423915c7104",
                 "def": "to deliver the keynote address to an audience",
                 "example": "I'm supposed to keynote this conference.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -9994,7 +10474,21 @@
             {
                 "id": "54bd57237265742391067d04",
                 "def": "a theory that the temperature of a body increases when kinetic energy increases",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -10017,6 +10511,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "dynamics"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -10036,7 +10544,21 @@
             {
                 "id": "54bd572372657423917b7d04",
                 "def": "the branch of mechanics concerned with motion without reference to force or mass",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -10075,8 +10597,7 @@
             {
                 "id": "54bd57237265742391cf7c04",
                 "def": "(physics) a theory that gases consist of small particles in random motion",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -10207,8 +10728,7 @@
                 "id": "54bd572f72657423919aa904",
                 "def": "an esoteric or occult matter resembling the mystical Jewish teachings, based on esoteric writings, that is traditionally secret",
                 "example": "Our human resources manual is a bit of a kabala.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -10230,8 +10750,7 @@
                 "id": "54bd572f72657423919aa904",
                 "def": "an esoteric or occult matter resembling the mystical Jewish teachings, based on esoteric writings, that is traditionally secret",
                 "example": "Our human resources manual is a bit of a kabala.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -10253,8 +10772,7 @@
                 "id": "54bd572f72657423919aa904",
                 "def": "an esoteric or occult matter resembling the mystical Jewish teachings, based on esoteric writings, that is traditionally secret",
                 "example": "Our human resources manual is a bit of a kabala.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -10276,8 +10794,7 @@
                 "id": "54bd572f72657423919aa904",
                 "def": "an esoteric or occult matter resembling the mystical Jewish teachings, based on esoteric writings, that is traditionally secret",
                 "example": "Our human resources manual is a bit of a kabala.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -10299,8 +10816,7 @@
                 "id": "54bd572f72657423919aa904",
                 "def": "an esoteric or occult matter resembling the mystical Jewish teachings, based on esoteric writings, that is traditionally secret",
                 "example": "Our human resources manual is a bit of a kabala.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -10448,7 +10964,21 @@
             {
                 "id": "54bd5738726574239154cc04",
                 "def": "a kind of danceable music popular among black South Africans",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "South African",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -10489,7 +11019,13 @@
                 "id": "54bd573b72657423916dd704",
                 "def": "a nagging complaint, from Yiddish",
                 "example": "Your kvetch is legitimate – they should have been nicer to you!",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd573b72657423916ed704",
@@ -10527,9 +11063,7 @@
             {
                 "id": "54bd573c726574239148dc04",
                 "def": "a former Chinese custom of touching the ground with the forehead as a sign of respect or submission",
-                "example": "",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd573c72657423914adc04",
@@ -10561,9 +11095,7 @@
             {
                 "id": "54bd573c726574239148dc04",
                 "def": "a former Chinese custom of touching the ground with the forehead as a sign of respect or submission",
-                "example": "",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd573c72657423914adc04",
@@ -10595,8 +11127,7 @@
             {
                 "id": "54bd573c726574239160d904",
                 "def": "a speech setting forth the keynote",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -10979,6 +11510,16 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "boodle"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -11014,6 +11555,16 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "boodle"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -11036,7 +11587,6 @@
             {
                 "id": "54bd57467265742391feff04",
                 "def": "boiled or baked buckwheat",
-                "example": "",
                 "speech_part": "noun"
             }
         ],
@@ -11265,8 +11815,7 @@
             {
                 "id": "54bd57497265742391d10905",
                 "def": "salted and smoked herring",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -11431,8 +11980,7 @@
             {
                 "id": "54bd574b7265742391981305",
                 "def": "an alcoholic drink made from the aromatic roots of the kava shrub",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -11444,7 +11992,13 @@
                 "id": "54bd574b7265742391c91205",
                 "def": "a savoury pie that is filled principally with a mixture of diced beef, diced kidney, often of ox, lamb, or pork, fried onion, and brown gravy. ",
                 "example": "Steak and kidney pie is a representative dish of British cuisine.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    }
+                ]
             }
         ],
         "editors": [
@@ -11479,8 +12033,7 @@
                 "id": "54bd574b7265742391fd1105",
                 "def": "cubes of meat marinated and cooked on a skewer usually with vegetables",
                 "example": "We made kebab on the grill last weekend.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -11501,8 +12054,7 @@
                 "id": "54bd574b7265742391fd1105",
                 "def": "cubes of meat marinated and cooked on a skewer usually with vegetables",
                 "example": "We made kebab on the grill last weekend.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -11722,9 +12274,7 @@
             {
                 "id": "56561398aca2ed0085003d1e",
                 "def": "people treated as if they were family",
-                "example": "",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd574d7265742391d61a05",
@@ -11753,9 +12303,7 @@
             {
                 "id": "56561398aca2ed0085003d1e",
                 "def": "people treated as if they were family",
-                "example": "",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd574d7265742391d61a05",
@@ -11784,9 +12332,7 @@
             {
                 "id": "56561398aca2ed0085003d1e",
                 "def": "people treated as if they were family",
-                "example": "",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd574d7265742391d61a05",
@@ -11865,7 +12411,13 @@
             {
                 "id": "54bd574e7265742391231f05",
                 "def": "a local unit of the Ku Klux Klan",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -11937,7 +12489,6 @@
             {
                 "id": "54bd57537265742391e92e05",
                 "def": "communion by intimate participation, associated with the Christian church; fellowship",
-                "example": "",
                 "speech_part": "noun"
             }
         ],
@@ -12164,6 +12715,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "kaon"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -12187,6 +12752,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "kaon"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -12210,6 +12789,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "kettle"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -12346,6 +12939,28 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "sheeny"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "offensive",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -12384,6 +12999,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "Kraut"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "offensive",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -12405,8 +13034,7 @@
                 "id": "54bd577472657423913cab05",
                 "def": "the civil and religious leader of a Muslim state considered to be a representative of Allah on earth",
                 "example": "The khalif ruled over the caliphate.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -12429,8 +13057,7 @@
                 "id": "54bd577472657423913cab05",
                 "def": "the civil and religious leader of a Muslim state considered to be a representative of Allah on earth",
                 "example": "The khalif ruled over the caliphate.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -12453,8 +13080,7 @@
                 "id": "54bd577472657423913cab05",
                 "def": "the civil and religious leader of a Muslim state considered to be a representative of Allah on earth",
                 "example": "The khalif ruled over the caliphate.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -12477,8 +13103,7 @@
                 "id": "54bd577472657423913cab05",
                 "def": "the civil and religious leader of a Muslim state considered to be a representative of Allah on earth",
                 "example": "The khalif ruled over the caliphate.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -12524,8 +13149,7 @@
                 "id": "565323b48f886400850039ba",
                 "def": "something that should be kept",
                 "example": "That puppy is a keeper!",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57767265742391f9b305",
@@ -12666,7 +13290,6 @@
             {
                 "id": "54bd577d72657423910bcc05",
                 "def": "work that enlisted personnel perform to support the kitchen staff",
-                "example": "",
                 "speech_part": "noun"
             }
         ],
@@ -12686,7 +13309,6 @@
             {
                 "id": "54bd577d72657423910bcc05",
                 "def": "work that enlisted personnel perform to support the kitchen staff",
-                "example": "",
                 "speech_part": "noun"
             }
         ],
@@ -12706,7 +13328,6 @@
             {
                 "id": "54bd577d72657423910bcc05",
                 "def": "work that enlisted personnel perform to support the kitchen staff",
-                "example": "",
                 "speech_part": "noun"
             }
         ],
@@ -12820,6 +13441,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "bachelor"
+                ],
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    }
                 ]
             }
         ],
@@ -12842,6 +13469,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "bachelor"
+                ],
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    }
                 ]
             }
         ],
@@ -13054,6 +13687,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "kaffir"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "offensive",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -13276,8 +13923,7 @@
             {
                 "id": "54bd577d7265742391decb05",
                 "def": "a person having kinship with another or others",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -13457,7 +14103,21 @@
             {
                 "id": "54bd57a572657423915d5a06",
                 "def": "the mechanical energy that a body has by virtue of its motion",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -13535,8 +14195,7 @@
             {
                 "id": "54bd57a972657423911a6806",
                 "def": "any of various trees of the genus Agathis",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -13905,8 +14564,7 @@
             {
                 "id": "54bd57b57265742391179206",
                 "def": "European hawkweed introduced into northeastern United States",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -13999,8 +14657,7 @@
             {
                 "id": "54bd57b97265742391e2a106",
                 "def": "a grass native to Europe now cosmopolitan in warm regions",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -14149,8 +14806,7 @@
             {
                 "id": "54bd57bc72657423913caa06",
                 "def": "a valuable fiber plant of East Indies now widespread in cultivation",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -14170,8 +14826,7 @@
             {
                 "id": "54bd57bc72657423913caa06",
                 "def": "a valuable fiber plant of East Indies now widespread in cultivation",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -14378,8 +15033,7 @@
             {
                 "id": "54bd57c07265742391e7ba06",
                 "def": "a sedgelike spring-flowering herb having clustered flowers covered with woolly hairs",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -14398,8 +15052,7 @@
             {
                 "id": "54bd57c07265742391eaba06",
                 "def": "a sedgelike spring-flowering herb having clustered flowers covered with woolly hairs",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -14419,8 +15072,7 @@
             {
                 "id": "54bd57c07265742391eaba06",
                 "def": "a sedgelike spring-flowering herb having clustered flowers covered with woolly hairs",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -14708,8 +15360,7 @@
             {
                 "id": "54bd57c57265742391c5cb06",
                 "def": "asphodel with leafy stem and fragrant yellow flowers",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -14740,8 +15391,7 @@
             {
                 "id": "54bd57c8726574239110d806",
                 "def": "a European annual grown for forage",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -14867,8 +15517,7 @@
             {
                 "id": "54bd57c972657423913fdb06",
                 "def": "a fast-growing vine from eastern Asia having tuberous starchy roots and hairy trifoliate leaves and racemes of purple flowers followed by long hairy pods containing many seeds",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -14889,8 +15538,7 @@
             {
                 "id": "54bd57c972657423913fdb06",
                 "def": "a fast-growing vine from eastern Asia having tuberous starchy roots and hairy trifoliate leaves and racemes of purple flowers followed by long hairy pods containing many seeds",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -14911,7 +15559,21 @@
             {
                 "id": "54bd57c97265742391c1db06",
                 "def": "shrub or small tree of New Zealand and Chile having pendulous racemes of tubular golden-yellow flowers",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -15018,7 +15680,6 @@
             {
                 "id": "54bd57ca7265742391e0dd06",
                 "def": "a fishtail palm native to areas from India to the Malay Peninsula",
-                "example": "",
                 "speech_part": "noun",
                 "synonyms": [
                     "toddy palm"
@@ -15207,7 +15868,6 @@
             {
                 "id": "54bd57d57265742391db0307",
                 "def": "a plant of the genus Besseya having fluffy spikes of flowers",
-                "example": "",
                 "speech_part": "noun"
             }
         ],
@@ -15269,8 +15929,7 @@
             {
                 "id": "54bd57d872657423915f0d07",
                 "def": "tannin extract derived from any of several mangrove barks of Pacific areas",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -15321,8 +15980,7 @@
             {
                 "id": "54bd57d87265742391aa0d07",
                 "def": "fern of rain forests of tropical Australia and New Zealand and South Africa",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -15333,7 +15991,21 @@
             {
                 "id": "54bd57dc7265742391e41c07",
                 "def": "an organism that lives in an oxygenated medium lacking organic matter",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -15395,6 +16067,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "catabolism"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -15415,7 +16101,20 @@
                 "id": "54bd57e572657423912d3907",
                 "def": "introduction during embryonic development of characters or structure not present in the earlier evolutionary history of the strain or species, such as the addition of the placenta in mammalian evolution",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -15437,6 +16136,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     null
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -15457,7 +16170,21 @@
             {
                 "id": "54bd57e67265742391e73c07",
                 "def": "organic process consisting of the division of the nucleus of a cell during mitosis or meiosis",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -15476,7 +16203,21 @@
             {
                 "id": "54bd57e67265742391ea3c07",
                 "def": "the disintegration and dissolution of a cell nucleus when a cell dies",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -15496,7 +16237,21 @@
             {
                 "id": "54bd57e67265742391ed3c07",
                 "def": "a metamorphism that occurs at or near the earth's surface",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -15522,7 +16277,20 @@
                 "id": "54bd57e67265742391f33c07",
                 "def": "an organic process by which keratin is deposited in cells and the cells become horny, as in nails and hair",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -15549,7 +16317,20 @@
                 "id": "54bd57e67265742391f33c07",
                 "def": "an organic process by which keratin is deposited in cells and the cells become horny, as in nails and hair",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -15570,7 +16351,12 @@
                 "id": "54bd57e772657423912a4207",
                 "def": "the unit of measurement for the proportion of gold in an alloy",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -15590,7 +16376,12 @@
                 "id": "54bd57e772657423912a4207",
                 "def": "the unit of measurement for the proportion of gold in an alloy",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -15654,7 +16445,12 @@
                 "id": "54bd57e87265742391374507",
                 "def": "a unit of information equal to 1024 bytes, often mistaken as 1000 bytes",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -15673,7 +16469,8 @@
         "wordset_id": "54bd57e87265742391354507",
         "labels": [
             {
-                "name": "archaic"
+                "name": "archaic",
+                "is_dialect": false
             }
         ],
         "meanings": [
@@ -15681,7 +16478,12 @@
                 "id": "54bd57e87265742391374507",
                 "def": "a unit of information equal to 1024 bytes, often mistaken as 1000 bytes",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -15700,7 +16502,8 @@
         "wordset_id": "54bd57e87265742391354507",
         "labels": [
             {
-                "name": "informal"
+                "name": "informal",
+                "is_dialect": false
             }
         ],
         "meanings": [
@@ -15708,7 +16511,12 @@
                 "id": "54bd57e87265742391374507",
                 "def": "a unit of information equal to 1024 bytes, often mistaken as 1000 bytes",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -15747,6 +16555,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "kilobit"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -15769,6 +16583,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "kilobit"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -15805,6 +16625,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "homer"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -15827,6 +16653,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "kibibit"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -15847,7 +16679,13 @@
                 "id": "54bd57e87265742391c24407",
                 "def": "a British unit of capacity equal to 18 Imperial gallons",
                 "example": "The kilderkins that line one wall of the brewpub are just for decoration—there's no beer in them.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -15884,6 +16722,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "kilovolt"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -15939,7 +16783,21 @@
             {
                 "id": "54bd57e972657423913d4707",
                 "def": "a unit of electrical power equal to 1000 volt-amperes",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -15959,12 +16817,24 @@
             {
                 "id": "54bd57e972657423915f4707",
                 "def": "a measure of explosive power, of an atomic weapon,  equal to that of 1000 tons of TNT",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd57e97265742391604707",
                 "def": "one thousand tons",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -16030,8 +16900,7 @@
                 "id": "54bd57e972657423917a4807",
                 "def": "a metric unit of length equal to 1000 meters",
                 "example": "Arguably San Diego's most vibrant beach community, Ocean Beach lies a mere 11 km from the city's Gaslamp Quarter.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -16052,8 +16921,7 @@
                 "id": "54bd57e972657423917d4807",
                 "def": "an informal or military term for a kilometer",
                 "example": "We need to hike 5 klicks to get to our destination.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -16432,6 +17300,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "kilowatt hour"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -16451,7 +17325,13 @@
             {
                 "id": "54bd57eb7265742391324f07",
                 "def": "a unit of work equal to the work done by a one kilogram force operating through a distance of one meter",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -16737,7 +17617,21 @@
             {
                 "id": "54bd57f272657423914e6707",
                 "def": "an abnormal bulging of the cornea of the eye",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -16756,7 +17650,21 @@
             {
                 "id": "54bd57f27265742391516707",
                 "def": "an abnormal cone-shaped protrusion of the cornea of the eye",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -16778,6 +17686,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     null
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -16801,6 +17723,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "type I diabetes"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -16823,6 +17759,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "type I diabetes"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -16844,7 +17794,21 @@
                 "id": "54bd57f27265742391d46707",
                 "def": "a progressive disease of the central nervous system marked by increasing lack of coordination and advancing to paralysis and death within a year of the appearance of symptoms",
                 "example": "Contracting kuru is one of my biggest fears.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -16866,6 +17830,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "type II diabetes"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -16888,6 +17866,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "type II diabetes"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -16910,6 +17902,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "type II diabetes"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -16933,6 +17939,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "type II diabetes"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -16956,6 +17976,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "scrofula"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -16976,7 +18010,21 @@
                 "id": "54bd57f37265742391ba6907",
                 "def": "ringworm infection of the hair follicles of the scalp and beard that usually results in a swelling that is covered with pustules and oozes fluid",
                 "example": "Some of the wrestlers have kerion.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -16999,6 +18047,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "mono"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -17021,6 +18075,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "leishmaniasis"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -17043,6 +18111,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "visceral leishmaniasis"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -17062,7 +18144,21 @@
             {
                 "id": "54bd57f47265742391a26f07",
                 "def": "a fungal infection of the cornea",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -17081,7 +18177,21 @@
             {
                 "id": "54bd57f47265742391bd6f07",
                 "def": "ulcerated chilblain on the heel",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -17100,7 +18210,21 @@
             {
                 "id": "54bd57f57265742391717107",
                 "def": "the endemic form of beriberi",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -17120,7 +18244,21 @@
                 "id": "54bd57f57265742391807107",
                 "def": "a severe malnutrition in children resulting from a diet excessively high in carbohydrates and low in protein",
                 "example": "Kwashiorkor is one potential consequence of famine.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -17143,6 +18281,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "acanthosis nigricans"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -17166,6 +18318,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "motion sickness"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -17186,7 +18352,21 @@
             {
                 "id": "54bd57f67265742391207507",
                 "def": "skin tumor that grows rapidly, especially in older people, and resembles a carcinoma but does not spread",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -17222,6 +18402,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "keratoderma"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -17241,7 +18435,21 @@
             {
                 "id": "54bd57f672657423912c7407",
                 "def": "any abnormal condition of the epidermis",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -17261,7 +18469,21 @@
             {
                 "id": "54bd57f672657423912f7407",
                 "def": "a skin condition marked by an overgrowth of layers of horny skin",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -17297,6 +18519,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "keratosis blennorrhagica"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -17316,7 +18552,21 @@
             {
                 "id": "54bd57f672657423913b7407",
                 "def": "a rare hereditary condition marked by dark crusted patches, sometimes containing pus",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -17336,7 +18586,21 @@
                 "id": "54bd57f67265742391417407",
                 "def": "keratosis characterized by hard conical elevations in the openings of sebaceous glands, especially of arms and thighs",
                 "example": "I went to the dermatologist to have the small bumps on my upper arm checked out and was diagnosed with keratosis pilaris.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -17356,7 +18620,21 @@
             {
                 "id": "54bd57f67265742391e27607",
                 "def": "any disease of the cornea",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -17376,7 +18654,21 @@
                 "id": "54bd57f77265742391317807",
                 "def": "the presence of excess potassium in the circulating blood",
                 "example": "While kalemia usually isn't fatal, hyperkalemia can induce arrhythmia.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -17412,6 +18704,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "kaliuresis"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -17449,6 +18755,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "ketonuria"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -17468,7 +18788,21 @@
             {
                 "id": "54bd57f77265742391687a07",
                 "def": "a hernia of the cornea",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -17487,7 +18821,21 @@
             {
                 "id": "54bd57f77265742391eb7707",
                 "def": "softening and drying and ulceration of the cornea resulting from vitamin A deficiency",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -17524,6 +18872,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "ketonemia"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -17544,7 +18906,21 @@
             {
                 "id": "54bd57f87265742391177d07",
                 "def": "pain in the cornea",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -17563,7 +18939,21 @@
             {
                 "id": "54bd57f87265742391497c07",
                 "def": "an abnormal accumulation of bile pigment in the brain and other nerve tissue",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -17597,7 +18987,21 @@
             {
                 "id": "54bd57f97265742391ef7e07",
                 "def": "inflammation of the cornea causing watery, painful eyes and blurred vision",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -17616,7 +19020,21 @@
             {
                 "id": "54bd57f97265742391f27e07",
                 "def": "inflammation of the cornea and conjunctiva",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -17636,7 +19054,21 @@
                 "id": "54bd57f97265742391f57e07",
                 "def": "inflammation of the cornea and the iris of the eye",
                 "example": "My eye doctor treated my keratoiritis.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -17655,7 +19087,21 @@
             {
                 "id": "54bd57f97265742391f87e07",
                 "def": "inflammation of the cornea and sclera of the eye",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -17698,6 +19144,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "fix"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "euphemistic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -17789,6 +19249,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "humpback"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -17869,7 +19343,21 @@
             {
                 "id": "54bd57fd7265742391e18d07",
                 "def": "atrophy and shriveling of the skin or mucous membrane",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -17888,8 +19376,7 @@
             {
                 "id": "54bd57ff7265742391f49307",
                 "def": "a colorless element that is one of the six inert gasses",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -18117,7 +19604,6 @@
             {
                 "id": "54bd58027265742391c99e07",
                 "def": "soft smooth leather from the hide of a young goat",
-                "example": "",
                 "speech_part": "noun",
                 "synonyms": [
                     "kid"
@@ -18179,7 +19665,6 @@
             {
                 "id": "54bd58047265742391e3a507",
                 "def": "a light soil consisting of siliceous diatom remains and often used as a filtering material",
-                "example": "",
                 "speech_part": "noun",
                 "synonyms": [
                     "diatomaceous earth"
@@ -18303,7 +19788,21 @@
             {
                 "id": "54bd5806726574239172ad07",
                 "def": "hyaline in the large granules of the stratum granulosum",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -18323,7 +19822,21 @@
             {
                 "id": "54bd5806726574239175ad07",
                 "def": "any of a class of organic compounds having a carbonyl group linked to a carbon atom in each of two hydrocarbon radicals",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -18357,7 +19870,21 @@
             {
                 "id": "54bd5806726574239190ad07",
                 "def": "any monosaccharide sugar that contains a ketone group or its hemiacetal",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -18377,7 +19904,21 @@
             {
                 "id": "54bd5806726574239193ad07",
                 "def": "an enzyme that catalyzes the conversion of a proenzyme to an active enzyme",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -18659,6 +20200,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "kilohertz"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -18750,6 +20305,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     null
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -18824,6 +20385,32 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "impregnate"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -18846,7 +20433,25 @@
                 "id": "54bd5812726574239199d607",
                 "def": "to manage not to throw up",
                 "example": "I kept the food down, barely.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd581272657423919bd607",
@@ -18855,6 +20460,24 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "reduce"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -18875,7 +20498,25 @@
                 "id": "54bd58137265742391a1d907",
                 "def": "to remain outside",
                 "example": "You should keep out of that neighborhood.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd58137265742391a2d907",
@@ -18884,6 +20525,24 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "bar"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -18907,6 +20566,20 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "keep up"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -18969,6 +20642,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "choke"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -18994,6 +20673,24 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "blast"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -19003,6 +20700,24 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "down"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -19074,7 +20789,20 @@
                 "def": "to separate",
                 "example": "Keep them apart or they'll start an argument.",
                 "speech_part": "verb",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -19155,8 +20883,7 @@
                 "id": "54bd581d726574239104fb07",
                 "def": "to be well-informed",
                 "example": "They really know what's what about the upcoming election.",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             }
         ],
         "editors": [
@@ -19199,6 +20926,20 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "know what's going on"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -19282,6 +21023,24 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "yield"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -19407,6 +21166,20 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "keep quiet"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -19444,6 +21217,24 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "kibitz"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    }
                 ]
             }
         ],
@@ -19468,6 +21259,16 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "close up"
+                ],
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -19514,6 +21315,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "keep step"
+                ],
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -19552,6 +21359,24 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "crape"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -19607,6 +21432,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "massage"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -19616,6 +21447,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "work"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -19642,6 +21479,24 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "run into"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -19665,6 +21520,20 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "exterminate"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -19689,6 +21558,16 @@
                 "synonyms": [
                     "KO",
                     "kayo"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -19741,6 +21620,20 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "buffet"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -19785,8 +21678,7 @@
                 "id": "54bd58297265742391042608",
                 "def": "open violently",
                 "example": "kick in the doors",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             },
             {
                 "id": "54bd58297265742391062608",
@@ -19814,8 +21706,7 @@
                 "id": "54bd582972657423910a2608",
                 "def": "to kick open violently",
                 "example": "I'm going to kick down the door if I can't find my keys.",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             }
         ],
         "editors": [
@@ -19881,6 +21772,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "control"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -19904,6 +21801,24 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "overturn"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -19924,7 +21839,25 @@
                 "id": "54bd582c7265742391cf3008",
                 "def": "to turn over and fall",
                 "example": "They keeled over and died.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -19947,6 +21880,16 @@
                 "speech_part": "verb",
                 "synonyms": [
                     null
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "euphemistic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -19970,6 +21913,16 @@
                 "speech_part": "verb",
                 "synonyms": [
                     null
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "euphemistic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -19991,7 +21944,12 @@
                 "def": "to pay attention",
                 "example": "You better keep your eyes open if you want to catch the burglar.",
                 "speech_part": "verb",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -20014,6 +21972,24 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "restrain"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -20023,6 +21999,24 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "hold"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -20044,13 +22038,25 @@
                 "id": "54bd582e7265742391343708",
                 "def": "to withhold information from the attention of others",
                 "example": "Keep these documents to yourself.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd582e7265742391353708",
                 "def": "to shun the company of others",
                 "example": "They keep to themselves mostly.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -20074,6 +22080,24 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "kit"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -20097,6 +22121,24 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "kit"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -20104,7 +22146,24 @@
                 "def": "to supply onself with a set of articles or tools",
                 "example": "I kitted up before I went on the hiking trip.",
                 "speech_part": "verb",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -20129,6 +22188,24 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "slave"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -20152,6 +22229,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "stand guard"
+                ],
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -20176,6 +22259,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "watch"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -20196,7 +22285,17 @@
                 "id": "54bd58307265742391413e08",
                 "def": "to keep a record on or watch attentively",
                 "example": "I have to keep tabs on my kids to make sure they do their homework.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -20219,6 +22318,28 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "inaugurate"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -20242,6 +22363,24 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "raise"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -20289,6 +22428,24 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "expel"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -20298,6 +22455,24 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "expel"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -20318,7 +22493,25 @@
                 "id": "54bd58307265742391b03f08",
                 "def": "to cause to stay indoors",
                 "example": "The weather kept us in this weekend.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -20341,6 +22534,24 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "keep"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -20365,6 +22576,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "plug away"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -20389,6 +22606,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "plug away"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -20410,7 +22633,25 @@
                 "id": "54bd58307265742391003e08",
                 "def": "to prevent from coming close",
                 "example": "The barbed wire is supposed to keep potential vandals and thieves away.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -20481,6 +22722,16 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "stand back"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -20507,6 +22758,20 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "stand back"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -20553,13 +22818,49 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "put back"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
                 "id": "54e6349a34393700030c0000",
                 "def": "to drink quickly",
                 "example": "I knocked back 3 shots of tequila and staggered to the jukebox.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -20597,6 +22898,24 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "company"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -20666,7 +22985,33 @@
                 "id": "55958e5c35306100980a0000",
                 "def": "another word for food",
                 "example": "Let's get some Italian knosh.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "US",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "American",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -20687,7 +23032,13 @@
                 "id": "55ae9497376566008a0c0000",
                 "def": "a form of address used for children",
                 "example": "Hurry up kiddo, we're going to be late!",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -20703,12 +23054,15 @@
         "wordset_id": "5612d35cc5a9ff00030000b0",
         "labels": [
             {
-                "name": "informal"
+                "name": "informal",
+                "is_dialect": false
             },
             {
                 "name": "slang",
+                "is_dialect": false,
                 "parent": {
-                    "name": "informal"
+                    "name": "informal",
+                    "is_dialect": false
                 }
             },
             {
@@ -20721,8 +23075,7 @@
                 "id": "5612d35dc5a9ff00030000b1",
                 "def": "a modern instrument featuring the neck of a guitar and an electronic keyboard; played by supporting with a shoulder strap. The neck has various controls- for instance vibrato, sustain and pitch bend- that affect the quality of the notes played on the keyboard",
                 "example": "They are absolutely rocking that keytar solo!",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -20746,8 +23099,7 @@
                 "id": "56325fc2fad02f00850072c9",
                 "def": "a government which is ruled by the most undesirable or corrupt people in society",
                 "example": "While kakistocracies have never risen to great power and don't pose a grand threat, they remind us that our current government could always be worse.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -20768,8 +23120,7 @@
                 "id": "565322c28f886400a5000af6",
                 "def": "the amount of space between letters in a font",
                 "example": "I manually tweaked the kerning of the title of the headline.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -20789,15 +23140,13 @@
                 "id": "565322d48f88641a8200008d",
                 "def": "a cut made by a saw",
                 "example": "There were kerfs in the wood to allow it to bend.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "565322d48f88641a8200008e",
                 "def": "the width of a saw cut",
                 "example": "My first attempts at carpentry did not account for the kerf.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -20823,8 +23172,7 @@
                 "id": "5654a5f9986ccb0085003c53",
                 "def": "in a vehicle with an automatic transmission, a device for changing gears by fully depressing the accelerator pedal",
                 "example": "I forced the kickdown to engage so my car would take off faster.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -20851,8 +23199,7 @@
                 "id": "5654a5f9986ccb0085003c53",
                 "def": "in a vehicle with an automatic transmission, a device for changing gears by fully depressing the accelerator pedal",
                 "example": "I forced the kickdown to engage so my car would take off faster.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [

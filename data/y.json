@@ -104,8 +104,7 @@
                 "id": "54bd55e372657423919f1000",
                 "def": "at or in an indicated (usually distant) place (`yon' is archaic and dialectal)",
                 "example": "the house yonder",
-                "speech_part": "adverb",
-                "synonyms": []
+                "speech_part": "adverb"
             },
             {
                 "id": "54bd55e37265742391a21000",
@@ -445,8 +444,7 @@
                 "id": "54bd560c7265742391ec8f00",
                 "def": "of the color intermediate between green and orange in the color spectrum",
                 "example": "That car is an awful yellowish color.",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ],
         "editors": [
@@ -465,8 +463,7 @@
             {
                 "id": "54bd560c7265742391f28f00",
                 "def": "of beige tinged with yellow",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ]
     },
@@ -498,8 +495,7 @@
             {
                 "id": "54bd560c7265742391fb8f00",
                 "def": "of orange tinged with yellow",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ]
     },
@@ -510,8 +506,7 @@
             {
                 "id": "54bd560d72657423918f9100",
                 "def": "of grey tinged with yellow",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ]
     },
@@ -522,8 +517,7 @@
             {
                 "id": "54bd560d72657423919b9100",
                 "def": "of a white tinged with yellow",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ]
     },
@@ -555,7 +549,13 @@
                 "id": "54bd5612726574239156a100",
                 "def": "inclined to tell long and involved stories, often of incredible happenings",
                 "example": "They all enjoyed the yarn-spinning sailor's tales of adventure.",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -813,8 +813,7 @@
                 "id": "54bd563672657423910d1601",
                 "def": "operating or continuing throughout the year",
                 "example": "a year-round resort",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ]
     },
@@ -831,9 +830,7 @@
             {
                 "id": "56298575088f120085001d6e",
                 "def": "an inhabitant of a northern state in the United States, especially a Union soldier during the Civil War, typically used by inhabitants of the southern United States as a pejorative term",
-                "example": "",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -1188,8 +1185,7 @@
                 "id": "56297d27088f1200c200002b",
                 "def": "a Native American tribal person living in southern California or western Arizona",
                 "example": "The Yumans also had loose political structure and control.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -1533,8 +1529,7 @@
             {
                 "id": "54bd569a72657423912b7b02",
                 "def": "nutritive material of an ovum stored for the nutrition of an embryo (especially the yellow mass of a bird or reptile egg)",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd569a72657423912c7b02",
@@ -1573,14 +1568,12 @@
             {
                 "id": "54bd569c7265742391358302",
                 "def": "European bunting the male being bright yellow",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd569c7265742391368302",
                 "def": "large flicker of eastern North America with a red neck and yellow undersurface to wings and tail",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -1638,8 +1631,7 @@
             {
                 "id": "54bd56b572657423912fdd02",
                 "def": "small yellow-marked social wasp commonly nesting in the ground",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56b5726574239130dd02",
@@ -1716,8 +1708,7 @@
             {
                 "id": "54bd56c272657423910f1003",
                 "def": "superior food fish of the tropical Atlantic and Caribbean with broad yellow stripe along the sides and on the tail",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -1871,7 +1862,21 @@
                 "id": "54bd56fe72657423913bf103",
                 "def": "a sharply directional antenna",
                 "example": "We pointed the yagi toward the signal's source.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -1934,6 +1939,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "cubic yard"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             },
             {
@@ -2367,8 +2386,7 @@
                 "id": "562a70d7088f1200c20000d9",
                 "def": "the control mechanism for an aircraft",
                 "example": "The pilot pulled back on the yoke to straighten out the plane's path.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -2397,8 +2415,7 @@
                 "id": "56297de6088f12009700028f",
                 "def": "to play with a yo-yo",
                 "example": "My nibling can yo-yo with both hands at the same time.",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             }
         ],
         "editors": [
@@ -2557,8 +2574,7 @@
                 "id": "5625aaffb90e58009700140e",
                 "def": "cowardlyness",
                 "example": "Your yellowness is showing.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -2597,8 +2613,7 @@
             {
                 "id": "54bd57107265742391533604",
                 "def": "bone marrow that is yellow with fat",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -2868,6 +2883,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "scream"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -3171,14 +3192,56 @@
                 "def": "to rotate along the vertical axis in the horizontal plane",
                 "example": "The plane yawed to the left to match the new heading.",
                 "speech_part": "verb",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "mathematical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "56297e39088f1200c2000065",
                 "def": "a direction of rotation along the vertical axis in the horizontal plane",
                 "example": "The yaw of the plane was affected by the unbalanced thrust.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "mathematical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd573f72657423917ae604",
@@ -3309,8 +3372,7 @@
             {
                 "id": "54bd57467265742391b60005",
                 "def": "any of a number of tropical vines of the genus Dioscorea many having edible tuberous roots",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57467265742391b70005",
@@ -3327,8 +3389,7 @@
                 "id": "54bd574a7265742391b60f05",
                 "def": "a custard-like food made from curdled milk",
                 "example": "I mixed granola with my morning yogurt.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -3354,8 +3415,7 @@
                 "id": "54bd574a7265742391b60f05",
                 "def": "a custard-like food made from curdled milk",
                 "example": "I mixed granola with my morning yogurt.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -3374,8 +3434,7 @@
             {
                 "id": "54bd574a7265742391bc0f05",
                 "def": "a custard-like food made from curdled milk",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -3573,12 +3632,15 @@
         "wordset_id": "54bd57707265742391cd9b05",
         "labels": [
             {
-                "name": "informal"
+                "name": "informal",
+                "is_dialect": false
             },
             {
                 "name": "slang",
+                "is_dialect": false,
                 "parent": {
-                    "name": "informal"
+                    "name": "informal",
+                    "is_dialect": false
                 }
             },
             {
@@ -3598,9 +3660,33 @@
             {
                 "id": "56297d12088f120085001558",
                 "def": "a fan of the Tottenham Hotspur Football Club",
-                "example": "",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "UK",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd57707265742391cf9b05",
@@ -3609,6 +3695,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "sheeny"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "offensive",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -3660,6 +3760,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "tough"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "offensive",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -3691,6 +3805,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "tough"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "offensive",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -3722,6 +3850,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "tough"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "offensive",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -3957,7 +4099,8 @@
         "wordset_id": "54bd578a72657423910afb05",
         "labels": [
             {
-                "name": "archaic"
+                "name": "archaic",
+                "is_dialect": false
             }
         ],
         "meanings": [
@@ -3989,7 +4132,21 @@
                 "id": "54bd578a72657423910ffb05",
                 "def": "a young radical who agitates for reform",
                 "example": "The conservative leadership was irritated by the suggestions of the young Turks.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -4028,8 +4185,7 @@
             {
                 "id": "54bd578a7265742391c0fa05",
                 "def": "a person who owns or sails a yacht",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -4055,7 +4211,21 @@
                 "id": "54bd578a7265742391ccfa05",
                 "def": "member of an international gang of Jamaican criminals who sell drugs and violence",
                 "example": "A much publicized raid on yardies had first been simulated.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -4248,8 +4418,7 @@
                 "id": "5625a92bb90e5800850022ef",
                 "def": "a person who acts recklessly or dangerously",
                 "example": "These yahoos keep driving down the street at 70 mph.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd578a7265742391fafa05",
@@ -4277,8 +4446,7 @@
             {
                 "id": "54bd57a872657423919a6606",
                 "def": "tall evergreen of the Pacific coast of North America often cultivated for ornament",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -4289,8 +4457,7 @@
             {
                 "id": "54bd57a972657423919a6806",
                 "def": "any of various trees having yellowish wood or yielding a yellow extract",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57a972657423919b6806",
@@ -4306,8 +4473,7 @@
             {
                 "id": "54bd57a97265742391b96806",
                 "def": "West Indian evergreen with medium to long leaves",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -4434,8 +4600,7 @@
             {
                 "id": "54bd57b77265742391029b06",
                 "def": "maroon to purple-brown orchid with yellow lip",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -4489,8 +4654,7 @@
             {
                 "id": "54bd57c4726574239199c806",
                 "def": "common yellow-flowered iris of Europe and North Africa, naturalized in United States and often cultivated",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -4566,8 +4730,7 @@
             {
                 "id": "54bd57cd7265742391c6e806",
                 "def": "common yellow-flowered perennial bedstraw",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -4702,8 +4865,7 @@
             {
                 "id": "54bd57eb7265742391764d07",
                 "def": "the basic unit of money in China",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -4752,8 +4914,7 @@
             {
                 "id": "54bd57f47265742391de6c07",
                 "def": "confusion of yellow and blue",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -4838,7 +4999,21 @@
                 "id": "54bd57fd7265742391458e07",
                 "def": "in cosmology, the original matter that, according to the big bang theory, existed before the formation of the chemical elements",
                 "example": "The ylem existed before atoms formed from electrons, neutrons and protons.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -4858,7 +5033,29 @@
                 "id": "54bd57fd72657423919d8b07",
                 "def": "the threat to Western civilization said to arise from the power of Asiatic peoples",
                 "example": "The inflammatory newspaper incited fears of the yellow peril every time it mentioned an Asian person.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "offensive",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "euphemistic",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -4877,8 +5074,7 @@
             {
                 "id": "54bd58007265742391699607",
                 "def": "a soft silvery metallic element",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -4889,8 +5085,7 @@
             {
                 "id": "54bd580072657423916f9607",
                 "def": "a silvery metallic element that is common in rare-earth minerals",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -4924,8 +5119,7 @@
             {
                 "id": "54bd58047265742391f8a507",
                 "def": "pigment consisting of a limonite mixed with clay and silica",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -5022,8 +5216,7 @@
                 "id": "54bd58177265742391fce507",
                 "def": "to dye fabric before it is spun",
                 "example": "I yard-dye the fabric for our company.",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             }
         ],
         "editors": [
@@ -5111,6 +5304,20 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "jaw"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -5134,6 +5341,20 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "jaw"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -5186,15 +5407,27 @@
                 "id": "56297ce6088f12008500152b",
                 "def": "a quick, sudden pulling movement",
                 "example": "The yank on the rope caught me off guard.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "56297ce6088f12008500152c",
                 "def": "short for yankee i.e. an American, often pejorative ",
                 "example": "This cafe is full of drunken yanks.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -5252,7 +5485,21 @@
                 "id": "54bd582e7265742391c73708",
                 "def": "to surrender, as a result of pressure or force",
                 "example": "The troops were forced to yield up by a punishing enemy.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -5272,7 +5519,21 @@
                 "id": "55a6ea2b663538008ac50000",
                 "def": "a greeting like 'hi'",
                 "example": "Yo, what's up?",
-                "speech_part": "interjection"
+                "speech_part": "interjection",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -5291,9 +5552,21 @@
             {
                 "id": "5612d332c5a9ff000300006c",
                 "def": "shortened form of \"you only live once\"",
-                "example": "",
                 "speech_part": "phrase",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -5312,8 +5585,7 @@
             {
                 "id": "5612d33fc5a9ff0003000087",
                 "def": "a period of time equal to one septillion seconds, or 10^24",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -5336,7 +5608,40 @@
                 "def": "second person plural pronoun, contraction of \"you all\"",
                 "example": "I don't know about y'all, but I'm ready for bed.",
                 "speech_part": "pronoun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "US",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "American",
+                            "is_dialect": true
+                        }
+                    },
+                    {
+                        "name": "AAVE",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "American",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -5359,7 +5664,40 @@
                 "def": "second person plural pronoun, contraction of \"you all\"",
                 "example": "I don't know about y'all, but I'm ready for bed.",
                 "speech_part": "pronoun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "US",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "American",
+                            "is_dialect": true
+                        }
+                    },
+                    {
+                        "name": "AAVE",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "American",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             }
         ],
         "editors": [

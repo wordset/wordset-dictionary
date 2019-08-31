@@ -12,6 +12,12 @@
                     "O.K.",
                     "all right",
                     "alright"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -76,6 +82,12 @@
                     "O.K.",
                     "all right",
                     "alright"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -140,6 +152,12 @@
                     "O.K.",
                     "all right",
                     "alright"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -204,6 +222,12 @@
                     "O.K.",
                     "all right",
                     "alright"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -264,9 +288,9 @@
                 "def": "in a satisfactory or adequate manner",
                 "speech_part": "adverb",
                 "synonyms": [
+                    "okeh",
                     "o.k.",
                     "ok",
-                    "okeh",
                     "okay"
                 ]
             },
@@ -276,9 +300,9 @@
                 "example": "they gave us the O.K. to go ahead",
                 "speech_part": "noun",
                 "synonyms": [
+                    "okeh",
                     "o.k.",
                     "ok",
-                    "okeh",
                     "okay"
                 ]
             },
@@ -494,6 +518,12 @@
                 "speech_part": "adverb",
                 "synonyms": [
                     "unexpectedly"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -532,7 +562,25 @@
                 "id": "54bd55e07265742391290800",
                 "def": "removed from the picture, by implication murdered",
                 "example": "The mob boss wanted all rivals out of the way.",
-                "speech_part": "adverb"
+                "speech_part": "adverb",
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "US",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "American",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd55e072657423912b0800",
@@ -793,9 +841,9 @@
                 "def": "an endorsement",
                 "speech_part": "noun",
                 "synonyms": [
+                    "okeh",
                     "o.k.",
                     "ok",
-                    "okeh",
                     "okay"
                 ]
             }
@@ -2174,7 +2222,13 @@
                 "id": "54bd55e772657423913c2000",
                 "def": "on the run or in a hurry",
                 "example": "They wrote those letters on the fly.",
-                "speech_part": "adverb"
+                "speech_part": "adverb",
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -3108,8 +3162,7 @@
             {
                 "id": "54bd55ea7265742391762c00",
                 "def": "a transparency for use with an overhead projector",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd55ea7265742391772c00",
@@ -5081,7 +5134,13 @@
                 "id": "54bd55fd7265742391c96300",
                 "def": "of a ball, not currently able to be used in the game",
                 "example": "A ball that is out of play is dead.",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -6842,7 +6901,21 @@
                 "id": "54bd5612726574239112a000",
                 "def": "not easily explained",
                 "example": "It is odd that your name is never mentioned.",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "offensive",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd5612726574239114a000",
@@ -7089,6 +7162,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "downright"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -8593,8 +8672,7 @@
             {
                 "id": "54bd5623726574239132d400",
                 "def": "violating or tending to violate or offend against",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             },
             {
                 "id": "54bd5623726574239133d400",
@@ -12736,7 +12814,21 @@
                 "id": "54bd56477265742391f15201",
                 "def": "of a leaf shape, having a broad rounded apex and a tapering base",
                 "example": "This oblanceolate leaf has been genetically modified.",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -12820,8 +12912,7 @@
             {
                 "id": "54bd56497265742391105901",
                 "def": "being ten more than one hundred ten",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ]
     },
@@ -13531,8 +13622,7 @@
             {
                 "id": "54bd565272657423919a7501",
                 "def": "visible",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             },
             {
                 "id": "54bd565272657423919b7501",
@@ -16555,8 +16645,8 @@
                     "appal",
                     "appall",
                     "offend",
-                    "scandalise",
-                    "scandalize"
+                    "scandalize",
+                    "scandalise"
                 ]
             },
             {
@@ -17823,8 +17913,7 @@
             {
                 "id": "54bd568872657423917e3602",
                 "def": "natural family planning in which the fertile period is inferred from changes in the character and quantity of cervical mucus",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -18751,7 +18840,21 @@
                 "id": "54bd568d7265742391e24a02",
                 "def": "a procedure whereby a party to a suit says that a particular line of questioning, witness, piece of evidence, or other matter is improper and should not be continued and asks the court to rule on its impropriety or illegality",
                 "example": "The testimony was punctuated by a series of objections from the defendant's lawyer.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd568d7265742391e34a02",
@@ -21656,6 +21759,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     null
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -22817,8 +22926,7 @@
             {
                 "id": "54bd56e972657423917ea203",
                 "def": "any of a group of liquid edible fats that are obtained from plants",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56e972657423917fa203",
@@ -27696,8 +27804,7 @@
             {
                 "id": "54bd57137265742391084004",
                 "def": "one of the veins that drain the ovaries",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -27708,8 +27815,7 @@
             {
                 "id": "54bd57137265742391ea3f04",
                 "def": "a tributary of the coronary sinus",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -27720,8 +27826,7 @@
             {
                 "id": "54bd57137265742391f03f04",
                 "def": "a vein formed by the union of tributaries that drain the hip joints and thigh muscles",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -27732,8 +27837,7 @@
             {
                 "id": "54bd57137265742391f63f04",
                 "def": "a vein that drains the occipital region",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -27744,8 +27848,7 @@
             {
                 "id": "54bd57137265742391fc3f04",
                 "def": "either of two veins that serve the eye",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -27983,6 +28086,20 @@
                     "nervus opticus",
                     "second cranial nerve",
                     "optic tract"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -29168,7 +29285,13 @@
             {
                 "id": "54bd57217265742391cd7404",
                 "def": "the doctrine that the meaning of a proposition consists of the operations involved in proving or applying it",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -30274,9 +30397,9 @@
                 "def": "an endorsement",
                 "speech_part": "noun",
                 "synonyms": [
+                    "okeh",
                     "o.k.",
                     "ok",
-                    "okeh",
                     "okay"
                 ]
             }
@@ -30937,6 +31060,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "orinasal"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -32054,8 +32183,7 @@
             {
                 "id": "54bd574772657423912c0405",
                 "def": "long white salsify",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd574772657423912d0405",
@@ -32421,9 +32549,7 @@
             {
                 "id": "561705f6438dad009400002b",
                 "def": "state of being out of touch with contemporary times, especially with regard to social mores and fashion",
-                "example": "",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd574c7265742391a51605",
@@ -37149,8 +37275,7 @@
             {
                 "id": "54bd57e07265742391a92907",
                 "def": "forest or woodland having a mature or overly mature ecosystem more or less uninfluenced by human activity",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -38299,8 +38424,7 @@
             {
                 "id": "54bd57eb72657423914d5007",
                 "def": "one part in ten thousand equal parts",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -39991,8 +40115,7 @@
             {
                 "id": "54bd57ff7265742391a59407",
                 "def": "a hard brittle blue-grey or blue-black metallic element that is one of the platinum metals",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -40003,8 +40126,7 @@
             {
                 "id": "54bd57ff7265742391ae9407",
                 "def": "a nonmetallic bivalent element that is normally a colorless odorless tasteless nonflammable diatomic gas",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -42099,8 +42221,8 @@
                 "def": "add oxygen to or combine with oxygen",
                 "speech_part": "verb",
                 "synonyms": [
-                    "oxidize",
-                    "oxidise"
+                    "oxidise",
+                    "oxidize"
                 ]
             },
             {
@@ -42108,8 +42230,8 @@
                 "def": "enter into a combination with oxygen or become converted into an oxide",
                 "speech_part": "verb",
                 "synonyms": [
-                    "oxidize",
-                    "oxidise"
+                    "oxidise",
+                    "oxidize"
                 ]
             }
         ]
@@ -42304,8 +42426,8 @@
                 "def": "make impersonal or present as an object",
                 "speech_part": "verb",
                 "synonyms": [
-                    "depersonalize",
-                    "depersonalise"
+                    "depersonalise",
+                    "depersonalize"
                 ]
             },
             {
@@ -42313,8 +42435,8 @@
                 "def": "make external or objective, or give reality to",
                 "speech_part": "verb",
                 "synonyms": [
-                    "exteriorize",
                     "exteriorise",
+                    "exteriorize",
                     "externalize",
                     "externalise"
                 ]
@@ -42365,8 +42487,8 @@
                 "def": "form or join a union",
                 "speech_part": "verb",
                 "synonyms": [
-                    "unionize",
-                    "unionise"
+                    "unionise",
+                    "unionize"
                 ]
             },
             {
@@ -42432,8 +42554,8 @@
                 "def": "form or join a union",
                 "speech_part": "verb",
                 "synonyms": [
-                    "unionize",
-                    "unionise"
+                    "unionise",
+                    "unionize"
                 ]
             },
             {
@@ -42644,8 +42766,8 @@
                 "def": "make western in character",
                 "speech_part": "verb",
                 "synonyms": [
-                    "westernize",
-                    "westernise"
+                    "westernise",
+                    "westernize"
                 ]
             }
         ],
@@ -42674,8 +42796,8 @@
                 "def": "make western in character",
                 "speech_part": "verb",
                 "synonyms": [
-                    "westernize",
-                    "westernise"
+                    "westernise",
+                    "westernize"
                 ]
             }
         ],
@@ -43775,7 +43897,13 @@
                 "id": "54bd58237265742391311208",
                 "def": "to present in an overly dramatic manner",
                 "example": "I overdramatised the account of the accident.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -43803,7 +43931,13 @@
                 "id": "54bd58237265742391311208",
                 "def": "to present in an overly dramatic manner",
                 "example": "I overdramatised the account of the accident.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -45937,8 +46071,7 @@
                 "id": "54bd58317265742391e64208",
                 "def": "to stay too long",
                 "example": "Our guests have outstayed their welcome.",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             }
         ],
         "editors": [
@@ -46023,8 +46156,7 @@
                 "id": "54bd583272657423915f4308",
                 "def": "stay too long",
                 "example": "overstay or outstay one's welcome",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             }
         ]
     },
@@ -46160,8 +46292,7 @@
                 "id": "568a99b0f02e61000300000d",
                 "def": "a typographic symbol for number",
                 "example": "The octothorpe is common on most phones.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -46184,7 +46315,16 @@
                 "def": "perfectly styled or manicured",
                 "example": "You must have just come from the salon, because your eyebrows are on fleek!",
                 "speech_part": "adjective",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [

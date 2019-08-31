@@ -207,6 +207,12 @@
                 "speech_part": "adverb",
                 "synonyms": [
                     "bloody"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -265,6 +271,12 @@
                     "imprecate",
                     "beshrew",
                     "bedamn"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -530,8 +542,8 @@
                 "synonyms": [
                     "engineer",
                     "mastermind",
-                    "organise",
                     "organize",
+                    "organise",
                     "orchestrate"
                 ]
             },
@@ -10030,6 +10042,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "dressed"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -10820,8 +10838,8 @@
                     "propagate",
                     "circulate",
                     "disperse",
-                    "circularize",
                     "circularise",
+                    "circularize",
                     "distribute",
                     "disseminate",
                     "pass around"
@@ -12736,6 +12754,20 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "deaf-mute"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "offensive",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -15401,6 +15433,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "wild"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -15410,6 +15448,20 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "buggy"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -18253,8 +18305,7 @@
                 "id": "54bd562f72657423917d0201",
                 "def": "forsaken by owner or inhabitants",
                 "example": "The town looked deserted after the factory closed and the workers moved away.",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ],
         "editors": [
@@ -19046,7 +19097,13 @@
                 "id": "54bd56357265742391d91301",
                 "def": "having a specified direction, often used with an indicator of that direction",
                 "example": "The ship followed a positively-directed vector.",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -21787,8 +21844,7 @@
             {
                 "id": "54bd56437265742391544701",
                 "def": "having a hemispherical vault or dome",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ]
     },
@@ -24258,7 +24314,21 @@
                 "id": "54bd565772657423911f8801",
                 "def": "of or relating to a diastole or happening during a diastole",
                 "example": "My diastolic arterial blood pressure is 80.",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -25048,15 +25118,13 @@
                 "id": "5617060a438dad0094000032",
                 "def": "the Danish language",
                 "example": "Danish is related to the other Scandinavian languages.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "56255377b90e5800a90002e3",
                 "def": "collectively, the Danish people",
                 "example": "The Danish are fond of butter.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -25084,15 +25152,13 @@
                 "id": "55f2c38c393738175d020000",
                 "def": "the Dutch language",
                 "example": "I spent time learning some Dutch before my trip to the Netherlands.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "56297de8088f1200a9000091",
                 "def": "collectively, the people of the Netherlands",
                 "example": "The Dutch love ice skating.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -27896,6 +27962,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "draw play"
+                ],
+                "labels": [
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "US",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "American",
+                            "is_dialect": true
+                        }
+                    }
                 ]
             },
             {
@@ -29244,7 +29324,21 @@
                 "id": "54bd5670726574239162dc01",
                 "def": "a defense mechanism that transfers affect or reaction from the original object to some more acceptable one",
                 "example": "I think your anger at the couch might be a form of displacement.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd5670726574239163dc01",
@@ -31158,7 +31252,21 @@
                 "id": "54bd567572657423911ff101",
                 "def": "to take a drug, especially LSD, by mouth",
                 "example": "I dropped acid when I was a teenager.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd5675726574239121f101",
@@ -32593,7 +32701,21 @@
                 "id": "54bd5678726574239152fc01",
                 "def": "tube inserted into a body cavity to remove unwanted material, as during surgery",
                 "example": "The doctor used a drain to remove excess fluid during the procedure.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd5678726574239154fc01",
@@ -32984,7 +33106,21 @@
                 "id": "54bd56787265742391f5fa01",
                 "def": "an arithmetic operation that is the inverse of multiplication",
                 "example": "After days of practicing division, they finally understood the concept.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "mathematical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd56787265742391f6fa01",
@@ -33039,7 +33175,21 @@
                 "id": "54bd56787265742391fefa01",
                 "def": "in biology, a group of organisms forming a subdivision of a larger category",
                 "example": "Aves is a division of Chordata.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd56787265742391fffa01",
@@ -33388,8 +33538,7 @@
             {
                 "id": "54bd567a72657423912d0302",
                 "def": "an athletic competition that involves diving into water",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -34137,8 +34286,8 @@
                     "corrupt",
                     "pervert",
                     "debase",
-                    "demoralise",
                     "demoralize",
+                    "demoralise",
                     "misdirect",
                     "subvert",
                     "deprave"
@@ -34290,8 +34439,7 @@
             {
                 "id": "54bd567c7265742391fc0b02",
                 "def": "an electronic device that represents information in visual form",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd567c7265742391fd0b02",
@@ -34988,7 +35136,13 @@
                 "id": "54bd56807265742391601902",
                 "def": "a style of accounting where a bookkeeper debits the transaction to one account and credits it to another",
                 "example": "Double entry worked well at the office.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -35007,7 +35161,13 @@
                 "id": "54bd56807265742391601902",
                 "def": "a style of accounting where a bookkeeper debits the transaction to one account and credits it to another",
                 "example": "Double entry worked well at the office.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -35060,8 +35220,7 @@
                 "id": "55fa64cf3861347049020000",
                 "def": "the location or business that a dentist performs dentistry",
                 "example": "The dental practice had a large waiting room and several examination rooms.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -35772,8 +35931,7 @@
             {
                 "id": "54bd56837265742391b72302",
                 "def": "a government tax on imports or exports",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -36701,7 +36859,6 @@
             {
                 "id": "54bd56877265742391d83102",
                 "def": "the act of defending someone or something against attack or injury",
-                "example": "",
                 "speech_part": "noun"
             },
             {
@@ -36712,56 +36869,47 @@
             {
                 "id": "54bd56877265742391da3102",
                 "def": "military action or resources protecting a country against potential enemies",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56877265742391db3102",
                 "def": "a defendant's answer or plea denying the truth of the charges against him",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56877265742391dc3102",
                 "def": "a structure used to defend against attack",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56877265742391dd3102",
                 "def": "the justification for some act or belief",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56877265742391de3102",
                 "def": "the speech act of answering an attack on your assertions",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56877265742391df3102",
                 "def": "an organization of defenders that provides resistance against attack",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56877265742391e03102",
                 "def": "the defendant and his legal advisors collectively",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56877265742391e13102",
                 "def": "in sports, the team that is trying to prevent the other team from scoring",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56877265742391e23102",
                 "def": "an unconscious process that tries to reduce the anxiety associated with instinctive desires",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -36789,7 +36937,6 @@
             {
                 "id": "54bd56877265742391d83102",
                 "def": "the act of defending someone or something against attack or injury",
-                "example": "",
                 "speech_part": "noun"
             },
             {
@@ -36800,56 +36947,47 @@
             {
                 "id": "54bd56877265742391da3102",
                 "def": "military action or resources protecting a country against potential enemies",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56877265742391db3102",
                 "def": "a defendant's answer or plea denying the truth of the charges against him",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56877265742391dc3102",
                 "def": "a structure used to defend against attack",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56877265742391dd3102",
                 "def": "the justification for some act or belief",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56877265742391de3102",
                 "def": "the speech act of answering an attack on your assertions",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56877265742391df3102",
                 "def": "an organization of defenders that provides resistance against attack",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56877265742391e03102",
                 "def": "the defendant and his legal advisors collectively",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56877265742391e13102",
                 "def": "in sports, the team that is trying to prevent the other team from scoring",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56877265742391e23102",
                 "def": "an unconscious process that tries to reduce the anxiety associated with instinctive desires",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -37748,8 +37886,7 @@
                 "id": "54bd568b7265742391524302",
                 "def": "An action taken to avoid or prevent danger from outside threats. Often used in a military or natural-disaster context.",
                 "example": "With the rain continuing to fall, we set up sandbags as a defensive measure against flooding.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -38029,6 +38166,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "ravage"
+                ],
+                "labels": [
+                    {
+                        "name": "formal",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -39062,8 +39205,8 @@
                 "def": "money received from the state",
                 "speech_part": "noun",
                 "synonyms": [
-                    "pogy",
-                    "pogey"
+                    "pogey",
+                    "pogy"
                 ]
             },
             {
@@ -39105,8 +39248,7 @@
             {
                 "id": "54bd56907265742391855302",
                 "def": "act of giving in common with others for a common purpose especially to a charity",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56907265742391865302",
@@ -39511,8 +39653,8 @@
                 "def": "unfair treatment of a person or group on the basis of prejudice",
                 "speech_part": "noun",
                 "synonyms": [
-                    "favoritism",
-                    "favouritism"
+                    "favouritism",
+                    "favoritism"
                 ]
             },
             {
@@ -39651,15 +39793,13 @@
                 "id": "561d9f4963996c00980001d3",
                 "def": "the act of withdrawing a legal right, for example the right to vote",
                 "example": "The citizen's disenfranchisement was met with protest.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "561ea29ed66e8e000300002e",
                 "def": "the act of withdrawing a legal right, for example the right to vote",
                 "example": "The citizen's disenfranchisement was met with protest.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -40041,7 +40181,21 @@
                 "id": "54bd56927265742391b35a02",
                 "def": "an event that causes a loss of equilibrium",
                 "example": "An engine failure caused the airplane's destabilization.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -40216,7 +40370,21 @@
                 "id": "54bd56927265742391f85c02",
                 "def": "the difference of one judge's opinion from that of the majority",
                 "example": "The judge expressed their dissent in a contrary opinion.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd56927265742391fb5c02",
@@ -40371,6 +40539,20 @@
                     "default judgement",
                     "judgment by default",
                     "judgement by default"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -40739,8 +40921,7 @@
             {
                 "id": "54bd56937265742391d16102",
                 "def": "manner of acting or controlling yourself",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -44236,8 +44417,7 @@
                 "id": "54bd56c77265742391742103",
                 "def": "metal supports for logs in a fireplace",
                 "example": "I bought an antique dog-iron for my fireplace.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -46139,8 +46319,7 @@
             {
                 "id": "54bd56d572657423917c5903",
                 "def": "a structure used to defend against attack",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -47645,15 +47824,18 @@
             {
                 "id": "54bd56d672657423913b5c03",
                 "def": "a  device that substitutes for an erect penis to provide vaginal stimulation",
-                "example": "",
                 "speech_part": "noun"
             },
             {
                 "id": "568b0f43f02e61000300018f",
                 "def": "a pin stuck into the edging of a row boat, which acts as a pivot for the oar",
-                "example": "",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -48246,27 +48428,23 @@
             {
                 "id": "54bd56d67265742391695d03",
                 "def": "a memory device consisting of a flat disk covered with a magnetic coating on which information is stored",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56d672657423916a5d03",
                 "def": "sound recording consisting of a disk with a continuous groove",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56d672657423916b5d03",
                 "def": "something with a round shape resembling a flat circular plate",
                 "example": "The moon's disk hung in a cloudless sky.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56d672657423916e5d03",
                 "def": "draw a harrow over land",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             }
         ],
         "editors": [
@@ -48296,27 +48474,23 @@
             {
                 "id": "54bd56d67265742391695d03",
                 "def": "a memory device consisting of a flat disk covered with a magnetic coating on which information is stored",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56d672657423916a5d03",
                 "def": "sound recording consisting of a disk with a continuous groove",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56d672657423916b5d03",
                 "def": "something with a round shape resembling a flat circular plate",
                 "example": "The moon's disk hung in a cloudless sky.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56d672657423916e5d03",
                 "def": "draw a harrow over land",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             }
         ],
         "editors": [
@@ -52255,6 +52429,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "text file"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -54362,8 +54542,7 @@
             {
                 "id": "54bd56d87265742391a96303",
                 "def": "a bag into which dirt is sucked by a vacuum cleaner",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -54737,6 +54916,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "drip"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -56478,8 +56663,7 @@
             {
                 "id": "54bd56ff7265742391bff403",
                 "def": "active strength of body or mind",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56ff7265742391c0f403",
@@ -58860,8 +59044,7 @@
             {
                 "id": "54bd57077265742391e11204",
                 "def": "(behavioral attributes) the way a person behaves toward other people",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -58873,8 +59056,7 @@
                 "id": "54bd57077265742391e41204",
                 "def": "the way a person behaves toward other people",
                 "example": "They always have a friendly demeanour.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -58893,8 +59075,7 @@
             {
                 "id": "54bd57077265742391e71204",
                 "def": "(behavioral attributes) the way a person behaves toward other people",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -59003,7 +59184,13 @@
                 "id": "54bd570872657423911d1804",
                 "def": "amaze or bewilder, as with brilliant wit or intellect or skill",
                 "example": "My arguments dazzled everyone.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd570872657423911f1804",
@@ -61048,8 +61235,7 @@
             {
                 "id": "54bd57127265742391b33e04",
                 "def": "one of the veins serving the fingers or toes",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -61060,8 +61246,7 @@
             {
                 "id": "54bd57127265742391b93e04",
                 "def": "one of the veins serving the spongy part of the cranial bones",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -61072,8 +61257,7 @@
             {
                 "id": "54bd57127265742391bf3e04",
                 "def": "vein that is a tributary of the subclavian vein or external jugular vein and accompanies the descending scapular artery",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -61427,7 +61611,21 @@
                 "id": "54bd57177265742391ac5004",
                 "def": "the part of the small intestine between the stomach and the jejunum",
                 "example": "The toothpick has punctured through the duodenum and is now posterior to it.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -61449,28 +61647,64 @@
                 "def": "an unpleasant person, often meant as an insult, but usable in some public contexts",
                 "example": "You're a real dick sometimes, you know that?",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "offensive",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "5673140717eaa70003000018",
                 "def": "to have insertive sex with a partner",
                 "example": "I dicked my partner real good!",
                 "speech_part": "verb",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "euphemistic",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd57177265742391bd4f04",
                 "def": "a term for a penis, occasionally used in a sexual context",
                 "example": "I am very proud of my dick.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd57177265742391be4f04",
                 "def": "someone who is a detective",
                 "example": "I hired a dick to chase down that employee that stole money from us.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    }
+                ]
             }
         ],
         "editors": [
@@ -63122,8 +63356,7 @@
                 "id": "54bd571e7265742391e06a04",
                 "def": "a statement that represents something in words",
                 "example": "The description of the painting didn't do it justice.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd571e7265742391e16a04",
@@ -64983,7 +65216,13 @@
                 "id": "54bd57287265742391099004",
                 "def": "a wildly enthusiastic speech or piece of writing",
                 "example": "The newspaper included a dithyramb on the new play.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "formal",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -65056,14 +65295,12 @@
             {
                 "id": "54bd57287265742391258f04",
                 "def": "a conversation between two persons",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57287265742391268f04",
                 "def": "a discussion intended to produce an agreement",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -65097,14 +65334,12 @@
             {
                 "id": "54bd57287265742391258f04",
                 "def": "a conversation between two persons",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57287265742391268f04",
                 "def": "a discussion intended to produce an agreement",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -65478,7 +65713,21 @@
                 "id": "54bd572b7265742391a59b04",
                 "def": "unsworn statement that can be admitted in evidence in a legal transaction",
                 "example": "Our declaration of innocence shocked them.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd572b7265742391a79b04",
@@ -67674,8 +67923,7 @@
             {
                 "id": "54bd573772657423917dc804",
                 "def": "a conversation between two persons",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -68723,8 +68971,7 @@
                 "id": "55ef14a863346400b6ee0200",
                 "def": "the act of causing someone to feel despair or hopelessness",
                 "example": "I know I have done much disheartenment.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd573c72657423916dda04",
@@ -69536,7 +69783,21 @@
                 "id": "54bd573f726574239171e504",
                 "def": "the widening of the chambers of the heart between two contractions when the chambers fill with blood",
                 "example": "The second number of a blood pressure reading is the pressure of blood during diastole.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -69915,6 +70176,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "high dudgeon"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -70038,8 +70305,8 @@
                 "synonyms": [
                     "depress",
                     "get down",
-                    "demoralise",
                     "demoralize",
+                    "demoralise",
                     "deject",
                     "cast down",
                     "dispirit"
@@ -70575,15 +70842,13 @@
                 "id": "54bd574472657423910ef904",
                 "def": "a small ring-shaped friedcake",
                 "example": "I only eat donuts with coffee.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd574472657423910ff904",
                 "def": "a toroidal shape",
                 "example": "That path is a giant donut.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -70609,15 +70874,13 @@
                 "id": "54bd574472657423910ef904",
                 "def": "a small ring-shaped friedcake",
                 "example": "I only eat donuts with coffee.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd574472657423910ff904",
                 "def": "a toroidal shape",
                 "example": "That path is a giant donut.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -71001,8 +71264,7 @@
                 "id": "54bd57487265742391310805",
                 "def": "the specified day of the month",
                 "example": "what is the date today?",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57487265742391330805",
@@ -71603,8 +71865,7 @@
             {
                 "id": "54bd574c7265742391011705",
                 "def": "coffee with the caffeine removed",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -71928,8 +72189,7 @@
             {
                 "id": "54bd574f7265742391d02105",
                 "def": "an organization of defenders that provides resistance against attack",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -71940,8 +72200,7 @@
             {
                 "id": "54bd574f7265742391d32105",
                 "def": "an organization of defenders that provides resistance against attack",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -71952,8 +72211,7 @@
             {
                 "id": "54bd574f7265742391d62105",
                 "def": "the defendant and his legal advisors collectively",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -71964,8 +72222,7 @@
             {
                 "id": "54bd574f7265742391d92105",
                 "def": "the defendant and his legal advisors collectively",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -72004,8 +72261,7 @@
             {
                 "id": "54bd575072657423916c2505",
                 "def": "the academic department responsible for teaching and research in biology",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -72055,8 +72311,7 @@
             {
                 "id": "54bd575072657423919c2305",
                 "def": "(sports) the team that is trying to prevent the other team from scoring",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -74312,8 +74567,8 @@
                 "def": "someone who habitually doubts accepted beliefs",
                 "speech_part": "noun",
                 "synonyms": [
-                    "skeptic",
-                    "sceptic"
+                    "sceptic",
+                    "skeptic"
                 ]
             }
         ]
@@ -74600,8 +74855,7 @@
             {
                 "id": "54bd5775726574239101b105",
                 "def": "someone who supervises the actors and directs the action in the production of a show",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd5775726574239102b105",
@@ -74815,7 +75069,12 @@
                 "def": "a title equivalent to knighthood in Britain and some derived honours systems",
                 "example": "They were appointed a dame last year.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    }
+                ]
             },
             {
                 "id": "54bd5776726574239191b405",
@@ -74824,6 +75083,16 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "bird"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -75224,7 +75493,13 @@
                 "id": "54bd5777726574239116b605",
                 "def": "someone who plays the role of a den mother",
                 "example": "They served as den mother to all the freshmen in this dormitory.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -75252,7 +75527,21 @@
                 "id": "54bd5777726574239116b805",
                 "def": "someone who gives blood or tissue or an organ to be used in another person",
                 "example": "The local hospital is always looking for donors.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -77320,8 +77609,7 @@
                 "id": "54bd57777265742391dfb505",
                 "def": "a political leader who seeks support by appealing to popular passions and prejudices",
                 "example": "The demagog was known to incite petty hatred.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -77347,8 +77635,7 @@
                 "id": "54bd57777265742391dfb505",
                 "def": "a political leader who seeks support by appealing to popular passions and prejudices",
                 "example": "The demagog was known to incite petty hatred.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -78070,6 +78357,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "hammerhead"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -78178,8 +78471,7 @@
             {
                 "id": "54bd57787265742391a3b805",
                 "def": "a critic of theatrical performances",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -80685,8 +80977,7 @@
             {
                 "id": "54bd57b57265742391359406",
                 "def": "any of various mostly Australian attractively shaped shrubs of the genus Olearia grown for their handsome and sometimes fragrant evergreen foliage and profusion of daisy flowers with white or purple or blue rays",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -80697,8 +80988,7 @@
             {
                 "id": "54bd57b57265742391389406",
                 "def": "any of various mostly Australian attractively shaped shrubs of the genus Olearia grown for their handsome and sometimes fragrant evergreen foliage and profusion of daisy flowers with white or purple or blue rays",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -80913,8 +81203,7 @@
             {
                 "id": "54bd57b97265742391dca106",
                 "def": "trailing grass native to Europe now cosmopolitan in warm regions",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -80925,8 +81214,7 @@
             {
                 "id": "54bd57b97265742391e5a106",
                 "def": "trailing grass native to Europe now cosmopolitan in warm regions",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -81078,8 +81366,7 @@
             {
                 "id": "54bd57ba7265742391eaa306",
                 "def": "tall tufted perennial tropical American grass naturalized as pasture and forage grass in southern United States",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -81148,14 +81435,12 @@
             {
                 "id": "54bd57bc72657423913faa06",
                 "def": "valuable fiber plant of East Indies now widespread in cultivation",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57bc726574239140aa06",
                 "def": "fiber from an East Indian plant Hibiscus cannabinus",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -81717,8 +82002,7 @@
             {
                 "id": "54bd57c67265742391c4ce06",
                 "def": "any of various plants of the genus Zigadenus having glaucous leaves and terminal racemes of mostly white flowers",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -81729,8 +82013,7 @@
             {
                 "id": "54bd57c67265742391ccd106",
                 "def": "deciduous or semi-evergreen tree having scented sepia to yellow flowers in drooping racemes and pods whose pulp is used medicinally",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -81848,8 +82131,7 @@
             {
                 "id": "54bd57c87265742391f1d506",
                 "def": "woody vine having bright green leaves and racemes of rose-tinted white flowers",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -81907,8 +82189,7 @@
             {
                 "id": "54bd57cb7265742391dbe206",
                 "def": "large hardy very fragrant pink rose",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -82000,8 +82281,7 @@
             {
                 "id": "54bd57cd726574239176ea06",
                 "def": "dwarf herbaceous elder of Europe having pink flowers and a nauseous odor",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -83067,8 +83347,8 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "get up",
-                    "organise",
                     "organize",
+                    "organise",
                     "prepare",
                     "machinate"
                 ]
@@ -83738,8 +84018,7 @@
             {
                 "id": "54bd57e572657423910d3a07",
                 "def": "(psychiatry) an unconscious process that tries to reduce the anxiety associated with instinctive desires",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -83750,8 +84029,7 @@
             {
                 "id": "54bd57e57265742391103a07",
                 "def": "(psychiatry) an unconscious process that tries to reduce the anxiety associated with instinctive desires",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -83776,8 +84054,7 @@
             {
                 "id": "54bd57e57265742391133a07",
                 "def": "(psychiatry) an unconscious process that tries to reduce the anxiety associated with instinctive desires",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -83788,8 +84065,7 @@
             {
                 "id": "54bd57e57265742391163a07",
                 "def": "(psychiatry) an unconscious process that tries to reduce the anxiety associated with instinctive desires",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -84601,6 +84877,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "electrophoresis"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -86565,6 +86855,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "addiction"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -86972,7 +87276,21 @@
                 "id": "54bd57f27265742391f96607",
                 "def": "an impairment of language, especially speech production, that is usually due to brain damage",
                 "example": "After the accident, I suffered from dysphasia.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -87332,6 +87650,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "dermatophytosis"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -88003,8 +88335,7 @@
                 "id": "54bd57fa7265742391578107",
                 "def": "frequent and watery bowel movements",
                 "example": "Diarrhea has many potential causes.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -88030,8 +88361,7 @@
                 "id": "54bd57fa7265742391578107",
                 "def": "frequent and watery bowel movements",
                 "example": "Diarrhea has many potential causes.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -88563,7 +88893,13 @@
                 "id": "54bd57fb7265742391d38707",
                 "def": "something doomed to failure",
                 "example": "They finally admitted that the legislation was a dead duck.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -91081,8 +91417,7 @@
                 "id": "54bd580c7265742391dbc007",
                 "def": "the time during which someone's life continues",
                 "example": "the monarch's last days",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -91203,7 +91538,8 @@
         "wordset_id": "54bd580d726574239166c307",
         "labels": [
             {
-                "name": "archaic"
+                "name": "archaic",
+                "is_dialect": false
             }
         ],
         "meanings": [
@@ -91267,6 +91603,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "decade"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -91922,8 +92264,8 @@
                 "def": "decrease the pressure of",
                 "speech_part": "verb",
                 "synonyms": [
-                    "depressurize",
-                    "depressurise"
+                    "depressurise",
+                    "depressurize"
                 ]
             },
             {
@@ -92234,34 +92576,61 @@
                 "id": "54bd58127265742391b4d507",
                 "def": "to give off a liquid",
                 "example": "The doctor distilled a few drops of disinfectant onto the wound.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd58127265742391b6d507",
                 "def": "to undergo the process of distillation",
                 "example": "Whiskey distills in our basement.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd58127265742391b7d507",
                 "def": "to extract by the process of distillation",
                 "example": "We distill the essence of this compound and sell it for industrial purposes.",
                 "speech_part": "verb",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd58127265742391b9d507",
                 "def": "to undergo condensation",
                 "example": "Water distills on the outside of the glass.",
                 "speech_part": "verb",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd58127265742391bad507",
                 "def": "to remove impurities from, increase the concentration of, and separate through the process of distillation",
                 "example": "We distilled the vodka four times to increase its smoothness.",
                 "speech_part": "verb",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -92286,34 +92655,61 @@
                 "id": "54bd58127265742391b4d507",
                 "def": "to give off a liquid",
                 "example": "The doctor distilled a few drops of disinfectant onto the wound.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd58127265742391b6d507",
                 "def": "to undergo the process of distillation",
                 "example": "Whiskey distills in our basement.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd58127265742391b7d507",
                 "def": "to extract by the process of distillation",
                 "example": "We distill the essence of this compound and sell it for industrial purposes.",
                 "speech_part": "verb",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd58127265742391b9d507",
                 "def": "to undergo condensation",
                 "example": "Water distills on the outside of the glass.",
                 "speech_part": "verb",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd58127265742391bad507",
                 "def": "to remove impurities from, increase the concentration of, and separate through the process of distillation",
                 "example": "We distilled the vodka four times to increase its smoothness.",
                 "speech_part": "verb",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -92786,8 +93182,8 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "speciate",
-                    "specialize",
-                    "specialise"
+                    "specialise",
+                    "specialize"
                 ]
             },
             {
@@ -93897,7 +94293,25 @@
                 "id": "54bd5815726574239177e107",
                 "def": "to become progressively weaker",
                 "example": "The chants of the crowd died down.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd5815726574239178e107",
@@ -93906,6 +94320,24 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "die back"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -94921,7 +95353,13 @@
                 "id": "54bd5817726574239138e807",
                 "def": "to lower the value of something",
                 "example": "The federal government depreciated the dollar once again.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd581772657423913ae807",
@@ -94930,6 +95368,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "deprecate"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -94953,6 +95397,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "undervalue"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -94962,6 +95412,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "devalue"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -95809,8 +96265,7 @@
             {
                 "id": "54bd5818726574239191e907",
                 "def": "stop associating with",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             }
         ],
         "editors": [
@@ -96139,8 +96594,8 @@
                 "def": "make nonmagnetic",
                 "speech_part": "verb",
                 "synonyms": [
-                    "demagnetize",
-                    "demagnetise"
+                    "demagnetise",
+                    "demagnetize"
                 ]
             }
         ]
@@ -96356,8 +96811,8 @@
                 "def": "make or become free of frost or ice",
                 "speech_part": "verb",
                 "synonyms": [
-                    "deice",
-                    "de-ice"
+                    "de-ice",
+                    "deice"
                 ]
             }
         ]
@@ -96513,8 +96968,8 @@
                 "def": "make less central",
                 "speech_part": "verb",
                 "synonyms": [
-                    "decentralize",
-                    "decentralise"
+                    "decentralise",
+                    "decentralize"
                 ]
             }
         ]
@@ -97208,7 +97663,13 @@
                 "id": "54bd581b72657423918df407",
                 "def": "to deprive of value for payment",
                 "example": "The national bank decided to demonetize the one cent coin.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -97236,7 +97697,13 @@
                 "id": "54bd581b72657423918df407",
                 "def": "to deprive of value for payment",
                 "example": "The national bank decided to demonetize the one cent coin.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -97418,8 +97885,8 @@
                 "def": "reduce the emphasis",
                 "speech_part": "verb",
                 "synonyms": [
-                    "de-emphasise",
-                    "de-emphasize"
+                    "de-emphasize",
+                    "de-emphasise"
                 ]
             }
         ]
@@ -97439,8 +97906,8 @@
                 "def": "remove carbon from (an engine)",
                 "speech_part": "verb",
                 "synonyms": [
-                    "decarbonize",
-                    "decarbonise"
+                    "decarbonise",
+                    "decarbonize"
                 ]
             }
         ],
@@ -97468,8 +97935,8 @@
                 "def": "remove carbon from (an engine)",
                 "speech_part": "verb",
                 "synonyms": [
-                    "decarbonize",
-                    "decarbonise"
+                    "decarbonise",
+                    "decarbonize"
                 ]
             }
         ],
@@ -97491,8 +97958,8 @@
                 "def": "remove carbon from (an engine)",
                 "speech_part": "verb",
                 "synonyms": [
-                    "decarbonize",
-                    "decarbonise"
+                    "decarbonise",
+                    "decarbonize"
                 ]
             }
         ]
@@ -97974,8 +98441,8 @@
                 "example": "They bought a device to digitize the data.",
                 "speech_part": "verb",
                 "synonyms": [
-                    "digitalize",
-                    "digitalise"
+                    "digitalise",
+                    "digitalize"
                 ]
             }
         ],
@@ -98007,8 +98474,8 @@
                 "example": "They bought a device to digitize the data.",
                 "speech_part": "verb",
                 "synonyms": [
-                    "digitalize",
-                    "digitalise"
+                    "digitalise",
+                    "digitalize"
                 ]
             }
         ],
@@ -98203,8 +98670,8 @@
                 "def": "turn into a devil or make devilish",
                 "speech_part": "verb",
                 "synonyms": [
-                    "devilize",
-                    "devilise"
+                    "devilise",
+                    "devilize"
                 ]
             }
         ],
@@ -98233,8 +98700,8 @@
                 "def": "turn into a devil or make devilish",
                 "speech_part": "verb",
                 "synonyms": [
-                    "devilize",
-                    "devilise"
+                    "devilise",
+                    "devilize"
                 ]
             }
         ],
@@ -98297,8 +98764,8 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "desalt",
-                    "desalinize",
-                    "desalinise"
+                    "desalinise",
+                    "desalinize"
                 ]
             }
         ]
@@ -98710,6 +99177,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "debauch"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -98756,6 +99229,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "debauch"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -100206,7 +100685,13 @@
                 "id": "54bd58217265742391230a08",
                 "def": "to make someone report back after a completed task or mission",
                 "example": "The officer debriefed the soldiers after the rescue mission.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -100286,6 +100771,20 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "hold"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             },
             {
@@ -101724,8 +102223,8 @@
                 "def": "remove offensive capability from",
                 "speech_part": "verb",
                 "synonyms": [
-                    "demilitarize",
-                    "demilitarise"
+                    "demilitarise",
+                    "demilitarize"
                 ]
             },
             {
@@ -102282,6 +102781,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "disjoint"
+                ],
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -102291,6 +102796,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "disjoint"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -102845,6 +103356,24 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "fuck"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "euphemistic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -103101,6 +103630,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "clear"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -103755,8 +104290,8 @@
                 "def": "rule or exercise power over (somebody) in a cruel and autocratic manner",
                 "speech_part": "verb",
                 "synonyms": [
-                    "tyrannize",
-                    "tyrannise"
+                    "tyrannise",
+                    "tyrannize"
                 ]
             }
         ]
@@ -104194,7 +104729,21 @@
             {
                 "id": "54bd582c7265742391333108",
                 "def": "to remove from glycerol",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -104219,7 +104768,21 @@
             {
                 "id": "54bd582c7265742391333108",
                 "def": "to remove from glycerol",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -105182,7 +105745,13 @@
                 "id": "54bd582f7265742391813b08",
                 "def": "to remove the fat from",
                 "example": "Let's defat the roast.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -106915,7 +107484,13 @@
                 "id": "559cd4db303935008a080300",
                 "def": "an interjection used when one has made a mistake",
                 "example": "I let out a loud \"D'oh!\" after I realized my mistake.",
-                "speech_part": "interjection"
+                "speech_part": "interjection",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -106935,7 +107510,29 @@
                 "id": "55b02519323236008ac30000",
                 "def": "to double or significantly increase a risk, investment, or other commitment",
                 "example": "The political party doubled down on a position that many found absurd.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -106954,7 +107551,28 @@
                 "id": "5612d311c5a9ff000300001a",
                 "def": "genuine; the real thing",
                 "speech_part": "adjective",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "Australian",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    },
+                    {
+                        "name": "New Zealand",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -106974,8 +107592,7 @@
                 "id": "5612d319c5a9ff0003000032",
                 "def": "a form of bike gearing that functions by moving the chain between different gears",
                 "example": "They shifted in to a lower gear using their rear derailleur.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -106996,8 +107613,7 @@
                 "id": "5612d327c5a9ff0003000053",
                 "def": "the word to refer to a person from a specified place",
                 "example": "Someone from New York is a New Yorker, but the demonym for someone from Moscow is Muscovite.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -107017,8 +107633,7 @@
                 "id": "5625536ab90e5800a90002de",
                 "def": "a person from Denmark or of Danish descent",
                 "example": "The warrior was not a Dane, but fought for their king.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -107039,7 +107654,20 @@
                 "def": "a disgusting or unpleasant person",
                 "example": "The owner of the club was a real dirtbag.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "US",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "American",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -107060,7 +107688,20 @@
                 "def": "a small, provincial village or town",
                 "example": "Growing up in a dorp, I romanticised moving to the big city of Johannesburg.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "South African",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -107081,15 +107722,13 @@
                 "id": "56677b24f0208400030000a1",
                 "def": "to post sensitive personal information about a person publicly without their consent, as a way to terrorize or punish someone",
                 "example": "The bullies decided to dox the person who spoke out about their experience being harassed.",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             },
             {
                 "id": "56677b24f0208400030000a2",
                 "def": "sensitive, personal information about someone, including address, government identifications, credit cards, family situations, sexual history, and other private information",
                 "example": "We were finally able to hack into their email and get their dox.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -107110,15 +107749,13 @@
                 "id": "56677b24f0208400030000a1",
                 "def": "to post sensitive personal information about a person publicly without their consent, as a way to terrorize or punish someone",
                 "example": "The bullies decided to dox the person who spoke out about their experience being harassed.",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             },
             {
                 "id": "56677b24f0208400030000a2",
                 "def": "sensitive, personal information about someone, including address, government identifications, credit cards, family situations, sexual history, and other private information",
                 "example": "We were finally able to hack into their email and get their dox.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -107140,14 +107777,36 @@
                 "def": "to make a mess of things",
                 "example": "If they dick this up, we will have to start from the beginning.",
                 "speech_part": "verb",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "56787264cd82190003000038",
                 "def": "to make a mess of things",
                 "example": "If they dick this up, we will have to start from the beginning.",
                 "speech_part": "verb",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -107175,8 +107834,7 @@
                 "id": "5686d4acd4d9c9000300001e",
                 "def": "the soap used to wash dishes, typically by hand, and often placed near the sink in a kitchen",
                 "example": "I used the dishwashing liquid to clean that tough grease stain on the pan.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -107203,8 +107861,7 @@
                 "id": "5686d4acd4d9c9000300001e",
                 "def": "the soap used to wash dishes, typically by hand, and often placed near the sink in a kitchen",
                 "example": "I used the dishwashing liquid to clean that tough grease stain on the pan.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -107231,8 +107888,7 @@
                 "id": "5686d4acd4d9c9000300001e",
                 "def": "the soap used to wash dishes, typically by hand, and often placed near the sink in a kitchen",
                 "example": "I used the dishwashing liquid to clean that tough grease stain on the pan.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [

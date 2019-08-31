@@ -243,8 +243,8 @@
                     "zero",
                     "null",
                     "zip",
-                    "cipher",
                     "cypher",
+                    "cipher",
                     "nil",
                     "nix",
                     "nada",
@@ -350,7 +350,13 @@
                 "id": "5597ab16653561008a790100",
                 "def": "a euphemistic phrase for death",
                 "example": "We had to inform the children that their pet was no more.",
-                "speech_part": "phrase"
+                "speech_part": "phrase",
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -3340,7 +3346,21 @@
                 "id": "54bd55ff7265742391376900",
                 "def": "not appropriate for or subject to arbitration",
                 "example": "This issue is nonarbitrable because of the contracts you signed when you were employed.",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -3870,8 +3890,8 @@
                 "def": "become more focus on an area of activity or field of study",
                 "speech_part": "verb",
                 "synonyms": [
-                    "specialize",
                     "specialise",
+                    "specialize",
                     "narrow down"
                 ]
             },
@@ -4884,8 +4904,8 @@
                     "peerless",
                     "unmatched",
                     "unmatchable",
-                    "unrivaled",
                     "unrivalled",
+                    "unrivaled",
                     "matchless"
                 ]
             },
@@ -7700,7 +7720,21 @@
                 "id": "54bd562f726574239196ff00",
                 "def": "chemically inert, especially toward oxygen",
                 "example": "Helium and neon are noble gases.",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd562f726574239199ff00",
@@ -7761,6 +7795,20 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "noncommunicable"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             },
             {
@@ -9145,7 +9193,21 @@
                 "id": "559db00f3133300091830000",
                 "def": "the necessary task or item",
                 "example": "To meet our schedule we must do the needful.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "Indian",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -10928,8 +10990,7 @@
             {
                 "id": "54bd564972657423918d5801",
                 "def": "being two more than ninety",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ]
     },
@@ -11970,8 +12031,7 @@
                 "id": "54bd56527265742391857501",
                 "def": "extremely wicked",
                 "example": "nefarious schemes",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ]
     },
@@ -12853,7 +12913,29 @@
                 "id": "54bd565c72657423916a9701",
                 "def": "relating to or consisting of neuroglia",
                 "example": "Our neuroglial tissues have been dying.",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -13175,15 +13257,13 @@
                 "id": "5615703b692d8d6e6d00000e",
                 "def": "the Norwegian language",
                 "example": "I love speaking Norwegian with my niblings.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "5615703c692d8d6e6d00000f",
                 "def": "a person from Norway or of Norwegian descent",
                 "example": "The Norwegian was tall for their age.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -14100,7 +14180,12 @@
                 "def": "the point on a scale from which positive or negative numerical quantities can be measured",
                 "example": "They counted from naught to nine.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    }
+                ]
             }
         ],
         "editors": [
@@ -14295,7 +14380,13 @@
                 "id": "54bd566f726574239132d701",
                 "def": "the verbal act of naming",
                 "example": "The part they failed was the naming of state capitals.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    }
+                ]
             },
             {
                 "id": "54bd561c72657423913dbe00",
@@ -14474,6 +14565,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "neutralization"
+                ],
+                "labels": [
+                    {
+                        "name": "euphemistic",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -15723,7 +15820,21 @@
                 "id": "54bd56827265742391c42002",
                 "def": "any surgery that involves the nervous system, such as the brain, spinal cord, or peripheral nerves",
                 "example": "I was nervous about my neurosurgery, but the doctor assured me everything would go well.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -17956,8 +18067,7 @@
             {
                 "id": "54bd56a87265742391f4af02",
                 "def": "sluggish tailless Australian arboreal marsupial with grey furry ears and coat",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -18498,7 +18608,13 @@
                 "id": "54bd56ba7265742391ccf302",
                 "def": "to remind or urge constantly",
                 "example": "The children nagged their parents to take a vacation.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd56ba7265742391cef302",
@@ -18508,13 +18624,29 @@
                 "synonyms": [
                     "peck",
                     "hen-peck"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
                 "id": "54bd56ba7265742391d0f302",
                 "def": "to worry persistently",
                 "example": "My doubts nagged at my mind.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -18870,8 +19002,8 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "zap",
-                    "atomize",
-                    "atomise"
+                    "atomise",
+                    "atomize"
                 ]
             }
         ]
@@ -19721,8 +19853,7 @@
             {
                 "id": "54bd56e8726574239121a003",
                 "def": "a rechargeable battery with a nickel cathode and a cadmium anode",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -19819,8 +19950,7 @@
             {
                 "id": "54bd56e8726574239127a003",
                 "def": "a storage battery having a nickel oxide cathode and an iron anode with an electrolyte of potassium hydroxide",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -22244,8 +22374,7 @@
             {
                 "id": "54bd56e9726574239196a103",
                 "def": "place a limit on the number of",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             },
             {
                 "id": "54bd56e9726574239197a103",
@@ -24662,8 +24791,7 @@
             {
                 "id": "54bd57137265742391e43f04",
                 "def": "a vein located in the anterior medial part of the orbit",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -24888,8 +25016,7 @@
             {
                 "id": "54bd57157265742391384904",
                 "def": "a cluster of nerve cells governing a specific bodily process",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57157265742391394904",
@@ -24937,8 +25064,7 @@
             {
                 "id": "54bd571572657423913d4904",
                 "def": "a cluster of nerve cells governing a specific bodily process",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd571572657423913e4904",
@@ -26906,8 +27032,7 @@
                 "id": "54bd57237265742391977e04",
                 "def": "a source of materials to nourish the body",
                 "example": "I get my nutrition from a balanced diet.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57237265742391987e04",
@@ -28108,6 +28233,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "nota bene"
+                ],
+                "labels": [
+                    {
+                        "name": "formal",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -28937,7 +29068,12 @@
                 "def": "to eat a snack",
                 "example": "I noshed some chips between lunch and dinner.",
                 "speech_part": "verb",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -29911,8 +30047,7 @@
                 "id": "561088953162613da4040000",
                 "def": "any person who is highly skilled in a particular field",
                 "example": "I'm a ninja at making cookies.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57567265742391463b05",
@@ -31151,8 +31286,8 @@
                 "def": "a person of no influence",
                 "speech_part": "noun",
                 "synonyms": [
-                    "cipher",
-                    "cypher"
+                    "cypher",
+                    "cipher"
                 ]
             }
         ]
@@ -31166,8 +31301,8 @@
                 "def": "a person of no influence",
                 "speech_part": "noun",
                 "synonyms": [
-                    "cipher",
-                    "cypher"
+                    "cypher",
+                    "cipher"
                 ]
             },
             {
@@ -33813,6 +33948,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "cell death"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -35760,8 +35909,7 @@
             {
                 "id": "54bd57e372657423910e3507",
                 "def": "a hard malleable ductile silvery metallic element that is resistant to corrosion",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57e37265742391103507",
@@ -37787,7 +37935,29 @@
                 "id": "54bd57f87265742391fd7a07",
                 "def": "a sleep disorder characterized by sudden and uncontrollable episodes of deep sleep",
                 "example": "The researcher believes that narcolepsy is attributable to an inability to suppress REM sleep during waking.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -38240,6 +38410,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "moon blindness"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -38326,8 +38510,7 @@
             {
                 "id": "54bd57ff7265742391669407",
                 "def": "a yellow trivalent metallic element of the rare earth group",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -38338,8 +38521,7 @@
             {
                 "id": "54bd57ff72657423916f9407",
                 "def": "a colorless odorless gaseous element that give a red glow in a vacuum tube",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -38364,8 +38546,7 @@
             {
                 "id": "54bd57ff7265742391879407",
                 "def": "a soft grey ductile metallic element used in alloys",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -38376,8 +38557,7 @@
             {
                 "id": "54bd57ff7265742391939407",
                 "def": "a common nonmetallic element that is normally a colorless odorless tasteless inert diatomic gas",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -38388,8 +38568,7 @@
             {
                 "id": "54bd57ff72657423919c9407",
                 "def": "a radioactive transuranic element synthesized by bombarding curium with carbon ions",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -39316,7 +39495,21 @@
             {
                 "id": "54bd58077265742391deb007",
                 "def": "a glycoside formed by partial hydrolysis of a nucleic acid",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -39513,8 +39706,7 @@
             {
                 "id": "54bd580b72657423919ebc07",
                 "def": "a B vitamin essential for the normal function of the nervous system and the gastrointestinal tract",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -39656,8 +39848,7 @@
                 "id": "55f7111562653900b8520200",
                 "def": "of or at the middle of the day",
                 "example": "I basked in the warmth of the noonday sun.",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ],
         "editors": [
@@ -40429,7 +40620,21 @@
                 "id": "54bd581a7265742391b5f207",
                 "def": "make chemically neutral",
                 "example": "The acid was neutralized.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd581a7265742391b7f207",
@@ -40497,7 +40702,21 @@
                 "id": "54bd581a7265742391b5f207",
                 "def": "make chemically neutral",
                 "example": "The acid was neutralized.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd581a7265742391b7f207",
@@ -40648,8 +40867,8 @@
                 "def": "treat with nitrogen or a nitrogen compound",
                 "speech_part": "verb",
                 "synonyms": [
-                    "nitrogenize",
-                    "nitrogenise"
+                    "nitrogenise",
+                    "nitrogenize"
                 ]
             },
             {
@@ -41481,8 +41700,7 @@
                 "id": "5637e2693538d50085000041",
                 "def": "a person's name that is taken from a dead person, usually a predeceased sibling",
                 "example": "Beethoven's first name, Ludwig, is a necronym.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -41503,7 +41721,20 @@
                 "def": "an overnight stop in the middle of a journey, typically at a hotel",
                 "example": " That hotel is only good for a night halt, it's not the kind of place you'd want to spend a long time.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "Indian",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -41523,8 +41754,7 @@
                 "id": "568d7f052ebee80003000012",
                 "def": "a typographic symbol, № , used for denoting numbers",
                 "example": "It is common in Europe to see a numero sign as opposed to an octothorpe.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -41543,8 +41773,10 @@
         "labels": [
             {
                 "name": "slang",
+                "is_dialect": false,
                 "parent": {
-                    "name": "informal"
+                    "name": "informal",
+                    "is_dialect": false
                 }
             },
             {
@@ -41561,8 +41793,7 @@
                 "id": "56aa5bc7ac786b0003000036",
                 "def": "particularly susceptible to cold weather",
                 "example": "It's not that cold, you're just nesh!",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ],
         "editors": [

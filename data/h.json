@@ -2060,6 +2060,12 @@
                 "speech_part": "adverb",
                 "synonyms": [
                     "herewith"
+                ],
+                "labels": [
+                    {
+                        "name": "formal",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -2868,7 +2874,13 @@
                 "id": "54bd55ef7265742391353d00",
                 "def": "to this writing or document",
                 "example": "The charts hereto attached explain our companies position on the matter.",
-                "speech_part": "adverb"
+                "speech_part": "adverb",
+                "labels": [
+                    {
+                        "name": "formal",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -6320,6 +6332,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "flustered"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -6355,8 +6373,7 @@
             {
                 "id": "54bd5615726574239118a700",
                 "def": "having a common center",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ]
     },
@@ -6809,7 +6826,6 @@
             {
                 "id": "54bd561b726574239173b900",
                 "def": "damaged inanimate objects or their value",
-                "example": "",
                 "speech_part": "adjective",
                 "synonyms": [
                     "weakened"
@@ -6842,7 +6858,6 @@
             {
                 "id": "54bd561b726574239178b900",
                 "def": "feelings of mental or physical pain",
-                "example": "",
                 "speech_part": "noun",
                 "synonyms": [
                     "suffering"
@@ -7879,7 +7894,21 @@
                 "id": "54bd56227265742391e0d000",
                 "def": "of or relating to a hyperbola",
                 "example": "I produced some hyperbolic functions to explain the data.",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "mathematical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -8657,7 +8686,13 @@
                 "id": "54bd562a726574239111ee00",
                 "def": "beyond hope of management or reform",
                 "example": "The desk was nothing but a hopeless jumble of papers.",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd562a726574239113ee00",
@@ -9438,8 +9473,7 @@
             {
                 "id": "54bd562c72657423915bf600",
                 "def": "someone who practices homosexuality",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -9886,7 +9920,21 @@
                 "id": "54bd562d7265742391b3f800",
                 "def": "having the same evolutionary origin but not necessarily the same function",
                 "example": "The wing of a bat and the human arm are homologous.",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -10753,7 +10801,13 @@
                 "id": "54bd562f7265742391390201",
                 "def": "an intimate talk in private",
                 "example": "They took me aside for a little heart-to-heart.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -12988,9 +13042,9 @@
                 "def": "being satisfactory or in satisfactory condition",
                 "speech_part": "adjective",
                 "synonyms": [
+                    "okeh",
                     "o.k.",
                     "ok",
-                    "okeh",
                     "okay"
                 ]
             }
@@ -15680,15 +15734,13 @@
                 "id": "5609a28b62393000b6670100",
                 "def": "the Hungarian language",
                 "example": "Hungarian is from a different family than most other European languages.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "5609a28c62393000b6680100",
                 "def": "a person from Hungary or of Hungarian descent",
                 "example": "The Hungarian was a well liked but intimidating professor.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -16579,7 +16631,13 @@
                 "id": "54bd5667726574239131ba01",
                 "def": "a counting term for an internet user viewing a web page",
                 "example": "Yesterday our website got over 500 hits!",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd5667726574239133ba01",
@@ -16630,7 +16688,13 @@
                 "id": "54bd566772657423913dba01",
                 "def": "to strike the intended target or goal",
                 "example": "I hit the goal!",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd566772657423913eba01",
@@ -16676,7 +16740,13 @@
                 "id": "54bd5667726574239146ba01",
                 "def": "to cause to move by striking, moving it into a new location, either intended or not",
                 "example": "I hit a ball into the backyard.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd5667726574239148ba01",
@@ -17194,7 +17264,25 @@
                 "id": "55aaade1303065014f0c0000",
                 "def": "exceptionally good or talented",
                 "example": "That movie sure was a hummer!",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "AAVE",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "American",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -20359,6 +20447,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "cardiac massage"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -21856,7 +21958,21 @@
                 "id": "54bd56887265742391063802",
                 "def": "an immune response chiefly against bacterial invasion that is mediated by B cells",
                 "example": "As soon as I got a cold, my humoral immune response kicked in.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -22116,7 +22232,13 @@
                 "id": "54bd568872657423910c3702",
                 "def": "a user of usually soft drugs",
                 "example": "The office was full of secret heads.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd568872657423910e3702",
@@ -23074,6 +23196,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "inhabitancy"
+                ],
+                "labels": [
+                    {
+                        "name": "formal",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -25892,8 +26020,7 @@
             {
                 "id": "54bd56a5726574239107a502",
                 "def": "large black Old World grouse",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -26411,9 +26538,7 @@
             {
                 "id": "55f705ad62653900b8b70100",
                 "def": "a mythological serpent that would regrow heads in the place of those that were removed",
-                "example": "",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -27800,13 +27925,29 @@
                 "id": "5592bca9386265008c130200",
                 "def": "to gain unauthorized access to a computer system by manipulating code; to crack",
                 "example": "According to the logs, someone is trying to hack our database server.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "5592bcaa386265008c180200",
                 "def": "to gain unauthorized access to an online account owned by a person or organization",
                 "example": "I can't believe my account was hacked again -- isn't \"12345\" a strong password?",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -28297,8 +28438,7 @@
             {
                 "id": "54bd56be7265742391160103",
                 "def": "someone who practices homosexuality",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -30682,6 +30822,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "hackney"
+                ],
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "UK",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    }
                 ]
             }
         ],
@@ -31355,8 +31509,7 @@
             {
                 "id": "54bd56df7265742391197d03",
                 "def": "draw a harrow over (land)",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             }
         ]
     },
@@ -32339,6 +32492,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "spirit"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -33523,6 +33682,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "computer hardware"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             },
             {
@@ -33618,7 +33791,21 @@
                 "id": "54bd56df7265742391c47e03",
                 "def": "a metal conductor specially designed to conduct and radiate heat",
                 "example": "The heat sink helped maintain the temperature of the processor.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -37226,16 +37413,33 @@
             {
                 "id": "560b1fe666663400b6a30100",
                 "def": "a long pass or throw made in sports to a teammate, generally covering a large portion of the playing field ",
-                "example": "",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    }
+                ]
             },
             {
                 "id": "560b1fe666663400b6a40100",
                 "def": "to make a long pass or throw to a teammate, the distance of which generally covers a large portion of the playing field ",
                 "example": "Then I hucked it to my teammate, who must have been 50 or 60 yards away!",
                 "speech_part": "verb",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    }
+                ]
             }
         ],
         "editors": [
@@ -38200,8 +38404,7 @@
             {
                 "id": "54bd56e9726574239107a203",
                 "def": "a slender double-reed instrument",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -38216,6 +38419,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     null
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -39168,8 +39377,8 @@
                 "synonyms": [
                     "mistiness",
                     "steaminess",
-                    "vaporousness",
-                    "vapourousness"
+                    "vapourousness",
+                    "vaporousness"
                 ]
             },
             {
@@ -39344,7 +39553,29 @@
                 "id": "54bd57027265742391400304",
                 "def": "the lack of correspondence of apparently similar biological features",
                 "example": "Although both proteins carried oxygen, their heterology reflected the different species from which they came.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -40051,8 +40282,7 @@
             {
                 "id": "54bd570672657423917e0f04",
                 "def": "active strength of body or mind",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -41814,8 +42044,7 @@
             {
                 "id": "54bd57127265742391433f04",
                 "def": "a vein that drains the liver",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -43747,7 +43976,21 @@
                 "id": "54bd572372657423917c7b04",
                 "def": "the branch of biology that studies the microscopic structure of animal or plant tissues",
                 "example": "I want to study histology at my university.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -44120,8 +44363,8 @@
                 "def": "a religious cult practiced chiefly in Caribbean countries (especially Haiti)",
                 "speech_part": "noun",
                 "synonyms": [
-                    "voodoo",
-                    "vodoun"
+                    "vodoun",
+                    "voodoo"
                 ]
             }
         ]
@@ -45616,6 +45859,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "trumpeter"
+                ],
+                "labels": [
+                    {
+                        "name": "formal",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -45822,8 +46071,8 @@
                 "def": "a visible impression on a surface made by the hoof of an animal",
                 "speech_part": "noun",
                 "synonyms": [
-                    "hoof-mark",
-                    "hoof mark"
+                    "hoof mark",
+                    "hoof-mark"
                 ]
             }
         ]
@@ -47602,7 +47851,20 @@
                 "def": "an intense sexual desire",
                 "example": "I've had the hots for them for years.",
                 "speech_part": "phrase",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -48040,8 +48302,7 @@
             {
                 "id": "54bd57427265742391faf004",
                 "def": "a diet designed to patients with vitamin deficiencies",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -48884,8 +49145,7 @@
             {
                 "id": "54bd57477265742391010205",
                 "def": "plant bearing very hot medium-sized oblong red peppers",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -48920,8 +49180,7 @@
             {
                 "id": "54bd57487265742391510805",
                 "def": "yellow oval tropical fruit",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57487265742391520805",
@@ -48943,8 +49202,7 @@
             {
                 "id": "54bd57487265742391540805",
                 "def": "tropical American tree having edible yellow fruit",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -49921,8 +50179,7 @@
             {
                 "id": "54bd57507265742391842505",
                 "def": "the academic department responsible for teaching history",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -51549,8 +51806,7 @@
             {
                 "id": "54bd57687265742391ac7f05",
                 "def": "a natural spring of water at a temperature of 70 F or above",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -52430,6 +52686,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "ham"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -53396,14 +53658,12 @@
             {
                 "id": "54bd562c726574239164f600",
                 "def": "homosexual or arousing homosexual desires",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             },
             {
                 "id": "54bd577b72657423915bc705",
                 "def": "someone who practices homosexuality",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -54073,7 +54333,6 @@
             {
                 "id": "54bd577b7265742391b6c405",
                 "def": "one who works hard at boring tasks",
-                "example": "",
                 "speech_part": "noun",
                 "synonyms": [
                     "hack"
@@ -54788,6 +55047,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "heir"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -54989,6 +55262,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "intern"
+                ],
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    }
                 ]
             }
         ],
@@ -55970,8 +56249,7 @@
             {
                 "id": "54bd57827265742391e6dd05",
                 "def": "a person with few or no possessions",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -56053,8 +56331,7 @@
             {
                 "id": "54bd5784726574239168e405",
                 "def": "a person who possesses great material wealth",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd578472657423916ae405",
@@ -56615,6 +56892,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "very important person"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -61717,6 +62000,24 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "halfpennyworth"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "UK",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    }
                 ]
             }
         ],
@@ -62328,7 +62629,21 @@
                 "id": "54bd57ee7265742391fd5907",
                 "def": "an open curve formed by a plane that cuts the base of a right circular cone",
                 "example": "Plotting the equation produced a hyperbola.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "mathematical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -62384,7 +62699,17 @@
                 "id": "54bd57ef7265742391195c07",
                 "def": "a difficult situation",
                 "example": "I dropped the topic like a hot potato.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -63042,7 +63367,21 @@
                 "id": "54bd57f27265742391226807",
                 "def": "a sudden and severe instance of abnormal heart function resulting from the lack of blood flow to a part of the heart",
                 "example": "The doctors had to hook me up to an EKG to determine that I had a heart attack.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -63213,6 +63552,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "aldosteronism"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -65228,6 +65581,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "murmur"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -65251,6 +65618,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "pyrosis"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -66891,8 +67272,7 @@
             {
                 "id": "54bd57ff7265742391949307",
                 "def": "a grey tetravalent metallic element that resembles zirconium chemically and is found in zirconium minerals",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -66919,7 +67299,20 @@
                 "def": "a very light, colorless, and odorless element that is one of the six inert gasses",
                 "example": "Helium is not naturally diatomic.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -66955,7 +67348,20 @@
                 "def": "a nonmetallic univalent element that is normally a colorless, odorless, and highly flammable diatomic gas",
                 "example": "The warning label on the hydrogen balloon said not to bring the balloon near open flames.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -67095,6 +67501,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "hornstone"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -71040,8 +71460,7 @@
             {
                 "id": "54bd58217265742391940a08",
                 "def": "conceal one's true motives from especially by elaborately feigning good intentions so as to gain an end",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             },
             {
                 "id": "54bd58217265742391950a08",
@@ -71189,6 +71608,24 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "retrograde"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -71590,8 +72027,8 @@
                 "def": "make sanitary by cleaning or sterilizing",
                 "speech_part": "verb",
                 "synonyms": [
-                    "sanitize",
-                    "sanitise"
+                    "sanitise",
+                    "sanitize"
                 ]
             }
         ],
@@ -71619,8 +72056,8 @@
                 "def": "make sanitary by cleaning or sterilizing",
                 "speech_part": "verb",
                 "synonyms": [
-                    "sanitize",
-                    "sanitise"
+                    "sanitise",
+                    "sanitize"
                 ]
             }
         ],
@@ -72229,7 +72666,13 @@
                 "id": "54bd582a72657423914c2808",
                 "def": "to roll, press, forge, or shape a material, usually metal, while hot",
                 "example": "The monger hot-worked the steel into a sword.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -72748,6 +73191,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "hunch"
+                ],
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -73237,7 +73686,13 @@
                 "id": "54bd582f7265742391343c08",
                 "def": "to educate one's children at home instead of sending them to a school",
                 "example": "The parents are home-schooling their children – it's cheaper that way.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -73824,7 +74279,21 @@
                 "id": "5569f5b0623263007eb50000",
                 "def": "a stupid person",
                 "example": "Stop acting like a horse's ass!",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -73844,7 +74313,49 @@
                 "id": "5590266b666339008a2b0000",
                 "def": "a particularly good time, often wild and uproarious",
                 "example": "We had a gas at that party in the hills last weekend!",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "US",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "American",
+                            "is_dialect": true
+                        }
+                    },
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "UK",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    },
+                    {
+                        "name": "Irish",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -73865,7 +74376,32 @@
                 "def": "to have the characteristics of a sex worker or sexually liberal person",
                 "example": "My hoeism is strong.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "AAVE",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "American",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             }
         ],
         "editors": [

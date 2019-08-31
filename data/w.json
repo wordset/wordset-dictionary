@@ -2069,8 +2069,8 @@
                     "encompassing",
                     "extensive",
                     "panoptic",
-                    "encyclopaedic",
-                    "encyclopedic"
+                    "encyclopedic",
+                    "encyclopaedic"
                 ]
             },
             {
@@ -2958,8 +2958,7 @@
             {
                 "id": "54bd56007265742391a96d00",
                 "def": "having won",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             },
             {
                 "id": "54bd56007265742391ab6d00",
@@ -5326,6 +5325,12 @@
                     "bitty",
                     "minuscule",
                     "miniscule"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -6279,8 +6284,7 @@
                 "id": "54bd5629726574239179ea00",
                 "def": "fueled by wood",
                 "example": "a wood-burning stove'",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ]
     },
@@ -6958,8 +6962,7 @@
                 "id": "54bd562e7265742391aafc00",
                 "def": "devoid of warmth and cordiality",
                 "example": "Their wintry attitude was harsh.",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ],
         "editors": [
@@ -6993,8 +6996,7 @@
                 "id": "54bd562e7265742391aafc00",
                 "def": "devoid of warmth and cordiality",
                 "example": "Their wintry attitude was harsh.",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ],
         "editors": [
@@ -7841,7 +7843,13 @@
                 "id": "54bd563672657423915e1701",
                 "def": "well known and commonly used",
                 "example": "Even great playwrights often draw from well-mined sources when creating new material.",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -10913,8 +10921,7 @@
                 "id": "55ef0bec66386300b6560200",
                 "def": "the Welsh language",
                 "example": "The tourist could not understand the Welsh on the signs, but they could read the English text.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -10995,8 +11002,7 @@
                 "id": "54bd56657265742391dfb201",
                 "def": "of or related to or made of wool",
                 "example": "a woolen sweater",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             },
             {
                 "id": "54bd56657265742391e2b201",
@@ -11017,14 +11023,23 @@
                 "def": "of or related to or made of wool",
                 "example": "The woollen sweater was itchy around my neck.",
                 "speech_part": "adjective",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    }
+                ]
             },
             {
                 "id": "54bd56657265742391e7b201",
                 "def": "a fabric made from the hair of sheep",
-                "example": "",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    }
+                ]
             }
         ],
         "editors": [
@@ -11594,6 +11609,12 @@
                     "mop up",
                     "pip",
                     "rack up"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -11603,6 +11624,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "lash"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -11618,6 +11645,12 @@
                     "lather",
                     "trounce",
                     "flog"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -11627,13 +11660,25 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "whisk"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
                 "id": "54bd566d726574239194d001",
                 "def": "to thrash about flexibly in the manner of a whiplash",
                 "example": "The tall grass whipped in the wind.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -12382,7 +12427,13 @@
                 "id": "54bd56757265742391c9ef01",
                 "def": "the fruitless pursuit of something unattainable",
                 "example": "They're just on a wild-goose chase to find aliens.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -12403,7 +12454,13 @@
                 "id": "54bd56757265742391c9ef01",
                 "def": "the fruitless pursuit of something unattainable",
                 "example": "They're just on a wild-goose chase to find aliens.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -13587,8 +13644,8 @@
                 "def": "make uniform",
                 "speech_part": "verb",
                 "synonyms": [
-                    "uniformize",
                     "uniformise",
+                    "uniformize",
                     "knead"
                 ]
             },
@@ -14023,8 +14080,7 @@
                 "id": "54bd56807265742391bb1802",
                 "def": "the activity of putting something in written form",
                 "example": "I came up with all the ideas and my partner did the writing.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56807265742391bd1802",
@@ -27364,7 +27420,8 @@
         "wordset_id": "54bd56fd7265742391acef03",
         "labels": [
             {
-                "name": "formal"
+                "name": "formal",
+                "is_dialect": false
             }
         ],
         "meanings": [
@@ -28295,7 +28352,13 @@
                 "id": "54bd56fd7265742391f0ed03",
                 "def": "move somewhere quickly",
                 "example": "The President was whisked away in a limo.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd56fd7265742391f2ed03",
@@ -31712,8 +31775,7 @@
             {
                 "id": "54bd571f7265742391aa6e04",
                 "def": "a pale light sometimes seen at night over marshy ground",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -32104,6 +32166,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "phrase"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -33339,7 +33407,21 @@
                 "id": "54bd573072657423910baf04",
                 "def": "to see an event happen, to be present during something",
                 "example": "I witnessed the accident and had to testify in court.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd573072657423910daf04",
@@ -35298,8 +35380,7 @@
                 "id": "55f8a6e265623600b6810200",
                 "def": "a town in Belgium",
                 "example": "I visited Waterloo last week.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57407265742391eeea04",
@@ -36092,8 +36173,7 @@
             {
                 "id": "54bd57477265742391300305",
                 "def": "snap beans with yellow pods",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57477265742391310305",
@@ -36351,8 +36431,7 @@
             {
                 "id": "54bd57497265742391520905",
                 "def": "water lily of eastern North America having pale yellow blossoms and edible globular nutlike seeds",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -39543,7 +39622,21 @@
                 "id": "54bd57837265742391b7e005",
                 "def": "compromise oneself for money or other gains",
                 "example": "It never feels good to whore yourself out for a new job, and then get rejected.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "offensive",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd57837265742391b9e005",
@@ -39790,13 +39883,121 @@
                 "id": "55a0e36e376539008a060000",
                 "def": "general term of abuse for an unpleasant person",
                 "example": "That wanker licked all the donuts on the y.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "offensive",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "UK",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    },
+                    {
+                        "name": "Irish",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    },
+                    {
+                        "name": "New Zealand",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             },
             {
                 "id": "55a0e37b376539008a0e0000",
                 "def": "general term of abuse describing an unpleasant or distasteful person",
                 "example": "That wanker licked the all donuts on the tray.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "offensive",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "UK",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    },
+                    {
+                        "name": "Irish",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    },
+                    {
+                        "name": "Australian",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    },
+                    {
+                        "name": "New Zealand",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd578872657423912ef405",
@@ -42556,8 +42757,7 @@
             {
                 "id": "54bd57aa72657423910f6b06",
                 "def": "wild or uncultivated flowering plant",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -43222,8 +43422,7 @@
             {
                 "id": "54bd57ae7265742391667906",
                 "def": "plant of wetlands and bogs of temperate regions having small greenish flowers partly enclosed in a white spathe and red berries",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -43773,8 +43972,7 @@
             {
                 "id": "54bd57b37265742391eb8a06",
                 "def": "tiny grey woolly tufted annual with small golden-yellow flower heads",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -44292,8 +44490,7 @@
             {
                 "id": "54bd57ba726574239111a606",
                 "def": "found wild in Palestine",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -44497,8 +44694,7 @@
             {
                 "id": "54bd57bc726574239160ac06",
                 "def": "graceful deciduous shrub or small tree having attractive foliage and small red berries that turn black at maturity and are used for making wine",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57bc726574239161ac06",
@@ -44794,8 +44990,7 @@
             {
                 "id": "54bd57be7265742391e2b306",
                 "def": "Eurasian herb with white or pinkish flowers in a terminal corymb",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -45121,8 +45316,7 @@
             {
                 "id": "54bd57c172657423913bbe06",
                 "def": "stringybark having white wood",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -45290,8 +45484,7 @@
             {
                 "id": "54bd57c27265742391d1c206",
                 "def": "large evergreen shrub or small tree having white aromatic bark and leathery leaves and small purple to red flowers in terminal cymes",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -45335,8 +45528,7 @@
             {
                 "id": "54bd57c3726574239135c506",
                 "def": "common violet of the eastern United States with large pale blue or purple flowers resembling pansies",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57c3726574239136c506",
@@ -46599,8 +46791,7 @@
             {
                 "id": "54bd57cc7265742391bfe506",
                 "def": "small fast-growing spiny deciduous Chinese orange tree bearing sweetly scented flowers and decorative but inedible fruit: used as a stock in grafting and for hedges",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -46699,8 +46890,7 @@
             {
                 "id": "54bd57cd7265742391c9ea06",
                 "def": "vigorous deciduous European treelike shrub common along waysides",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -47156,8 +47346,7 @@
             {
                 "id": "54bd57d372657423916bfe06",
                 "def": "viscid herb of arid or desert habitats of southwestern United States having pendulous yellow flowers",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -47529,8 +47718,7 @@
             {
                 "id": "54bd57d672657423912c0907",
                 "def": "tall European perennial naturalized and troublesome as a weed in eastern North America",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -48511,8 +48699,7 @@
                 "id": "54bd57e77265742391574107",
                 "def": "assimilation of Western culture",
                 "example": "Westernization has brought many changes in music to other parts of the world.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -48542,8 +48729,7 @@
                 "id": "54bd57e77265742391574107",
                 "def": "assimilation of Western culture",
                 "example": "Westernization has brought many changes in music to other parts of the world.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -49099,6 +49285,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "auditory aphasia"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -50300,8 +50500,7 @@
             {
                 "id": "54bd580b726574239105be07",
                 "def": "a colorless water-soluble powder",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -51809,8 +52008,7 @@
             {
                 "id": "54bd581872657423911ceb07",
                 "def": "stimulate sexually",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             },
             {
                 "id": "54bd581872657423911deb07",
@@ -52028,8 +52226,8 @@
                 "def": "make western in character",
                 "speech_part": "verb",
                 "synonyms": [
-                    "occidentalize",
-                    "occidentalise"
+                    "occidentalise",
+                    "occidentalize"
                 ]
             }
         ],
@@ -52058,8 +52256,8 @@
                 "def": "make western in character",
                 "speech_part": "verb",
                 "synonyms": [
-                    "occidentalize",
-                    "occidentalise"
+                    "occidentalise",
+                    "occidentalize"
                 ]
             }
         ],
@@ -52541,8 +52739,8 @@
                 "def": "convert ordinary language into code",
                 "speech_part": "verb",
                 "synonyms": [
-                    "cipher",
-                    "cypher"
+                    "cypher",
+                    "cipher"
                 ]
             }
         ]
@@ -53292,6 +53490,24 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "drag down"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -53301,6 +53517,24 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "weigh on"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -54258,21 +54492,59 @@
                 "id": "54e7da8638323300030a0000",
                 "def": "first person singular pronoun, for a monarch or person of high status",
                 "example": "We welcome you to the royal banquet, even though I'm just a singular Queen.",
-                "speech_part": "pronoun"
+                "speech_part": "pronoun",
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "UK",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             },
             {
                 "id": "56336a36b6e7c900d8000012",
                 "def": "to be, plural; replaceable with 'we are' or 'we be'",
                 "example": "We working.",
                 "speech_part": "verb",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "AAVE",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "American",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             },
             {
                 "id": "56336a36b6e7c900d8000013",
                 "def": "first person plural, typically",
                 "example": "We are glad you are here, because there is more than one of us.",
-                "speech_part": "pronoun",
-                "synonyms": []
+                "speech_part": "pronoun"
             }
         ],
         "editors": [
@@ -54314,7 +54586,13 @@
                 "id": "5596acd4353061008a1f0800",
                 "def": "the wrong way",
                 "example": "They circled around the block widdershins.",
-                "speech_part": "adverb"
+                "speech_part": "adverb",
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -54335,15 +54613,19 @@
                 "id": "5612d320c5a9ff0003000042",
                 "def": "lacking something",
                 "example": "They had to eat without cutlery.",
-                "speech_part": "preposition",
-                "synonyms": []
+                "speech_part": "preposition"
             },
             {
                 "id": "5612d320c5a9ff0003000043",
                 "def": "outside of something",
                 "example": "I was within and without, simultaneously enchanted and repelled by the inexhaustible variety of life.",
                 "speech_part": "adverb",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -54363,9 +54645,25 @@
             {
                 "id": "5671dcfa50f1150003000020",
                 "def": "an abbreviated version of the phrase \"What the Fuck,\" usually used when someone does something that is extremely unusual, awe-striking in a negative connotation",
-                "example": "",
                 "speech_part": "phrase",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "offensive",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -54394,8 +54692,7 @@
                 "id": "5686d4acd4d9c9000300001e",
                 "def": "the soap used to wash dishes, typically by hand, and often placed near the sink in a kitchen",
                 "example": "I used the dishwashing liquid to clean that tough grease stain on the pan.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [

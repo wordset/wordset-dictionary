@@ -1366,8 +1366,7 @@
                 "id": "54bd55e47265742391ea1400",
                 "def": "the third from the lowest forward ratio gear in the gear box of a motor vehicle",
                 "example": "you shouldn't try to start in third gear",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd55e47265742391ec1400",
@@ -3690,6 +3689,12 @@
                     "thickheaded",
                     "thick-skulled",
                     "wooden-headed"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -7238,8 +7243,7 @@
             {
                 "id": "54bd560c7265742391a68f00",
                 "def": "ratio of the opposite to the adjacent side of a right-angled triangle",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd560c7265742391a78f00",
@@ -7845,8 +7849,8 @@
                     "hooligan",
                     "ruffian",
                     "roughneck",
-                    "yob",
                     "yobo",
+                    "yob",
                     "yobbo"
                 ]
             },
@@ -8744,8 +8748,7 @@
             {
                 "id": "54bd561b72657423910fbb00",
                 "def": "experiencing triumph",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             },
             {
                 "id": "54bd561b726574239110bb00",
@@ -10336,8 +10339,7 @@
                 "id": "54bd56257265742391b4db00",
                 "def": "in accord with the latest fad",
                 "example": "trendy ideas",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ]
     },
@@ -15430,6 +15432,20 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "trifoliate"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -15921,8 +15937,7 @@
             {
                 "id": "54bd56487265742391a05501",
                 "def": "a United States bill worth 20 dollars",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56487265742391a15501",
@@ -16046,8 +16061,7 @@
             {
                 "id": "54bd56487265742391d75501",
                 "def": "the cardinal number that is the sum of twenty-three and one",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -19914,6 +19928,20 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "pectoral"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -22667,7 +22695,13 @@
                 "id": "54bd566a72657423912ec701",
                 "def": "a rearrangement of the relative positions of power lines in order to minimize the effects of mutual capacitance and inductance",
                 "example": "They wrote a textbook on the electrical effects of transposition.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd566a726574239130c701",
@@ -23184,7 +23218,21 @@
                 "id": "54bd566b72657423919acb01",
                 "def": "in orthopedics, the act of pulling on a bone or limb, as in a fracture, to relieve pressure or align parts in a special way during healing",
                 "example": "After the accident, my leg was in traction for several days.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd566b72657423919ccb01",
@@ -23921,8 +23969,7 @@
                 "id": "54bd566f72657423916ed801",
                 "def": "turning or twisting around, in place",
                 "example": "They surveyed the room with a quick twist of their head.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd566f726574239170d801",
@@ -25117,6 +25164,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     null
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -25141,6 +25194,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     null
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -25179,8 +25238,7 @@
             {
                 "id": "54bd5673726574239191e901",
                 "def": "a movement through space that changes the location of something",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd5673726574239193e901",
@@ -26511,7 +26569,21 @@
                 "id": "54bd5676726574239128f201",
                 "def": "the process whereby genetic information coded in messenger RNA directs the formation of a specific protein at a ribosome in the cytoplasm",
                 "example": "The faulty translation of the RNA led to a mis-folded protein.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd5676726574239129f201",
@@ -28326,6 +28398,16 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "indulgence"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -29094,8 +29176,7 @@
                 "id": "54bd567f7265742391cf1702",
                 "def": "steady winds blowing from east to west above and below the equator",
                 "example": "they rode the trade winds going west",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd567f7265742391d21702",
@@ -29222,7 +29303,13 @@
                 "id": "54bd568072657423910a1a02",
                 "def": "an unwanted pregnancy",
                 "example": "I got several of my peers in trouble.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd568072657423910d1a02",
@@ -29783,8 +29870,7 @@
             {
                 "id": "54bd568272657423910f2102",
                 "def": "surgical procedures and hormonal treatments designed to alter a person's sexual characteristics so that the resemble those of the opposite sex",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -30661,7 +30747,21 @@
                 "id": "54bd568572657423915f2d02",
                 "def": "to determine the presence or properties of a substance",
                 "example": "We tested the water sample for Mercury, and found none.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd56857265742391602d02",
@@ -30689,6 +30789,20 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "screen"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             },
             {
@@ -30702,7 +30816,12 @@
                 "def": "a game of cricket which lasts 5 days",
                 "example": "Watching every day of the test was truly a test of our patience and commitment.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    }
+                ]
             }
         ],
         "editors": [
@@ -33454,7 +33573,21 @@
                 "id": "54bd569172657423912f5702",
                 "def": "government activities seeking to dissolve corporate trusts and monopolies, especially under the United States antitrust laws",
                 "example": "The large corporations were not happy with the new government's trust busting.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -33710,6 +33843,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "slaughter"
+                ],
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    }
                 ]
             }
         ],
@@ -34052,8 +34191,8 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "pin",
-                    "immobilize",
-                    "immobilise"
+                    "immobilise",
+                    "immobilize"
                 ]
             },
             {
@@ -34120,8 +34259,7 @@
             {
                 "id": "54bd56947265742391ea6102",
                 "def": "someone who is regarded as contemptible",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56947265742391ec6102",
@@ -34326,8 +34464,7 @@
             {
                 "id": "54bd56967265742391376b02",
                 "def": "battle in World War I (1917)",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -37795,8 +37932,7 @@
             {
                 "id": "54bd56b7726574239146e502",
                 "def": "an insect of the order Thysanoptera",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -37807,8 +37943,7 @@
             {
                 "id": "54bd56b7726574239149e502",
                 "def": "an insect of the order Thysanoptera",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -39522,8 +39657,7 @@
             {
                 "id": "54bd56c57265742391e61903",
                 "def": "a kind of gurnard",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -39827,8 +39961,7 @@
                 "id": "54bd56ca7265742391682d03",
                 "def": "the amount that a tub will hold",
                 "example": "a tub of water",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -40095,8 +40228,7 @@
             {
                 "id": "54bd56ce7265742391503f03",
                 "def": "a silvery malleable metallic element that resists corrosion",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56ce7265742391523f03",
@@ -40571,15 +40703,13 @@
                 "id": "54bd56d07265742391984503",
                 "def": "an inexpensive, showy trinket",
                 "example": "I can't wait to show everyone my tchotchke collection.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56d07265742391994503",
                 "def": "an attractive, unconventional woman",
                 "example": "There's a real tchotchke walking this way.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -40858,8 +40988,7 @@
                 "id": "54bd56d17265742391804a03",
                 "def": "any long thin projection that is transient",
                 "example": "tongues of flame licked at the walls",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56d17265742391834a03",
@@ -42201,6 +42330,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "flip-flop"
+                ],
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "Australian",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    }
                 ]
             },
             {
@@ -43275,7 +43418,21 @@
                 "id": "54bd56e57265742391f89303",
                 "def": "the finishing line for a foot race",
                 "example": "The runner broke the tape in record time.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "US",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "American",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd56e57265742391fb9303",
@@ -43406,6 +43563,24 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "crank"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    }
                 ]
             },
             {
@@ -43415,6 +43590,16 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "trumpery"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    }
                 ]
             },
             {
@@ -43424,6 +43609,24 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "scum"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "offensive",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    }
                 ]
             },
             {
@@ -43433,6 +43636,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "scrap"
+                ],
+                "labels": [
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    }
                 ]
             },
             {
@@ -43443,6 +43652,16 @@
                 "synonyms": [
                     "pan",
                     "tear apart"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    }
                 ]
             },
             {
@@ -43452,6 +43671,16 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "scrap"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    }
                 ]
             }
         ],
@@ -43549,8 +43778,7 @@
             {
                 "id": "54bd56e97265742391dda203",
                 "def": "a soldier who drives a tank",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -45138,8 +45366,7 @@
             {
                 "id": "54bd56f872657423910add03",
                 "def": "electronic equipment that broadcasts or receives electromagnetic waves representing images and sound",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -45194,8 +45421,7 @@
             {
                 "id": "54bd56f872657423910fda03",
                 "def": "as much as a tablespoon will hold",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -45760,8 +45986,7 @@
                 "id": "54bd56f8726574239133dc03",
                 "def": "the starting place for each hole on a golf course",
                 "example": "they were waiting on the first tee",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56f8726574239136dc03",
@@ -46505,7 +46730,21 @@
                 "id": "54bd56f8726574239167dc03",
                 "def": "any instrument for observing events at a distance and transmitting the information back to the observer",
                 "example": "My telemeter says that the ship is 10 miles away from our current location.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -46607,8 +46846,7 @@
             {
                 "id": "54bd56f872657423916fdb03",
                 "def": "the location of the target that is to be hit",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56f8726574239170db03",
@@ -48162,8 +48400,8 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "tabulate",
-                    "tabularise",
-                    "tabularize"
+                    "tabularize",
+                    "tabularise"
                 ]
             },
             {
@@ -48720,8 +48958,7 @@
             {
                 "id": "54bd56f972657423910edf03",
                 "def": "as much as a thimble will hold",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -49877,8 +50114,7 @@
             {
                 "id": "54bd56f9726574239168df03",
                 "def": "an electric switch that has three terminals",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -51515,8 +51751,7 @@
             {
                 "id": "54bd56f97265742391ece003",
                 "def": "aromatic annual or perennial herbs and shrubs",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -52010,7 +52245,13 @@
                 "id": "54bd56fa726574239110e503",
                 "def": "to reproduce threefold",
                 "example": "I needed to triplicate the letter for the committee.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -52877,7 +53118,21 @@
                 "id": "55664cf8396462007e8e0100",
                 "def": "swimming outfit",
                 "example": "Let's put on our togs and go for a swim!",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "Australian",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -55952,7 +56207,13 @@
                 "id": "54bd56fb726574239146e603",
                 "def": "to force a way through",
                 "example": "We will have to tunnel the crowd to get to the exit.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd56fb726574239147e603",
@@ -55961,6 +56222,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "burrow"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -56322,7 +56589,13 @@
                 "id": "54bd56fb72657423917ce503",
                 "def": "a garment or part of a garment designed for or relating to trousers, otherwise known as pants",
                 "example": "I bought new trousers for a special occasion.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    }
+                ]
             },
             {
                 "id": "54bd56fb72657423917ee503",
@@ -56331,6 +56604,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "pant"
+                ],
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    }
                 ]
             }
         ],
@@ -58830,7 +59109,21 @@
                 "id": "54bd57067265742391761204",
                 "def": "something such as property held by one party, the trustee, for the benefit of another, the beneficiary",
                 "example": "I wish I was the beneficiary of a generous trust set up by my parents.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd57067265742391781204",
@@ -61494,8 +61787,7 @@
             {
                 "id": "54bd57137265742391074104",
                 "def": "a vein from the testicles",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -61517,8 +61809,7 @@
             {
                 "id": "54bd57137265742391104104",
                 "def": "a vein arising from the region of the superficial epigastric vein and opening into the axillary vein or thoracic vein",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -61531,7 +61822,20 @@
                 "def": "a valve with three cusps in the heart that prevents the backflow of blood",
                 "example": "My papillary muscles are failing to pull my tricuspid valve open.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -61549,8 +61853,7 @@
             {
                 "id": "54bd571372657423911f4104",
                 "def": "veins that drain the thoracic walls",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -61561,8 +61864,7 @@
             {
                 "id": "54bd57137265742391254104",
                 "def": "any of several small veins draining blood from the thyroid area",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -61573,8 +61875,7 @@
             {
                 "id": "54bd57137265742391344104",
                 "def": "veins of the lower leg",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -61585,8 +61886,7 @@
             {
                 "id": "54bd571372657423913a4104",
                 "def": "several small veins from the trachea",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -61601,6 +61901,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "breadbasket"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -61610,6 +61916,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "bay window"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -61737,8 +62049,7 @@
             {
                 "id": "54bd57137265742391f84004",
                 "def": "any of several veins draining the temporal region",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -65684,7 +65995,13 @@
                 "id": "54bd57267265742391298804",
                 "def": "a long-distance telephone call at charges above a local rate",
                 "example": "I had to place a toll call to the company to get them to come out and fix my fridge!",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -67854,8 +68171,7 @@
             {
                 "id": "54bd573172657423916fb104",
                 "def": "a mistake in printed matter resulting from mechanical failures of some kind",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -67866,8 +68182,7 @@
             {
                 "id": "54bd5731726574239172b104",
                 "def": "a mistake in printed matter resulting from mechanical failures of some kind",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -70333,8 +70648,7 @@
                 "id": "54bd573f726574239120e504",
                 "def": "make a weak, chirping sound",
                 "example": "the small bird was tweeting in the tree",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             }
         ]
     },
@@ -70362,8 +70676,7 @@
                 "id": "54bd573f726574239134e604",
                 "def": "a violently fast stream of water or other liquid",
                 "example": "The houses were swept away in the torrent.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd573f726574239136e604",
@@ -71127,7 +71440,20 @@
                 "def": "an intense sexual desire",
                 "example": "I've had the hots for them for years.",
                 "speech_part": "phrase",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -74199,8 +74525,7 @@
                 "id": "54bd575672657423913d3a05",
                 "def": "a group of people who try actively to influence legislation",
                 "example": "There is a third house trying to prevent universal healthcare.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -74263,8 +74588,7 @@
                 "id": "54bd57567265742391d73b05",
                 "def": "soldiers collectively",
                 "example": "We need to feed the troops before nightfall.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -74284,7 +74608,21 @@
                 "id": "54bd57567265742391ec3905",
                 "def": "a British youth subculture that first appeared in the 1950s based off Edwardian styles from the North of England, and inspiring the Glam Rock look of the 1970's",
                 "example": "The teds dressed up to go out every night.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "UK",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -74304,7 +74642,21 @@
                 "id": "54bd57567265742391ec3905",
                 "def": "a British youth subculture that first appeared in the 1950s based off Edwardian styles from the North of England, and inspiring the Glam Rock look of the 1970's",
                 "example": "The teds dressed up to go out every night.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "UK",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -74410,13 +74762,18 @@
                 "id": "54bd57577265742391913f05",
                 "def": "any collection of valuables that is discovered",
                 "example": "The library is a virtual treasure trove of information and learning.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd57577265742391933f05",
                 "def": "treasure of unknown ownership found hidden (usually in the earth)",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -74436,15 +74793,13 @@
                 "id": "569434979734cc0003000042",
                 "def": "something so dense as to be impenetrable",
                 "example": "The thicket of protesters prevented many people from getting into the building.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57577265742391963e05",
                 "def": "a dense growth of bushes",
                 "example": "While we were hiking, we had to go around a thicket that was too thick to walk through.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -74582,7 +74937,13 @@
                 "id": "54bd57577265742391c54005",
                 "def": "a group of typists in a company who can perform typing work for different persons",
                 "example": "Most of the company's memos were typed in the typing pool.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -74653,8 +75014,7 @@
                 "id": "54bd575872657423914f4305",
                 "def": "a place where taxis park while awaiting customers",
                 "example": "The taxistand was busy after the basketball game.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -74703,8 +75063,7 @@
                 "id": "54bd57587265742391874105",
                 "def": "the path that is prescribed for an airplane that is preparing to land at an airport",
                 "example": "The traffic patterns around O'Hare are very crowded.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -74805,7 +75164,12 @@
                 "def": "any place of pain and turmoil",
                 "example": "I was in the pits after I missed the last flight and had to spend the night in the airport.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -74881,8 +75245,7 @@
                 "id": "54bd57597265742391aa4405",
                 "def": "line marking the upper limit of tree growth in mountains or northern latitudes",
                 "example": "Let's set up camp when we reach the timberline and summit in the morning.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -74916,8 +75279,7 @@
                 "id": "54bd57597265742391ad4605",
                 "def": "an accumulation of refuse and discarded matter",
                 "example": "Throw the broken chairs on the trash heap.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -74951,8 +75313,7 @@
                 "id": "54bd57597265742391bc4605",
                 "def": "a location where toxic waste is being or has been disposed of, often illegally",
                 "example": "The Love Canal neighborhood in Niagara Falls, New York is one of the most famous toxic waste sites.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -74994,8 +75355,7 @@
                 "id": "54bd57597265742391ef4405",
                 "def": "the entire land, sea, and air area that may become or is directly involved in war operations",
                 "example": "WWII had multiple theatres of war.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -75021,8 +75381,7 @@
                 "id": "54bd57597265742391ef4405",
                 "def": "the entire land, sea, and air area that may become or is directly involved in war operations",
                 "example": "WWII had multiple theatres of war.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -75070,8 +75429,7 @@
                 "id": "54bd575a72657423913b4a05",
                 "def": "an unknown and unexplored region",
                 "example": "The universe is filled with terra incognita.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -75147,8 +75505,7 @@
                 "id": "54bd575a7265742391824b05",
                 "def": "the location of the target that is to be hit",
                 "example": "The target area is an enemy base.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -75188,8 +75545,7 @@
                 "id": "54bd575a7265742391884b05",
                 "def": "the starting place for each hole on a golf course",
                 "example": "There was a line at the teeing ground of the first hole due to bad planning.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -75323,8 +75679,7 @@
             {
                 "id": "54bd575a7265742391d34b05",
                 "def": "the part of the Earth's surface between the Tropic of Cancer and the Tropic of Capricorn",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -75336,8 +75691,7 @@
                 "id": "54bd575a7265742391d64b05",
                 "def": "the part of the Earth's surface between the Tropic of Cancer and the Tropic of Capricorn",
                 "example": "We like to vacation in the tropics during winter to avoid the cold.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -75574,7 +75928,16 @@
                 "def": "a compact mass of hair that forms in the alimentary canal, especially in the stomach of animals as a result of licking fur",
                 "example": "My veterinarian charged me for trichobezoar removal, and I didn't find out until later that just meant my cat coughed up a hairball.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -75608,8 +75971,7 @@
                 "id": "54bd57687265742391af7f05",
                 "def": "a natural spring of water at a temperature of 70 F or above",
                 "example": "The resort surrounded a thermal spring​ and allowed guests to relax in the rejuvenating waters.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -75845,7 +76207,20 @@
                 "id": "54bd576c72657423917f8b05",
                 "def": "a lepton of very great mass",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -75865,7 +76240,20 @@
                 "id": "54bd576c72657423917f8b05",
                 "def": "a lepton of very great mass",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -75883,8 +76271,10 @@
         "labels": [
             {
                 "name": "scientific",
+                "is_dialect": false,
                 "parent": {
-                    "name": "technical"
+                    "name": "technical",
+                    "is_dialect": false
                 }
             }
         ],
@@ -75911,8 +76301,10 @@
         "labels": [
             {
                 "name": "scientific",
+                "is_dialect": false,
                 "parent": {
-                    "name": "technical"
+                    "name": "technical",
+                    "is_dialect": false
                 }
             }
         ],
@@ -75939,8 +76331,10 @@
         "labels": [
             {
                 "name": "legal",
+                "is_dialect": false,
                 "parent": {
-                    "name": "technical"
+                    "name": "technical",
+                    "is_dialect": false
                 }
             }
         ],
@@ -75987,8 +76381,10 @@
         "labels": [
             {
                 "name": "scientific",
+                "is_dialect": false,
                 "parent": {
-                    "name": "technical"
+                    "name": "technical",
+                    "is_dialect": false
                 }
             }
         ],
@@ -76041,8 +76437,10 @@
         "labels": [
             {
                 "name": "scientific",
+                "is_dialect": false,
                 "parent": {
-                    "name": "technical"
+                    "name": "technical",
+                    "is_dialect": false
                 }
             }
         ],
@@ -76161,8 +76559,7 @@
             {
                 "id": "54bd576c7265742391f08b05",
                 "def": "a hypothetical quark with a charge of +2/3 and a mass more than 100,000 times that of an electron",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -76172,8 +76569,10 @@
         "labels": [
             {
                 "name": "scientific",
+                "is_dialect": false,
                 "parent": {
-                    "name": "technical"
+                    "name": "technical",
+                    "is_dialect": false
                 }
             }
         ],
@@ -76182,8 +76581,7 @@
                 "id": "54bd576c7265742391f38b05",
                 "def": "a hypothetical quark with a charge of +2/3 and a mass more than 100,000 times that of an electron",
                 "example": "The physicists calculated the mass of the truth quarks.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -76321,8 +76719,7 @@
                 "id": "5695cae5c105d4000300003f",
                 "def": "a device, pouch, or other item used for holding tickets",
                 "example": "My lanyard had my ticket holder on it.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd576f7265742391e49905",
@@ -76404,8 +76801,7 @@
                 "id": "54bd5771726574239190a005",
                 "def": "a juvenile between the onset of puberty and maturity",
                 "example": "The teenager was unhappy at hearing their responsibilities.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -76465,15 +76861,13 @@
                 "id": "569402bdbc732f000300016b",
                 "def": "a fishing boat used for fishing with hook and line",
                 "example": "The troller came in to the harbor with lots of fish.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd5772726574239182a205",
                 "def": "a fisherman who uses a hook and line",
                 "example": "The troller pulled in their fishing line with a big catch.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -76544,14 +76938,19 @@
                 "id": "54bd577372657423913da605",
                 "def": "an actor who travels around the country presenting plays",
                 "example": "The understudy left to become a trouper with a traveling show.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd577372657423913ea605",
                 "def": "a person who is reliable, uncomplaining, and hard working",
                 "example": "They were a real trooper for getting that work done.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -76571,14 +76970,19 @@
                 "id": "54bd577372657423913da605",
                 "def": "an actor who travels around the country presenting plays",
                 "example": "The understudy left to become a trouper with a traveling show.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd577372657423913ea605",
                 "def": "a person who is reliable, uncomplaining, and hard working",
                 "example": "They were a real trooper for getting that work done.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -76611,7 +77015,6 @@
             {
                 "id": "54bd577372657423918ba705",
                 "def": "one who takes a bet or wager",
-                "example": "",
                 "speech_part": "noun"
             },
             {
@@ -76661,8 +77064,7 @@
                 "id": "54bd57737265742391dca505",
                 "def": "someone who fights bulls",
                 "example": "The toreador mocked the bull, and was later gored.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -76703,15 +77105,13 @@
                 "id": "5694035cbc732f0003000190",
                 "def": "someone who owns something via official documentation",
                 "example": "My parents are the actual title-holders on my car.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd5774726574239113ad05",
                 "def": "someone who has won first place in a competition",
                 "example": "The boxer was the title-holder from the last event, but might lose it this time.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -76745,8 +77145,7 @@
                 "id": "54bd5774726574239148ab05",
                 "def": "the person initiating a telephone call",
                 "example": "Random telephoners keep calling me while I'm asleep.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -76768,14 +77167,22 @@
                 "def": "a prehistoric person who lived in caves",
                 "example": "The troglodytes are currently being researched at my university.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd57747265742391bdac05",
                 "def": "one who lives in solitude",
                 "example": "You're such a troglodyte; every time I or anybody else asks to come to your house you say no.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -76823,15 +77230,13 @@
                 "id": "54bd577572657423910cae05",
                 "def": "a young person of either sex",
                 "example": "The tike has just learned to walk.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd577572657423910dae05",
                 "def": "a crude, uncouth, ill-bred person lacking culture or refinement",
                 "example": "We are in no rush to deal with those tikes.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -76851,15 +77256,13 @@
                 "id": "54bd577572657423910cae05",
                 "def": "a young person of either sex",
                 "example": "The tike has just learned to walk.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd577572657423910dae05",
                 "def": "a crude, uncouth, ill-bred person lacking culture or refinement",
                 "example": "We are in no rush to deal with those tikes.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -76879,8 +77282,7 @@
                 "id": "54bd5775726574239120b005",
                 "def": "a person of exceptional importance and reputation",
                 "example": "The boss of the large firm was considered a titan in the shoe industry.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -76924,8 +77326,7 @@
                 "id": "54bd577572657423917ead05",
                 "def": "a stock market analyst who tries to predict market trends from graphs of recent prices of securities",
                 "example": "The technical analyst noticed some irregularities in the data.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -76945,8 +77346,7 @@
                 "id": "54bd57757265742391b0ad05",
                 "def": "a miserly person",
                 "example": "Normally a tightwad, my nibling loved spending money on their spouse.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -76966,8 +77366,7 @@
                 "id": "54bd57757265742391b6b005",
                 "def": "one who sets written material into type",
                 "example": "The typesetter did some tweaks to get the margins to look right.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -76987,8 +77386,7 @@
                 "id": "54bd57757265742391b9b005",
                 "def": "one who creates types",
                 "example": "The typographer finished tweaking the font ahead of the deadline.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -77008,8 +77406,7 @@
                 "id": "54bd577672657423913fb405",
                 "def": "a male Slavic monarch or emperor, most commonly used with regard to Russia prior to 1917",
                 "example": "The tsar enjoyed some caviar at dinner.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -77029,8 +77426,7 @@
                 "id": "54bd577672657423913fb405",
                 "def": "a male Slavic monarch or emperor, most commonly used with regard to Russia prior to 1917",
                 "example": "The tsar enjoyed some caviar at dinner.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -77050,8 +77446,7 @@
                 "id": "54bd5776726574239148b405",
                 "def": "the wife or widow of a czar",
                 "example": "The tsarina spoke several languages when holding court.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -77071,8 +77466,7 @@
                 "id": "54bd5776726574239148b405",
                 "def": "the wife or widow of a czar",
                 "example": "The tsarina spoke several languages when holding court.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -77106,8 +77500,7 @@
                 "id": "54bd577772657423912ab705",
                 "def": "someone who supervises the actors and directs the action in the production of a show",
                 "example": "The theater director forced the actors to rehearse their lines again.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -77127,8 +77520,7 @@
                 "id": "54bd577772657423912ab705",
                 "def": "someone who supervises the actors and directs the action in the production of a show",
                 "example": "The theater director forced the actors to rehearse their lines again.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -77148,8 +77540,7 @@
                 "id": "54bd5777726574239156b805",
                 "def": "a person who says one thing and does another",
                 "example": "That two-timer is not to be trusted!",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd5777726574239157b805",
@@ -77182,8 +77573,7 @@
             {
                 "id": "54bd577772657423915fb805",
                 "def": "someone who betrays his country by committing treason",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -77252,7 +77642,24 @@
                 "def": "a person who drinks alcoholic beverages, especially to excess",
                 "example": "They were acting like a toper at the pub.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "UK",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -77275,8 +77682,7 @@
                 "id": "54bd5779726574239124bf05",
                 "def": "a singer of folk songs",
                 "example": "Many famous troubadours began in New York City.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -77298,8 +77704,7 @@
                 "id": "54bd577972657423913fbf05",
                 "def": "a person who lacks good judgment",
                 "example": "Don't act like a tomfool.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -77375,8 +77780,7 @@
                 "id": "54bd577a7265742391cbc005",
                 "def": "an acrobat who performs on a tightrope or slack rope",
                 "example": "The tightrope walker performed on a rope strung between two skyscrapers.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -77396,22 +77800,25 @@
                 "id": "569840deb058ba000300000a",
                 "def": "a complete product that is ready to be deployed immediately, without further customization",
                 "example": "The new software package is a turnkey, so it only took a short time to install.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "569840deb058ba000300000b",
                 "def": "involving a complete product that is ready to be deployed immediately, without further customization",
                 "example": "We don't have the resources to build up a custom system, so we went with a turnkey solution.",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             },
             {
                 "id": "54bd577b726574239140c405",
                 "def": "someone who guards prisoners",
                 "example": "One prisoner escaped by bribing the turnkey.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -77431,22 +77838,25 @@
                 "id": "569840deb058ba000300000a",
                 "def": "a complete product that is ready to be deployed immediately, without further customization",
                 "example": "The new software package is a turnkey, so it only took a short time to install.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "569840deb058ba000300000b",
                 "def": "involving a complete product that is ready to be deployed immediately, without further customization",
                 "example": "We don't have the resources to build up a custom system, so we went with a turnkey solution.",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             },
             {
                 "id": "54bd577b726574239140c405",
                 "def": "someone who guards prisoners",
                 "example": "One prisoner escaped by bribing the turnkey.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -77544,8 +77954,7 @@
                 "id": "54bd577c726574239161ca05",
                 "def": "someone who intrudes on the privacy or property of another without permission",
                 "example": "The trespassers finally left when the police arrived.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -77598,8 +78007,7 @@
                 "id": "54bd577e726574239113cf05",
                 "def": "a person with a strong desire for something",
                 "example": "The students were all thirsters for knowledge.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -77732,8 +78140,7 @@
             {
                 "id": "54bd577f7265742391c8d505",
                 "def": "an official appointed to count the votes (especially in legislative assembly)",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -77745,8 +78152,7 @@
                 "id": "54bd577f7265742391f6d505",
                 "def": "someone who systematically obstructs some action that others want to take",
                 "example": "Should you continue to tear up my homework, I will call you a thwarter in public.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -77766,8 +78172,7 @@
                 "id": "54bd578072657423912cd705",
                 "def": "someone new to a field or activity",
                 "example": "Looks like I'm training the tyros in the basics of dentistry.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -77787,8 +78192,7 @@
                 "id": "54bd578072657423912cd705",
                 "def": "someone new to a field or activity",
                 "example": "Looks like I'm training the tyros in the basics of dentistry.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -77827,8 +78231,7 @@
                 "id": "54bd57817265742391dadc05",
                 "def": "a worker or device which lays and repairs railroad tracks",
                 "example": "Should the shift start at nine o'clock as opposed to eight we might get more tracklayers applying for the job.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -77858,8 +78261,7 @@
                 "id": "54bd57817265742391f5dc05",
                 "def": "someone who attends a theater",
                 "example": "How many theatergoers were in attendance for the 3 o'clock showing of Disney's latest movie?",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -77889,8 +78291,7 @@
                 "id": "54bd57817265742391f5dc05",
                 "def": "someone who attends a theater",
                 "example": "How many theatergoers were in attendance for the 3 o'clock showing of Disney's latest movie?",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -77951,8 +78352,7 @@
                 "id": "54bd57827265742391e7de05",
                 "def": "someone who plays practical jokes on others",
                 "example": "They were all trickers in their younger years, and despite their heinous pranks on me and my best friends, I have to say that they turned out all right.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -77972,8 +78372,7 @@
                 "id": "54bd5783726574239153e105",
                 "def": "someone who pulls, tugs, or drags in an effort to move something",
                 "example": "If we want to move this crate anywhere, the tuggers need to pull this rope as hard as they can when I count to three.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -78015,8 +78414,7 @@
                 "id": "54bd57837265742391b6e105",
                 "def": "one who quakes and trembles, often as a result of fear",
                 "example": "The hostages were some of the worst tremblers I've ever seen in my whole FBI career.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -78078,8 +78476,7 @@
                 "id": "54bd5785726574239180e805",
                 "def": "someone who promotes or exchanges goods or services for money",
                 "example": "The trafficker has a brisk business going in the square.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -78112,8 +78509,7 @@
             {
                 "id": "54bd57857265742391cde905",
                 "def": "a merchant who owns or manages a shop",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -78125,8 +78521,7 @@
                 "id": "54bd57857265742391e7e905",
                 "def": "a scolding, nagging, bad-tempered woman",
                 "example": "No one likes a termagant.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -78146,8 +78541,7 @@
                 "id": "54bd5786726574239121ee05",
                 "def": "someone who walks unsteadily as if about to fall",
                 "example": "My child was quite the totterer before they learned to walk.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -78167,8 +78561,7 @@
                 "id": "54bd5786726574239133ee05",
                 "def": "someone who walks with a heavy noisy gait or who stamps on the ground",
                 "example": "My upstairs neighbors are tramplers, and they break my concentration.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd5786726574239134ee05",
@@ -78208,8 +78601,7 @@
                 "id": "54bd5786726574239181ec05",
                 "def": "one who practices magic or sorcery",
                 "example": "When I was younger I wanted to be a \nthaumaturge, but then I realized that magic is not real.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -78253,8 +78645,7 @@
                 "id": "54bd57867265742391dcec05",
                 "def": "someone who expresses verbally in language",
                 "example": "There were so many big talkers at the meeting that I had a hard time getting a word in.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -78274,8 +78665,7 @@
                 "id": "54bd5787726574239115f205",
                 "def": "a scientist  who specializes in the classification of organisms into groups on the basis of their structure, origin, and behavior",
                 "example": "The taxonomist was proud of the classifications they invented.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -78295,15 +78685,13 @@
                 "id": "54bd5787726574239117f105",
                 "def": "a person who tries to please someone in order to gain a personal advantage",
                 "example": "Political parties are known to harbor toadies.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd5787726574239119f105",
                 "def": "to try to gain favor by cringing or flattering",
                 "example": "The upstart politician is toadying around town, trying to make friends with powerful people.",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             }
         ],
         "editors": [
@@ -78357,7 +78745,13 @@
                 "id": "54bd5787726574239121f205",
                 "def": "the teacher's favorite student",
                 "example": "That student is such a teacher's pet that everyone notices it.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -78388,8 +78782,7 @@
                 "id": "54bd5787726574239127f205",
                 "def": "a fellow member of a team or group",
                 "example": "It was my first start against my former teammates.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -78430,8 +78823,7 @@
                 "id": "54bd578772657423912ff205",
                 "def": "someone who drives a truck as an occupation",
                 "example": "The truckers frequent this gas station.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -78556,8 +78948,7 @@
                 "id": "56984132b058ba0003000028",
                 "def": "a person who hangs out drinking and eating outside in a parking lot before, after, or during a sporting event",
                 "example": "Professional American football games typically draw thousands of tailgaters.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd5787726574239174f105",
@@ -78795,8 +79186,7 @@
             {
                 "id": "54bd57877265742391acf105",
                 "def": "a tavern keeper who taps kegs or casks",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -78808,8 +79198,7 @@
                 "id": "54bd57877265742391b5f105",
                 "def": "a tavern keeper or person who taps kegs or casks",
                 "example": "The mayor was the honorary tapster at the beer fest last weekend.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -78888,8 +79277,7 @@
                 "id": "54bd57877265742391c4f105",
                 "def": "someone who samples food or drink for its quality",
                 "example": "The royals had tasters to make sure their food was up to standard and not poisoned.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -78980,8 +79368,7 @@
                 "id": "54bd57877265742391d3f105",
                 "def": "someone who gossips indiscreetly",
                 "example": "There were many talebearers at the cocktail party.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -79067,8 +79454,7 @@
                 "id": "54bd57877265742391e5f105",
                 "def": "someone who collects taxes for the government",
                 "example": "The business hired specialized accountants to make sure they paid the taxman as little as legally possible.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -79110,8 +79496,7 @@
                 "id": "54bd57877265742391f7f105",
                 "def": "a craftsman who stuffs and mounts the skins of animals for display",
                 "example": "You should take that huge trout to a taxidermist so you can hang it on your wall.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -79170,8 +79555,7 @@
                 "id": "54bd5788726574239103f405",
                 "def": "a girl who behaves in a boyish manner",
                 "example": "Some people said I was a tomboy growing up; I just never liked wearing a dress.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -79433,8 +79817,7 @@
                 "id": "54bd578872657423911ef505",
                 "def": "someone who popularizes a new fashion",
                 "example": "There were many taste-makers at the art opening.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -79720,8 +80103,7 @@
                 "id": "54bd578872657423913af305",
                 "def": "someone who theorizes, especially in science or art",
                 "example": "Universities are full of theoreticians.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -79860,8 +80242,7 @@
                 "id": "54bd5788726574239143f405",
                 "def": "someone who travels for pleasure",
                 "example": "The tourist showed us the pictures from their vacation.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -80008,8 +80389,7 @@
             {
                 "id": "54bd578872657423914cf505",
                 "def": "a musician who plays the trombone",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -80168,8 +80548,7 @@
                 "id": "54bd578872657423915ef205",
                 "def": "a total abstainer from alchohol",
                 "example": "Our guests are teetotallers so we do not have to buy wine for dinner tonight.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -80189,8 +80568,7 @@
                 "id": "54bd578872657423915ef205",
                 "def": "a total abstainer from alchohol",
                 "example": "Our guests are teetotallers so we do not have to buy wine for dinner tonight.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -80220,8 +80598,7 @@
             {
                 "id": "54bd5788726574239161f205",
                 "def": "a total abstainer",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -80234,7 +80611,12 @@
                 "def": "an official who makes public announcements",
                 "example": "Some historical theme parks have town criers read the news.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -80353,8 +80735,7 @@
             {
                 "id": "54bd5788726574239168f305",
                 "def": "(baseball) the person who plays third base",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -80640,8 +81021,7 @@
             {
                 "id": "54bd578872657423917ef305",
                 "def": "someone who is paid to admit only those who have purchased tickets",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -80673,8 +81053,7 @@
                 "id": "54bd5788726574239181f405",
                 "def": "someone who purchases and maintains an inventory of goods to be sold",
                 "example": "I am a trader of luxury goods.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -80693,8 +81072,7 @@
             {
                 "id": "54bd5788726574239182f205",
                 "def": "someone who reports news stories via television",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -80720,8 +81098,7 @@
                 "id": "54bd5788726574239185f205",
                 "def": "someone who reports news stories via television",
                 "example": "There is very little reason for television newscasters to stand on the boardwalk in the middle of a hurricane.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -80908,8 +81285,7 @@
                 "id": "56a51f965618fc0003000009",
                 "def": "a person who tints car window glass",
                 "example": "The tinter made sure that my windows would be as dark as possible and still pass inspection.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57887265742391a2f305",
@@ -80991,15 +81367,13 @@
                 "id": "56aa5f0aac786b0003000073",
                 "def": "to work in an office on a temporary basis",
                 "example": "I temped at a travel agency last week.",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             },
             {
                 "id": "54bd57887265742391aaf205",
                 "def": "a worker, especially in an office, hired on a temporary basis",
                 "example": "I was a temp for six months, but they eventually hired me because I became invaluable.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -81221,8 +81595,7 @@
                 "id": "54bd57887265742391baf405",
                 "def": "someone who betrays his country by committing treason",
                 "example": "Most countries have harsh penalties for treasonists.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -81479,7 +81852,17 @@
                 "id": "54bd57887265742391d3f405",
                 "def": "in law, someone who conveys a title or property to another",
                 "example": "We took the contract to a transferor.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -81524,8 +81907,7 @@
                 "id": "56b3cdfb2035d30003000042",
                 "def": " an agricultural machine that transplantes seedlings into the ground",
                 "example": "I bought a new transplanter that I believe will speed up our work by nearly 50%.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57887265742391d9f405",
@@ -81565,8 +81947,7 @@
                 "id": "54bd57887265742391daf305",
                 "def": "a young child",
                 "example": "Our kids are toddlers now, so we are giving away our baby stuff.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -81626,29 +82007,31 @@
             {
                 "id": "56b3cdfd2035d30003000045",
                 "def": "a small amount of anything",
-                "example": "",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57887265742391ddf305",
                 "def": "a young child",
                 "example": "Let's grab the tots and go to the park.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57887265742391def305",
                 "def": "a small amount of a drink, derived from the rum ration given to sailors by the British Navy",
                 "example": "The captain handed out a tot of rum to every sailor.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    }
+                ]
             },
             {
                 "id": "54bd57887265742391e1f305",
                 "def": "to determine the sum of",
                 "example": "We totted the apples.",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             }
         ],
         "editors": [
@@ -81903,8 +82286,7 @@
                 "id": "54bd57887265742391f6f405",
                 "def": "a salesman who travels to call on customers",
                 "example": "A traveling salesman tried to sell me a set of knives.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -82011,15 +82393,13 @@
                 "id": "54bd5788726574239100f405",
                 "def": "a person who rings church bells, as for summoning the congregation",
                 "example": "The toller looks very happy to see people coming to church.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57887265742391fff305",
                 "def": "someone employed to collect tolls",
                 "example": "The toller smiled when making change.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -82172,8 +82552,7 @@
                 "id": "54bd578972657423919af505",
                 "def": "someone who is regarded as contemptible",
                 "example": "That twerp has gotten on my last nerve.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -82193,8 +82572,7 @@
                 "id": "54bd578972657423919af505",
                 "def": "someone who is regarded as contemptible",
                 "example": "That twerp has gotten on my last nerve.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -82239,8 +82617,7 @@
                 "id": "54bd57897265742391abf505",
                 "def": "a person who plays the kettledrums",
                 "example": "The timpanist loves their job in the symphony.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -82260,8 +82637,7 @@
                 "id": "54bd57897265742391abf505",
                 "def": "a person who plays the kettledrums",
                 "example": "The timpanist loves their job in the symphony.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -82435,8 +82811,7 @@
                 "id": "54bd57a672657423911c5e06",
                 "def": "a violent commotion or disturbance",
                 "example": "The fire in the mall caused a tempest as shoppers evacuated.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -82471,8 +82846,7 @@
             {
                 "id": "54bd57a67265742391225e06",
                 "def": "the normal brainwave in the encephalogram of a person who is awake but relaxed and drowsy",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -82485,7 +82859,16 @@
                 "def": "the normal brainwave in the encephalogram of a person who is awake but relaxed and drowsy",
                 "example": "The scientists tested the effects of a new drug on theta waves.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -82541,8 +82924,7 @@
             {
                 "id": "54bd57a67265742391345e06",
                 "def": "a twisting force",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57a67265742391355e06",
@@ -82563,7 +82945,16 @@
                 "def": "a twisting force",
                 "example": "The amount of torque is related to the length of the arm of the lever.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -82621,8 +83012,7 @@
                 "id": "54bd57a67265742391455e06",
                 "def": "steady winds blowing from east to west above and below the equator",
                 "example": "They rode the trade winds going west.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -82666,8 +83056,7 @@
             {
                 "id": "54bd57a67265742391555e06",
                 "def": "unstable flow of a liquid or gas",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57a67265742391565e06",
@@ -82700,8 +83089,7 @@
                 "id": "54bd57a672657423915b5e06",
                 "def": "an unstable flow of a liquid or gas",
                 "example": "We need to fix the turbulency in the line.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -82741,7 +83129,21 @@
                 "id": "54bd57a67265742391dc5d06",
                 "def": "electricity produced by heat, as in a thermocouple",
                 "example": "The house was powered by thermoelectricity.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -82926,14 +83328,12 @@
             {
                 "id": "54bd57a97265742391196906",
                 "def": "New Zealand silver pine of conical habit with long slender flexuous branches",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57a972657423911a6906",
                 "def": "New Zealand shrub",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -82945,8 +83345,7 @@
                 "id": "54bd57a972657423911d6906",
                 "def": "a New Zealand silver pine of conical habit with long slender flexuous branches",
                 "example": "I've never seen a tar-wood in person.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -84194,8 +84593,7 @@
             {
                 "id": "54bd57b97265742391e79f06",
                 "def": "any of various grasses that are tall and that flourish with abundant moisture",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -84532,8 +84930,7 @@
             {
                 "id": "54bd57c17265742391b7be06",
                 "def": "any of several gum trees of swampy areas of North America",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57c17265742391b8be06",
@@ -84758,8 +85155,7 @@
             {
                 "id": "54bd57c77265742391d8d206",
                 "def": "erect shrub having racemes of tawny yellow flowers",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -84813,8 +85209,7 @@
             {
                 "id": "54bd57c9726574239172d906",
                 "def": "medium-sized tropical American tree yielding tolu balsam and a fragrant hard wood used for high-grade furniture and cabinetwork",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -84839,8 +85234,7 @@
             {
                 "id": "54bd57ca726574239158de06",
                 "def": "tall palm of southern India and Sri Lanka with gigantic leaves used as umbrellas and fans or cut into strips for writing paper",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -84923,8 +85317,7 @@
             {
                 "id": "54bd57cc726574239188e406",
                 "def": "ornamental evergreen treelike shrub of the Pacific coast of the United States having large white flowers and red berrylike fruits",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -84935,8 +85328,7 @@
             {
                 "id": "54bd57cd72657423910deb06",
                 "def": "any of several herbs of the genus Dipsacus native to the Old World having flower heads surrounded by spiny bracts",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -85131,8 +85523,7 @@
             {
                 "id": "54bd57d67265742391180707",
                 "def": "South American arborescent shrub having pale pink blossoms followed by egg-shaped reddish-brown edible fruit somewhat resembling a tomato in flavor",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -85148,8 +85539,7 @@
             {
                 "id": "54bd57d67265742391ca0807",
                 "def": "hard strong durable yellowish-brown wood of teak trees",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -85160,8 +85550,7 @@
             {
                 "id": "54bd57d77265742391640a07",
                 "def": "Chinese tree bearing seeds that yield tung oil",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -85362,8 +85751,7 @@
             {
                 "id": "54bd57dc7265742391701d07",
                 "def": "a dense flower cluster (as of the lilac or horse chestnut) in which the main axis is racemose and the branches are cymose",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -85386,7 +85774,17 @@
                 "id": "54bd57dc7265742391ed1b07",
                 "def": "long tubular cell peculiar to xylem",
                 "example": "The tracheids of the tree's cell were visible in the microscope.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -85487,8 +85885,7 @@
                 "id": "54bd57dd7265742391472007",
                 "def": "the main stem of a tree",
                 "example": "I sat on an old tree trunk and ate my lunch.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -85618,8 +86015,7 @@
                 "id": "54bd57e07265742391802b07",
                 "def": "government income due to taxation",
                 "example": "Our tax income is up this quarter.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -85639,8 +86035,7 @@
                 "id": "54bd57e07265742391832b07",
                 "def": "government income due to taxation",
                 "example": "We have seen a decrease in tax revenue due to the economic slump.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -85986,8 +86381,7 @@
                 "id": "54bd57e17265742391b92e07",
                 "def": "the fare charged for riding in a taxicab",
                 "example": "The taxi fare from the airport to the city is more than the fare for a ride within the city.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -86195,8 +86589,7 @@
             {
                 "id": "54bd57e17265742391f62d07",
                 "def": "a tax deduction that is granted in order to encourage a particular type of commercial activity",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -86208,8 +86601,7 @@
                 "id": "54bd57e17265742391f92d07",
                 "def": "a tax deduction that is granted in order to encourage a particular type of commercial activity",
                 "example": "The film was shot in our town because there was a special tax break.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -86279,8 +86671,7 @@
                 "id": "54bd57e27265742391612f07",
                 "def": "a government tax on imports or exports",
                 "example": "The treaty was mostly about minor changes to the tariffs.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57e27265742391632f07",
@@ -86446,8 +86837,7 @@
                 "id": "54bd57e37265742391133407",
                 "def": "a letter of credit issued by a bank or express company that is payable on presentation to any correspondent of the issuer",
                 "example": "I was careful not to lose my traveller's check for my water bill.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -86477,8 +86867,7 @@
             {
                 "id": "54bd57e372657423912f3507",
                 "def": "a former United Kingdom silver coin",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -86490,8 +86879,7 @@
                 "id": "54bd57e37265742391323507",
                 "def": "a former United Kingdom silver coin",
                 "example": "I found a tuppence in our junk drawer.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -86533,8 +86921,7 @@
                 "id": "54bd57e372657423915c3307",
                 "def": "a treasure of unknown ownership found hidden , usually in the earth",
                 "example": "The children went hunting in the woods for the lost trove they had read about in the local paper.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -86554,8 +86941,7 @@
                 "id": "54bd57e37265742391653407",
                 "def": "a check issued by the officer of a bank on the banks own account, not that of a private person",
                 "example": "My apartment complex required a treasurer's check for the first month's rent.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -86575,8 +86961,7 @@
                 "id": "54bd57e37265742391653407",
                 "def": "a check issued by the officer of a bank on the banks own account, not that of a private person",
                 "example": "My apartment complex required a treasurer's check for the first month's rent.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -86595,8 +86980,7 @@
             {
                 "id": "54bd57e372657423919c3507",
                 "def": "a United States bill worth 10 dollars",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57e372657423919d3507",
@@ -87102,13 +87486,33 @@
                 "id": "54bd57e77265742391f34007",
                 "def": "the process of transfering an amino group from one compound to another",
                 "example": "We added the amino groups by transamination from other compounds.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd57e77265742391f44007",
                 "def": "the process of transposing an amino group within a chemical compound",
                 "example": "We observed the transamination that was started by the reagent.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -87393,8 +87797,7 @@
                 "id": "54bd57eb7265742391075007",
                 "def": "three of four equal parts",
                 "example": "three-fourths of a pound",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -87567,7 +87970,8 @@
                 "name": "mathematical",
                 "is_dialect": false,
                 "parent": {
-                    "name": "technical"
+                    "name": "technical",
+                    "is_dialect": false
                 }
             }
         ],
@@ -87731,8 +88135,7 @@
                 "id": "54bd57ec7265742391125307",
                 "def": "a tiny or scarcely detectable amount",
                 "example": "We found a tittle of gold when we were panning, but it wasn't worth very much.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -87752,8 +88155,7 @@
                 "id": "54bd57ec7265742391225207",
                 "def": "a slight amount or degree of difference",
                 "example": "The suit was a tad too expensive for me.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -87814,8 +88216,7 @@
                 "id": "54bd57ec7265742391645307",
                 "def": "a large number or amount",
                 "example": "We got tons of feedback after our presentation.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -87933,8 +88334,7 @@
                 "id": "54bd57ec7265742391d05207",
                 "def": "as much as a tablespoon will hold",
                 "example": "The nurse gave me a tablespoonful of medicine.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -88005,8 +88405,7 @@
                 "id": "54bd57ec7265742391e25207",
                 "def": "as much as a thimble will hold",
                 "example": "I placed a thimbleful of water for the mouse to drink.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -88025,8 +88424,7 @@
                 "id": "54bd57ec7265742391e55207",
                 "def": "the amount that a tub will hold",
                 "example": "The players poured a tubful of water onto the coach.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -88065,20 +88463,38 @@
                 "def": "a ratio of the opposite to the adjacent side of a right-angled triangle",
                 "example": "I used the tangent of the sides to calculate the length of the hypotenuse.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "mathematical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd57ed7265742391175407",
                 "def": "a straight line or plane that touches a curve or curved surface at a point but does not intersect it at that point",
                 "example": "The tangent touched the arc at its apex.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "mathematical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "56de4a72fb0b830003000039",
                 "def": "a topic that is related, but not the same as, an original topic",
                 "example": "I was told to talk about boats, but I went on a tangent about trade winds.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -88124,8 +88540,7 @@
                 "id": "54bd57ed72657423918d5607",
                 "def": "the ratio of the number of workers that had to be replaced in a given time period to the average number of workers",
                 "example": "The turnover rate at the company was high for the industry.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -88233,7 +88648,16 @@
                 "def": "a four-sided polygon",
                 "example": "Squares and rectangles are both tetragons.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "mathematical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -88390,7 +88814,13 @@
                 "id": "54bd57ee7265742391f35707",
                 "def": "the use of a central computer by many users simultaneously",
                 "example": "The multiplayer game was made possible through time sharing.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -88480,8 +88910,7 @@
                 "id": "54bd57ef7265742391365e07",
                 "def": "a state of commotion and noise and confusion",
                 "example": "I couldn't hear anything over the tumultousness.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -88558,7 +88987,17 @@
                 "id": "54bd57ef7265742391805b07",
                 "def": "the four-dimensional analogue of a cube",
                 "example": "The tesseract unfolds in three dimensions to eight cubes.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "mathematical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -88624,7 +89063,17 @@
                 "id": "54bd57ef72657423919c5b07",
                 "def": "the angle a rocket makes with the vertical as it curves along its trajectory",
                 "example": "It was hard to see the tilt angle of the rocket until it was several miles up.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -88661,8 +89110,7 @@
             {
                 "id": "54bd57ef7265742391a55c07",
                 "def": "a state of being or existence above and beyond the limits of material experience",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -88674,15 +89122,13 @@
                 "id": "54bd57ef7265742391a85c07",
                 "def": "the state of excelling, surpassing, or going beyond usual limits",
                 "example": "My transcendency was noticed by my superiors, so I received a bonus and a promotion.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57ef7265742391a95c07",
                 "def": "a state of being or existence above and beyond the limits of material experience",
                 "example": "After meditating for a number of hours, I felt like I had reached transcendency.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -88701,8 +89147,7 @@
                 "id": "54bd57ef7265742391c55d07",
                 "def": "a state of peace agreed to between opponents so they can discuss peace terms",
                 "example": "The countries formed a truce while negotiations occurred.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -88750,8 +89195,7 @@
                 "id": "54bd57f07265742391056007",
                 "def": "a temporary state resulting from excessive consumption of alcohol",
                 "example": "After a couple of glasses of wine, I hoped no-one noticed my tipsiness.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -88770,8 +89214,7 @@
                 "id": "54bd57f07265742391215f07",
                 "def": "the state of being under the control of another person",
                 "example": "I had hundreds of people in thralldom – my cult was extremely successful.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -88790,8 +89233,7 @@
                 "id": "54bd57f07265742391215f07",
                 "def": "the state of being under the control of another person",
                 "example": "I had hundreds of people in thralldom – my cult was extremely successful.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -88810,7 +89252,17 @@
                 "id": "54bd57f07265742391286107",
                 "def": "a state of general anesthesia in which the person retains a slight degree of consciousness",
                 "example": "In order to perform a minor surgery, the doctor put the patient into twilight sleep.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -88923,7 +89375,17 @@
                 "id": "54bd57f17265742391766307",
                 "def": "distension of the abdomen that is caused by the accumulation of gas in the intestines or the peritoneal cavity",
                 "example": "The patient was in pain with noticeable tympanites, but they were felt much better after the gas was released.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -88943,7 +89405,16 @@
                 "def": "a loss of the ability to recognize objects by handling them",
                 "example": "Tactile agnosia for seeing people is much easier to deal with than for blind people.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -89021,7 +89492,20 @@
                 "def": "loss of all ability to communicate",
                 "example": "I experienced total aphasia after a sharp blow to the head.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -89124,7 +89608,17 @@
                 "id": "54bd57f27265742391e46507",
                 "def": "epilepsy in which the body is rigid during the seizure",
                 "example": "Because I had tonic epilepsy, I had a helper dog that warned me when I was about to have a seizure.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -89225,7 +89719,16 @@
                 "def": "infection transmitted by inhalation or ingestion of tubercle bacilli and manifested in fever and small lesions, usually in the lungs but in various other parts of the body in acute stages",
                 "example": "Tuberculosis is much more preventable in the modern era.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -89296,7 +89799,16 @@
                 "def": "infections of the skin or nails caused by fungi and appearing as itching circular patches",
                 "example": "I went to the dermatologist to have my tinea treated.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -89635,8 +90147,7 @@
             {
                 "id": "54bd57f572657423914a7107",
                 "def": "a blood disease characterized by an abnormally small number of platelets in the blood",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -89649,7 +90160,16 @@
                 "def": "a blood disease characterized by an abnormally small number of platelets in the blood",
                 "example": "My parents both suffered from thrombopenia.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -89735,16 +90255,32 @@
             {
                 "id": "54bd57f572657423916d7007",
                 "def": "blood poisoning caused by bacterial toxic substances in the blood",
-                "example": "",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd57f572657423916e7007",
                 "def": "an abnormal condition of pregnancy characterized by hypertension and edema and protein in the urine",
-                "example": "",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -89768,16 +90304,32 @@
             {
                 "id": "54bd57f572657423916d7007",
                 "def": "blood poisoning caused by bacterial toxic substances in the blood",
-                "example": "",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd57f572657423916e7007",
                 "def": "an abnormal condition of pregnancy characterized by hypertension and edema and protein in the urine",
-                "example": "",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -89869,7 +90421,16 @@
                 "def": "alveolitis caused by an allergic reaction to fungal spores in the dust that is inhaled from moldy hay",
                 "example": "The farmhand contracted thresher's lung from clearing out the dilapidated barn.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -89942,7 +90503,16 @@
                 "def": "an abnormal new mass of tissue that serves no purpose",
                 "example": "The doctor found a malignant tumor.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -90001,7 +90571,17 @@
                 "id": "54bd57f77265742391267907",
                 "def": "a plant disease causing discoloration of the leaves of tobacco plants",
                 "example": "It was easy to see which farmer's plants had tobacco mosaic.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -90127,7 +90707,17 @@
                 "id": "54bd57f77265742391e47907",
                 "def": "burn characterized by destruction of both epidermis and dermis",
                 "example": "I got a third-degree burn from my clothing catching on fire.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -90269,7 +90859,17 @@
                 "id": "54bd57f87265742391887d07",
                 "def": "pain caused by heat",
                 "example": "The thermalgesia increased the closer the patient got to the source of the heat.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -90458,8 +91058,10 @@
         "labels": [
             {
                 "name": "medical",
+                "is_dialect": false,
                 "parent": {
-                    "name": "technical"
+                    "name": "technical",
+                    "is_dialect": false
                 }
             }
         ],
@@ -90467,7 +91069,6 @@
             {
                 "id": "54bd57f97265742391ca7f07",
                 "def": "inflammation of the eyelid",
-                "example": "",
                 "speech_part": "noun"
             }
         ],
@@ -90489,8 +91090,7 @@
             {
                 "id": "54bd57f97265742391cd7f07",
                 "def": "inflammation of a tendon",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -90500,8 +91100,10 @@
         "labels": [
             {
                 "name": "medical",
+                "is_dialect": false,
                 "parent": {
-                    "name": "technical"
+                    "name": "technical",
+                    "is_dialect": false
                 }
             }
         ],
@@ -90509,9 +91111,7 @@
             {
                 "id": "54bd57f97265742391d07f07",
                 "def": "inflammation of a tendon",
-                "example": "",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -90531,8 +91131,10 @@
         "labels": [
             {
                 "name": "medical",
+                "is_dialect": false,
                 "parent": {
-                    "name": "technical"
+                    "name": "technical",
+                    "is_dialect": false
                 }
             }
         ],
@@ -90540,9 +91142,7 @@
             {
                 "id": "54bd57f97265742391d37f07",
                 "def": "inflammation of a tendon",
-                "example": "",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -90592,8 +91192,10 @@
         "labels": [
             {
                 "name": "medical",
+                "is_dialect": false,
                 "parent": {
-                    "name": "technical"
+                    "name": "technical",
+                    "is_dialect": false
                 }
             }
         ],
@@ -90601,9 +91203,7 @@
             {
                 "id": "54bd57f97265742391e27f07",
                 "def": "inflammation of a tendon and its enveloping sheath",
-                "example": "",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -90638,8 +91238,10 @@
         "labels": [
             {
                 "name": "medical",
+                "is_dialect": false,
                 "parent": {
-                    "name": "technical"
+                    "name": "technical",
+                    "is_dialect": false
                 }
             }
         ],
@@ -90647,7 +91249,6 @@
             {
                 "id": "54bd57f97265742391e87f07",
                 "def": "inflammation of the thyroid gland",
-                "example": "",
                 "speech_part": "noun"
             }
         ],
@@ -90668,8 +91269,10 @@
         "labels": [
             {
                 "name": "medical",
+                "is_dialect": false,
                 "parent": {
-                    "name": "technical"
+                    "name": "technical",
+                    "is_dialect": false
                 }
             }
         ],
@@ -90677,7 +91280,6 @@
             {
                 "id": "54bd57f97265742391eb7f07",
                 "def": "inflammation of the tonsils, especially the palatine tonsils",
-                "example": "",
                 "speech_part": "noun"
             }
         ],
@@ -90697,8 +91299,10 @@
         "labels": [
             {
                 "name": "medical",
+                "is_dialect": false,
                 "parent": {
-                    "name": "technical"
+                    "name": "technical",
+                    "is_dialect": false
                 }
             }
         ],
@@ -90706,7 +91310,6 @@
             {
                 "id": "54bd57f97265742391ee7f07",
                 "def": "inflammation of the trachea",
-                "example": "",
                 "speech_part": "noun"
             }
         ],
@@ -90811,8 +91414,7 @@
                 "id": "54bd57fa72657423915c8407",
                 "def": "a display of bad temper",
                 "example": "An overtired toddler might throw a tantrum for no apparent reason at all.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -90834,7 +91436,16 @@
                 "def": "diarrhea",
                 "example": "I've had the shits ever since I ate that spicy food.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -90851,7 +91462,8 @@
         "wordset_id": "54bd57fa72657423915e8107",
         "labels": [
             {
-                "name": "informal"
+                "name": "informal",
+                "is_dialect": false
             }
         ],
         "meanings": [
@@ -90860,7 +91472,16 @@
                 "def": "diarrhea",
                 "example": "We got the trots on vacation.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -91681,8 +92302,7 @@
             {
                 "id": "54bd58007265742391b79507",
                 "def": "a hard grey lustrous metallic element that is highly resistant to corrosion",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -91693,8 +92313,7 @@
             {
                 "id": "54bd58007265742391c09507",
                 "def": "a crystalline metallic element not found in nature",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -91705,8 +92324,7 @@
             {
                 "id": "54bd58007265742391c99507",
                 "def": "a brittle silver-white metalloid element that is related to selenium and sulfur",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -91739,8 +92357,7 @@
             {
                 "id": "54bd58007265742391d29507",
                 "def": "a metallic element of the rare earth group",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -91751,8 +92368,7 @@
             {
                 "id": "54bd58007265742391d89507",
                 "def": "a soft grey malleable metallic element that resembles tin but discolors on exposure to air",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -91763,8 +92379,7 @@
             {
                 "id": "54bd58007265742391e19507",
                 "def": "a soft silvery-white tetravalent radioactive metallic element",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -91789,8 +92404,7 @@
             {
                 "id": "54bd58007265742391f19507",
                 "def": "a soft silvery metallic element of the rare earth group",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -91801,8 +92415,7 @@
             {
                 "id": "54bd58007265742391009607",
                 "def": "a light strong grey lustrous corrosion-resistant metallic element used in strong lightweight alloys (as for airplane parts)",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -91853,6 +92466,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "tumour necrosis factor"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -95097,6 +95724,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "calm"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -95106,6 +95739,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "quiet"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -95137,6 +95776,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "calm"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -95146,6 +95791,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "quiet"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -95177,6 +95828,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "calm"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -95186,6 +95843,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "quiet"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -95217,6 +95880,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "calm"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -95226,6 +95895,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "quiet"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -97447,7 +98122,21 @@
             {
                 "id": "54bd581c72657423914af807",
                 "def": "to convert the genetic information in a strand of DNA into a strand of RNA, especially messenger RNA",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd581c72657423914bf807",
@@ -97605,8 +98294,7 @@
             {
                 "id": "54bd581c7265742391e8f707",
                 "def": "stimulate sexually",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             },
             {
                 "id": "54bd581c7265742391e9f707",
@@ -97829,7 +98517,25 @@
                 "id": "54bd581d7265742391adfd07",
                 "def": "to consider carefully and rationally",
                 "example": "I had to think out the whole problem before coming up with a solution.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -98970,7 +99676,13 @@
                 "id": "54bd58217265742391be0a08",
                 "def": "to make trivial or insignificant",
                 "example": "Don't trivialize the seriousness of the issue!",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -98997,7 +99709,13 @@
                 "id": "54bd58217265742391be0a08",
                 "def": "to make trivial or insignificant",
                 "example": "Don't trivialize the seriousness of the issue!",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -99329,7 +100047,13 @@
                 "id": "54bd58237265742391261108",
                 "def": "discuss frankly, often in a business context",
                 "example": "We sent out the subordinates so we could talk turkey about the deal.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -99802,6 +100526,24 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "note"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -99811,6 +100553,24 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "dismantle"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -99820,6 +100580,24 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "disgrace"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -99829,6 +100607,24 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "lower"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -99915,14 +100711,44 @@
                 "def": "to eat up, start eating everything",
                 "example": "I can't wait to tuck into that pie!",
                 "speech_part": "verb",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "5672fd89f8345700030000c8",
                 "def": "to put to bed",
                 "example": "I'm going to tuck you in after I turn off the lights downstairs.",
                 "speech_part": "verb",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -100649,6 +101475,24 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "shred"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -100656,7 +101500,24 @@
                 "def": "to shed tears",
                 "example": "I teared up at the end of the sad movie.",
                 "speech_part": "verb",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -100722,6 +101583,20 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "dismantle"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -101099,7 +101974,13 @@
                 "id": "54bd582b7265742391212e08",
                 "def": "to have a small turning radius",
                 "example": "My little car can turn on a dime.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -101420,6 +102301,24 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "overturn"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -101429,6 +102328,24 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "overturn"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -102157,7 +103074,21 @@
                 "id": "54bd582e7265742391883508",
                 "def": "to bring out and show for inspection and admiration",
                 "example": "I didn't come here to be trotted out in front of all your friends, but honestly, I don't mind.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -103015,7 +103946,21 @@
                 "id": "55b7bc953763344db72f0100",
                 "def": "to dance in a way that emphasizes the shaking of one's butt",
                 "example": "Many people were twerking at the party last night.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -103034,15 +103979,13 @@
                 "id": "5612d313c5a9ff0003000024",
                 "def": "relating to archery",
                 "example": "The toxophilite games required numerous safety measures.",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             },
             {
                 "id": "5612d313c5a9ff0003000025",
                 "def": "someone who is a lover of, or expert in, archery",
                 "example": "I am quite the toxophilite – I have over 100 bows.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -103063,8 +104006,7 @@
                 "id": "56322e45fad02f0097000bed",
                 "def": "a person from Turkey or of Turkish descent",
                 "example": "The Turk was a strong advocate of the separation of church and state.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -103084,8 +104026,7 @@
                 "id": "56537cf306bba00003000002",
                 "def": "the feeling of being so happy, or laughing so much that you cry",
                 "example": "Seeing that hilarious video made me so 😂.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -103098,7 +104039,16 @@
                 "def": "buttocks",
                 "example": "Don't walk out on the ice or you'll fall on your tuchus.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -103119,7 +104069,16 @@
                 "def": "buttocks",
                 "example": "Don't walk out on the ice or you'll fall on your tuchus.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -103140,7 +104099,16 @@
                 "def": "buttocks",
                 "example": "Don't walk out on the ice or you'll fall on your tuchus.",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -103160,8 +104128,7 @@
                 "id": "56b55f3f16659d0003000016",
                 "def": "an outburst of rage or frustration, mockingly named after Donald Trump's proclivity for bombastic statements of anger",
                 "example": "When the board said they were displeased, the CEO apparently threw a Trumpertantrum.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -103180,9 +104147,7 @@
             {
                 "id": "56d07fa5d1254b00030000de",
                 "def": "the fear of moving or of making changes",
-                "example": "",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -103201,8 +104166,10 @@
         "labels": [
             {
                 "name": "slang",
+                "is_dialect": false,
                 "parent": {
-                    "name": "informal"
+                    "name": "informal",
+                    "is_dialect": false
                 }
             }
         ],
@@ -103211,8 +104178,7 @@
                 "id": "56d07fb7d1254b0003000114",
                 "def": "combination of the words travesty, sham, and mockery and often used in a tongue in cheek manner; originally from a Miller beer commercial",
                 "example": "The blatant disregard for the producers advice to \"shake well before serving\" is a traveshamockery.",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ],
         "editors": [

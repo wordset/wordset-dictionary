@@ -199,8 +199,7 @@
                 "id": "54bd55df7265742391c00300",
                 "def": "at the same time as",
                 "example": "Even as they lay dying we argued over their estate.",
-                "speech_part": "adverb",
-                "synonyms": []
+                "speech_part": "adverb"
             }
         ],
         "editors": [
@@ -1419,12 +1418,25 @@
                 "speech_part": "adverb",
                 "synonyms": [
                     "easily"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             },
             {
                 "id": "54bd55e67265742391311c00",
                 "def": "in a relaxed manner",
-                "example": "",
                 "speech_part": "adverb",
                 "synonyms": [
                     "loosely"
@@ -1462,6 +1474,12 @@
                     "promiscuous",
                     "sluttish",
                     "wanton"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -3387,7 +3405,21 @@
                 "id": "54bd55ed7265742391db3900",
                 "def": "to manifest the effects of a gene or genetic trait",
                 "example": "Many of the laboratory animals express the trait.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -4124,16 +4156,28 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "match",
-                    "equalise",
                     "equalize",
+                    "equalise",
                     "equate"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
                 "id": "54bd55fa7265742391705b00",
                 "def": "to be identical or equivalent to",
                 "example": "One dollar equals 1,000 rubles these days.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd55fa7265742391725b00",
@@ -4142,6 +4186,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "touch"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -4282,9 +4332,7 @@
             {
                 "id": "54bd55fb7265742391d65e00",
                 "def": "a philosophical theory attempting to explain and understand what is beautiful and why it might be considered that way",
-                "example": "",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -4310,9 +4358,9 @@
                 "def": "concerning or characterized by an appreciation of beauty or good taste",
                 "speech_part": "adjective",
                 "synonyms": [
+                    "æsthetic",
                     "aesthetic",
-                    "esthetic",
-                    "æsthetic"
+                    "esthetic"
                 ]
             }
         ]
@@ -5204,7 +5252,6 @@
             {
                 "id": "54bd56057265742391ef7a00",
                 "def": "deeply involved especially in something complicated",
-                "example": "",
                 "speech_part": "adjective",
                 "synonyms": [
                     "embroiled"
@@ -5694,6 +5741,12 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "beneficent"
+                ],
+                "labels": [
+                    {
+                        "name": "formal",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -7620,6 +7673,20 @@
                 "synonyms": [
                     "embryologic",
                     "embryonal"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -8981,6 +9048,20 @@
                 "synonyms": [
                     "endothermal",
                     "heat-absorbing"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -12026,10 +12107,23 @@
             {
                 "id": "54bd56317265742391a10601",
                 "def": "being concerned with the social and physical environment, external to one's self",
-                "example": "",
                 "speech_part": "adjective",
                 "synonyms": [
                     "extroverted"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             },
             {
@@ -12039,14 +12133,27 @@
                 "speech_part": "noun",
                 "synonyms": [
                     null
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             },
             {
                 "id": "55ee4e8f66386314bb0e0000",
                 "def": "a person who is extremely outgoing and gregarious, finding much pleasure in other people's company",
                 "example": "The extroverts all tended to volunteer for the public debates.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -12065,10 +12172,23 @@
             {
                 "id": "54bd56317265742391a10601",
                 "def": "being concerned with the social and physical environment, external to one's self",
-                "example": "",
                 "speech_part": "adjective",
                 "synonyms": [
                     "extroverted"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             },
             {
@@ -12078,14 +12198,27 @@
                 "speech_part": "noun",
                 "synonyms": [
                     null
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             },
             {
                 "id": "55ee4e8f66386314bb0e0000",
                 "def": "a person who is extremely outgoing and gregarious, finding much pleasure in other people's company",
                 "example": "The extroverts all tended to volunteer for the public debates.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -14371,7 +14504,21 @@
             {
                 "id": "54bd56447265742391e84701",
                 "def": "having all angles equal",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "mathematical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -15771,8 +15918,7 @@
             {
                 "id": "54bd56527265742391d77501",
                 "def": "(used of substances) capable of being volatilized",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ]
     },
@@ -16505,15 +16651,13 @@
                 "id": "5617f8c920bc9700910000ac",
                 "def": "a person from Estonia or of Estonian descent",
                 "example": "The Estonian was very savvy with technology.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "5617f8c920bc9700910000ad",
                 "def": "the language of Estonia",
                 "example": "Estonian is more closely related to Finnish than most other languages of Europe.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -17384,10 +17528,23 @@
             {
                 "id": "54bd565f72657423913ea001",
                 "def": "a function in which an independent variable appears as an exponent",
-                "example": "",
                 "speech_part": "noun",
                 "synonyms": [
                     "exponential function"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "mathematical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -17580,8 +17737,7 @@
                 "id": "562a70d9088f1200a900021e",
                 "def": "a person from Egypt or of Egyptian descent",
                 "example": "The Egyptian recorded the people marching in the streets.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -21137,8 +21293,8 @@
                     "governance",
                     "brass",
                     "governing body",
-                    "organisation",
-                    "organization"
+                    "organization",
+                    "organisation"
                 ]
             },
             {
@@ -24053,7 +24209,21 @@
                 "id": "54bd568272657423910c2002",
                 "def": "using a piece of donated corneal tissue to repair the eye of someone who has had a cataract removed",
                 "example": "Epikeratophakia gave them a living contact lens.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -25110,6 +25280,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "cardiography"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -33127,7 +33311,13 @@
             {
                 "id": "54bd56d97265742391d56503",
                 "def": "an aircraft control surface that controls the aircraft about its pitch axis",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -33962,6 +34152,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "light pen"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -34227,8 +34423,7 @@
             {
                 "id": "54bd56ef726574239152bb03",
                 "def": "an impression produced by pressure or printing",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -35686,7 +35881,13 @@
                 "id": "54bd57047265742391300804",
                 "def": "a ratio describing the geometric shape of a conic section",
                 "example": "I calculated the eccentricity of the parabola.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -37551,6 +37752,16 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "canine"
+                ],
+                "labels": [
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -38207,8 +38418,7 @@
             {
                 "id": "54bd57127265742391cb3e04",
                 "def": "one of several connecting veins in the scalp and head that drain blood from sinuses in the dura mater to veins outside the skull",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -38230,8 +38440,7 @@
             {
                 "id": "54bd57127265742391e63e04",
                 "def": "small veins in the sclera near the corneal margin",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -38256,8 +38465,7 @@
             {
                 "id": "54bd57127265742391f53e04",
                 "def": "veins that drain the ethmoidal sinuses and empty into the superior ophthalmic vein",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -38268,8 +38476,7 @@
             {
                 "id": "54bd57127265742391fb3e04",
                 "def": "one of the veins that drain the external nose and empty into the angular or facial vein",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -38377,8 +38584,7 @@
             {
                 "id": "54bd57147265742391ba4504",
                 "def": "the innermost of the two layers of the pericardium",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -38964,14 +39170,27 @@
                 "id": "56415d8db527910085000108",
                 "def": "in linguistics, a type of epenthesis, where a consonant is added to the middle of a word",
                 "example": "Pronouncing hamster with a 'P' sound after the 'M' is a common form of excrescence.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57197265742391455704",
                 "def": "in pathology, an abnormal outgrowth or enlargement of some part of the body",
                 "example": "The excrescence of the patient's knee was going to be reduced to a normal size in the operation.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd57197265742391465704",
@@ -39779,11 +39998,11 @@
                 "def": "defend, explain, clear away, or make excuses for by reasoning",
                 "speech_part": "verb",
                 "synonyms": [
-                    "rationalise",
                     "rationalize",
+                    "rationalise",
                     "justify",
-                    "apologise",
-                    "apologize"
+                    "apologize",
+                    "apologise"
                 ]
             },
             {
@@ -42123,8 +42342,7 @@
             {
                 "id": "54bd57297265742391d49104",
                 "def": "extract by the process of distillation",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             },
             {
                 "id": "54bd57297265742391d59104",
@@ -42430,6 +42648,12 @@
                     "on-line database",
                     "computer database",
                     "electronic information service"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -42941,8 +43165,7 @@
             {
                 "id": "54bd573172657423916cb104",
                 "def": "a mistake in printed matter resulting from mechanical failures of some kind",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -43248,8 +43471,7 @@
                 "id": "54bd57337265742391e0b604",
                 "def": "the 26th letter of the Roman alphabet",
                 "example": "The British call 'Z' zed, and the Scots call it ezed, but Americans call it zee.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -44403,8 +44625,7 @@
             {
                 "id": "54bd573d726574239150df04",
                 "def": "the sudden occurrence of a violent discharge of steam and volcanic material",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd573d726574239151df04",
@@ -45240,8 +45461,7 @@
             {
                 "id": "54bd574272657423912bf104",
                 "def": "informal terms for a meal",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -46207,8 +46427,7 @@
             {
                 "id": "54bd57507265742391782505",
                 "def": "the academic department responsible for teaching and research in economics",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -46245,6 +46464,32 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "estate"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "UK",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    }
                 ]
             }
         ],
@@ -47389,7 +47634,21 @@
                 "id": "54bd57687265742391a37d05",
                 "def": "the outermost atmospheric layer",
                 "example": "The probe is now flying through the exosphere of the planet.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -48833,6 +49092,20 @@
                 "synonyms": [
                     "elevator boy",
                     "liftman"
+                ],
+                "labels": [
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "US",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "American",
+                            "is_dialect": true
+                        }
+                    }
                 ]
             }
         ],
@@ -50698,8 +50971,7 @@
             {
                 "id": "54bd5789726574239100f705",
                 "def": "a person who has served in the armed forces",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -51043,7 +51315,21 @@
                 "id": "54bd57a47265742391a55706",
                 "def": "the electric charge at rest on the surface of an insulated body which establishes and adjacent electrostatic field",
                 "example": "There was a high electrostatic charge on the balloon.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -51186,7 +51472,29 @@
                 "id": "54bd57a572657423912c5c06",
                 "def": "the electrical response of the central nervous system produced by an external stimulus",
                 "example": "I measured evoked potentials with an electroencephalogram.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -51915,8 +52223,7 @@
             {
                 "id": "54bd57b77265742391989a06",
                 "def": "plant having clumps of nearly leafless pale yellowish to greenish stems bearing similarly colored flowers with white lower lips",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -55045,6 +55352,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "equiangular triangle"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "mathematical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -56421,7 +56742,21 @@
                 "id": "54bd57f77265742391447a07",
                 "def": "an umbilical hernia at birth in which some abdominal organs push into the umbilical cord",
                 "example": "The patient is suffering from exomphalos.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -56766,6 +57101,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "meningoencephalitis"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -57413,8 +57762,7 @@
             {
                 "id": "54bd57ff7265742391379307",
                 "def": "a radioactive transuranic element produced by bombarding plutonium with neutrons",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -57439,8 +57787,7 @@
             {
                 "id": "54bd57ff7265742391499307",
                 "def": "a bivalent and trivalent metallic element of the rare earth group",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -57738,6 +58085,20 @@
                 "synonyms": [
                     "oestrone",
                     "theelin"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -58211,8 +58572,7 @@
             {
                 "id": "54bd580572657423915aaa07",
                 "def": "an oil having the odor or flavor of the plant from which it comes",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -58981,6 +59341,20 @@
                     "cough out",
                     "spit up",
                     "spit out"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             },
             {
@@ -59025,7 +59399,21 @@
                 "id": "54bd58107265742391c4cd07",
                 "def": "the minimum velocity needed to escape a gravitational field",
                 "example": "The escape velocity of the planet is greater than that of the moon.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -60780,8 +61168,8 @@
                 "def": "assume crystalline form",
                 "speech_part": "verb",
                 "synonyms": [
-                    "crystallise",
-                    "crystallize"
+                    "crystallize",
+                    "crystallise"
                 ]
             }
         ]
@@ -61374,8 +61762,8 @@
                 "example": "The missionaries evangelized the Pacific Islanders",
                 "speech_part": "verb",
                 "synonyms": [
-                    "Christianise",
-                    "Christianize"
+                    "Christianize",
+                    "Christianise"
                 ]
             },
             {
@@ -61409,8 +61797,8 @@
                 "example": "The missionaries evangelized the Pacific Islanders",
                 "speech_part": "verb",
                 "synonyms": [
-                    "Christianise",
-                    "Christianize"
+                    "Christianize",
+                    "Christianise"
                 ]
             },
             {
@@ -61947,8 +62335,7 @@
             {
                 "id": "54bd581b726574239123f507",
                 "def": "stimulate sexually",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             },
             {
                 "id": "54bd581b726574239124f507",
@@ -62161,8 +62548,8 @@
                 "def": "make famous forever",
                 "speech_part": "verb",
                 "synonyms": [
-                    "immortalise",
-                    "immortalize"
+                    "immortalize",
+                    "immortalise"
                 ]
             },
             {
@@ -62196,8 +62583,8 @@
                 "def": "make famous forever",
                 "speech_part": "verb",
                 "synonyms": [
-                    "immortalise",
-                    "immortalize"
+                    "immortalize",
+                    "immortalise"
                 ]
             },
             {
@@ -62232,8 +62619,8 @@
                 "example": "The Hollywood Walk of Fame eternalised Houdini.",
                 "speech_part": "verb",
                 "synonyms": [
-                    "immortalise",
-                    "immortalize"
+                    "immortalize",
+                    "immortalise"
                 ]
             }
         ],
@@ -62264,8 +62651,8 @@
                 "example": "The Hollywood Walk of Fame eternalised Houdini.",
                 "speech_part": "verb",
                 "synonyms": [
-                    "immortalise",
-                    "immortalize"
+                    "immortalize",
+                    "immortalise"
                 ]
             }
         ],
@@ -62474,8 +62861,8 @@
                 "def": "make ethereal",
                 "speech_part": "verb",
                 "synonyms": [
-                    "etherealize",
-                    "etherealise"
+                    "etherealise",
+                    "etherealize"
                 ]
             }
         ]
@@ -63000,8 +63387,8 @@
                 "def": "draw from specific cases for more general cases",
                 "speech_part": "verb",
                 "synonyms": [
-                    "generalize",
-                    "generalise"
+                    "generalise",
+                    "generalize"
                 ]
             }
         ]
@@ -63956,7 +64343,21 @@
                 "id": "54bd58227265742391390d08",
                 "def": "praise formally and eloquently",
                 "example": "The departed was eulogized at the funeral.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -63985,7 +64386,21 @@
                 "id": "54bd58227265742391390d08",
                 "def": "praise formally and eloquently",
                 "example": "The departed was eulogized at the funeral.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -64391,8 +64806,8 @@
                 "def": "convert ordinary language into code",
                 "speech_part": "verb",
                 "synonyms": [
-                    "cipher",
-                    "cypher"
+                    "cypher",
+                    "cipher"
                 ]
             }
         ]
@@ -64406,8 +64821,8 @@
                 "def": "convert ordinary language into code",
                 "speech_part": "verb",
                 "synonyms": [
-                    "cipher",
-                    "cypher"
+                    "cypher",
+                    "cipher"
                 ]
             }
         ]
@@ -64892,7 +65307,13 @@
                 "id": "54bd582572657423912d1808",
                 "def": "to strain to the utmost",
                 "example": "You must extend yourself if you want to achieve greatness.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -64964,8 +65385,7 @@
                 "id": "54bd58257265742391961808",
                 "def": "use up, consume fully",
                 "example": "The legislature expended its time on school questions",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             },
             {
                 "id": "54bd58257265742391981808",
@@ -66946,7 +67366,13 @@
                 "id": "54bd582f72657423913d3908",
                 "def": "to store in a silo",
                 "example": "The farmer ensiled fodder for the cows.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -67697,8 +68123,7 @@
                 "id": "5612d32cc5a9ff000300005f",
                 "def": "a piece of meat, usually veal or poultry, that has been flattened with a mallet",
                 "example": "I enjoyed a meal of chicken escalope.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -67719,8 +68144,7 @@
                 "id": "5612d364c5a9ff00030000b9",
                 "def": "of or relating to a hedgehog",
                 "example": "The bones are erinaceous and are therefore not from this dig site.",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ],
         "editors": [
@@ -67740,7 +68164,12 @@
                 "id": "5637b697ce60f50085000235",
                 "def": "a movable surface on a delta wing fulfilling the functions of an aileron and an elevator",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    }
+                ]
             }
         ],
         "editors": [
@@ -67761,8 +68190,7 @@
                 "id": "568d617abe029a0003000060",
                 "def": "in typography, a dash that is 1 em wide",
                 "example": "An em dash was used to show the speaker being interrupted in the text.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [

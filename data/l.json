@@ -3567,7 +3567,25 @@
                 "id": "54bd55f07265742391cd4000",
                 "def": "at a distant time in the past, chiefly used in Scotland",
                 "example": "I was told this story langsyne, so I might not remember all the details.",
-                "speech_part": "adverb"
+                "speech_part": "adverb",
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "UK",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd55f07265742391cf4000",
@@ -4009,7 +4027,13 @@
                 "id": "54bd55f77265742391435400",
                 "def": "absolute, total",
                 "example": "I am a living doll.",
-                "speech_part": "adjective"
+                "speech_part": "adjective",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd55f77265742391455400",
@@ -5280,6 +5304,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "literature"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -5932,8 +5962,7 @@
             {
                 "id": "54bd560b72657423919b8d00",
                 "def": "of blue tinged with lavender",
-                "speech_part": "adjective",
-                "synonyms": []
+                "speech_part": "adjective"
             }
         ]
     },
@@ -8888,6 +8917,20 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "dipped"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -10941,8 +10984,8 @@
                 "synonyms": [
                     "legalize",
                     "legalise",
-                    "decriminalize",
                     "decriminalise",
+                    "decriminalize",
                     "legitimise",
                     "legitimize",
                     "legitimatize",
@@ -14699,6 +14742,20 @@
                 "speech_part": "adjective",
                 "synonyms": [
                     "viviparous"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -16294,7 +16351,6 @@
             {
                 "id": "54bd56637265742391eaac01",
                 "def": "relating to languages derived from Latin",
-                "example": "",
                 "speech_part": "adjective",
                 "synonyms": [
                     "Romance"
@@ -16310,8 +16366,7 @@
                 "id": "55f0a78733313100b6260000",
                 "def": "the Latin language",
                 "example": "Latin is a dead language.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -17763,8 +17818,7 @@
             {
                 "id": "54bd566d7265742391ccd001",
                 "def": "(boxing) a blow with the fist",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd566d7265742391cdd001",
@@ -18262,7 +18316,6 @@
             {
                 "id": "54bd566e7265742391ead301",
                 "def": "thread used by surgeons to bind a vessel so as to constrict the flow of blood",
-                "example": "",
                 "speech_part": "noun"
             },
             {
@@ -24275,7 +24328,21 @@
                 "id": "54bd56957265742391f66502",
                 "def": "in baseball or softball, the position taken by a base runner preparing to advance to the next base",
                 "example": "The baserunner took a long lead off first.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "US",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "American",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd56957265742391f86502",
@@ -24299,8 +24366,7 @@
             {
                 "id": "54bd56957265742391fb6502",
                 "def": "a soft heavy toxic malleable metallic element",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd56957265742391fd6502",
@@ -24814,8 +24880,7 @@
             {
                 "id": "54bd56a07265742391309002",
                 "def": "Australian kingfisher having a loud cackling cry",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -26526,6 +26591,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "lacewing fly"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -26670,6 +26749,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "lepidopterous insect"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -27500,8 +27593,7 @@
             {
                 "id": "54bd56c07265742391ba0903",
                 "def": "Atlantic salmon confined to lakes of New England and southeastern Canada",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -28556,7 +28648,21 @@
                 "id": "54bd56cf7265742391764103",
                 "def": "an amount of alcohol sufficient to intoxicate",
                 "example": "They each got a load on and started a brawl.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             },
             {
                 "id": "54bd56cf7265742391784103",
@@ -33013,7 +33119,6 @@
             {
                 "id": "54bd56e47265742391748e03",
                 "def": "continuance in time",
-                "example": "",
                 "speech_part": "noun",
                 "synonyms": [
                     "duration"
@@ -33028,7 +33133,6 @@
             {
                 "id": "54bd56e47265742391768e03",
                 "def": "size of the gap between two places",
-                "example": "",
                 "speech_part": "noun",
                 "synonyms": [
                     "distance"
@@ -33769,7 +33873,13 @@
                 "id": "54bd56e47265742391b19103",
                 "def": "measuring instrument that consists of a float that trails from a ship by a knotted line in order to measure the ship's speed through the water",
                 "example": "The sailor tossed the log over the side of the ship.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd56e47265742391b29103",
@@ -33790,6 +33900,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "logarithm"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "mathematical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             },
             {
@@ -33802,7 +33926,13 @@
                 "id": "54bd56e47265742391b89103",
                 "def": "to enter into a log, as on ships and planes",
                 "example": "I logged our emergency trip to the island.",
-                "speech_part": "verb"
+                "speech_part": "verb",
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
+                ]
             },
             {
                 "id": "54bd56e47265742391b99103",
@@ -33811,6 +33941,16 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "lumber"
+                ],
+                "labels": [
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -34584,6 +34724,12 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "glass"
+                ],
+                "labels": [
+                    {
+                        "name": "archaic",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -39488,6 +39634,28 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "lacrimal duct"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -39567,8 +39735,7 @@
             {
                 "id": "54bd57127265742391883f04",
                 "def": "a vein draining the lips of the mouth",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57127265742391893f04",
@@ -39601,8 +39768,7 @@
             {
                 "id": "54bd57127265742391a23f04",
                 "def": "drains the lacrimal gland",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -39627,8 +39793,7 @@
             {
                 "id": "54bd57127265742391a83f04",
                 "def": "one of two veins draining the larynx",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -39639,8 +39804,7 @@
             {
                 "id": "54bd57127265742391ae3f04",
                 "def": "arises from a union of veins from the gastric cardia",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -39651,8 +39815,7 @@
             {
                 "id": "54bd57127265742391b43f04",
                 "def": "a vein that receives blood from the tongue and the floor of the mouth and empties into the internal jugular or the facial vein",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -39678,8 +39841,7 @@
             {
                 "id": "54bd57127265742391ba3f04",
                 "def": "veins that drain the posterior body wall and the lumbar vertebral venous plexuses",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -40464,7 +40626,20 @@
                 "id": "54bd571772657423910a5004",
                 "def": "a cartilaginous structure at the top of the trachea",
                 "speech_part": "noun",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -43632,6 +43807,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     null
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -43689,7 +43878,21 @@
                 "id": "54bd572c7265742391929e04",
                 "def": "a document written by someone still legally capable that directs their treatment if they subsequently severely disabled or impaired",
                 "example": "After they discovered the potential side effects of the surgery, they drew up a living will.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -44341,8 +44544,7 @@
             {
                 "id": "54bd5731726574239175b104",
                 "def": "a mistake in printed matter resulting from mechanical failures of some kind",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -45129,6 +45331,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "litmus"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -45176,6 +45392,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "wetting"
+                ],
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             },
             {
@@ -46268,6 +46498,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "tarry"
+                ],
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
                 ]
             },
             {
@@ -46277,6 +46513,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "bum"
+                ],
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -49289,6 +49531,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "logorrhea"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -50368,6 +50624,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "elevator man"
+                ],
+                "labels": [
+                    {
+                        "name": "British",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "UK",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "British",
+                            "is_dialect": true
+                        }
+                    }
                 ]
             }
         ],
@@ -51514,8 +51784,7 @@
             {
                 "id": "54bd577d726574239180cd05",
                 "def": "a baseball pitcher who throws the ball with the left hand",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd577d726574239181cd05",
@@ -51557,8 +51826,7 @@
             {
                 "id": "54bd577d726574239184cd05",
                 "def": "a baseball pitcher who throws the ball with the left hand",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -51623,8 +51891,7 @@
             {
                 "id": "54bd577d726574239187cd05",
                 "def": "a baseball pitcher who throws the ball with the left hand",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -51646,8 +51913,7 @@
             {
                 "id": "54bd577d72657423918acd05",
                 "def": "a baseball pitcher who throws the ball with the left hand",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd577d72657423918bcd05",
@@ -53053,8 +53319,7 @@
                 "id": "54bd577e72657423917bcf05",
                 "def": "an infant born weighing less than 5.5 pounds or 2500 grams, regardless of gestational age",
                 "example": "The child was a low-birth-weight baby, which led to multiple medical issues.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -54397,8 +54662,7 @@
             {
                 "id": "54bd57a772657423918f6306",
                 "def": "shrubby two-needled pine of coastal northwestern United States",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -55205,8 +55469,7 @@
             {
                 "id": "54bd57b37265742391618b06",
                 "def": "small European herb with small yellow flowers",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -55786,8 +56049,7 @@
             {
                 "id": "54bd57bb7265742391e7a806",
                 "def": "the loofah climber that has cylindrical fruit",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             },
             {
                 "id": "54bd57bb7265742391e8a806",
@@ -57121,8 +57383,7 @@
             {
                 "id": "54bd57d072657423910df506",
                 "def": "an evergreen shrub",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -58039,8 +58300,7 @@
             {
                 "id": "54bd57df7265742391bc2507",
                 "def": "any of various terrestrial ferns of the genus Cheilanthes",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -59018,7 +59278,21 @@
                 "id": "54bd57e67265742391453d07",
                 "def": "passing small stones with the urine",
                 "example": "Should I diagnose them with lithuresis?",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -60557,7 +60831,21 @@
                 "id": "54bd57f27265742391976707",
                 "def": "abnormal narrowing of the larynx",
                 "example": "The patient has laryngostenosis.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -61804,6 +62092,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "tennis elbow"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -62380,8 +62682,7 @@
             {
                 "id": "54bd57ff7265742391069407",
                 "def": "a radioactive transuranic element synthesized from californium",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -62392,8 +62693,7 @@
             {
                 "id": "54bd57ff7265742391129407",
                 "def": "a soft silver-white univalent element of the alkali metal group",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -62464,6 +62764,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "rare earth"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "scientific",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -62508,8 +62822,7 @@
             {
                 "id": "54bd57ff7265742391fd9307",
                 "def": "a white soft metallic element that tarnishes readily",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ]
     },
@@ -64373,6 +64686,20 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "life"
+                ],
+                "labels": [
+                    {
+                        "name": "technical",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "legal",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],
@@ -65503,8 +65830,8 @@
                 "def": "cause to adopt Catholicism",
                 "speech_part": "verb",
                 "synonyms": [
-                    "catholicize",
-                    "catholicise"
+                    "catholicise",
+                    "catholicize"
                 ]
             }
         ],
@@ -65532,8 +65859,8 @@
                 "def": "cause to adopt Catholicism",
                 "speech_part": "verb",
                 "synonyms": [
-                    "catholicize",
-                    "catholicise"
+                    "catholicise",
+                    "catholicize"
                 ]
             }
         ],
@@ -65753,8 +66080,8 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "liquify",
-                    "liquidize",
-                    "liquidise"
+                    "liquidise",
+                    "liquidize"
                 ]
             },
             {
@@ -66463,6 +66790,12 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "underestimate"
+                ],
+                "labels": [
+                    {
+                        "name": "intransitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -66491,8 +66824,7 @@
             {
                 "id": "54bd581e7265742391c3ff07",
                 "def": "investigate scientifically",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             }
         ]
     },
@@ -66560,6 +66892,24 @@
                 "speech_part": "verb",
                 "synonyms": [
                     "esteem"
+                ],
+                "labels": [
+                    {
+                        "name": "idiom",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "phrasal verb",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "idiom",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "transitive verb",
+                        "is_dialect": false
+                    }
                 ]
             }
         ],
@@ -66769,8 +67119,7 @@
             {
                 "id": "54bd582172657423919b0a08",
                 "def": "conceal one's true motives from especially by elaborately feigning good intentions so as to gain an end",
-                "speech_part": "verb",
-                "synonyms": []
+                "speech_part": "verb"
             }
         ]
     },
@@ -67658,8 +68007,8 @@
                 "example": "I had to liquidate my holdings to pay off my ex-husband",
                 "speech_part": "verb",
                 "synonyms": [
-                    "realise",
-                    "realize"
+                    "realize",
+                    "realise"
                 ]
             }
         ],
@@ -67859,7 +68208,6 @@
             {
                 "id": "54bd582a7265742391242908",
                 "def": "to locate something",
-                "example": "",
                 "speech_part": "verb",
                 "synonyms": [
                     "place"
@@ -67912,7 +68260,6 @@
             {
                 "id": "54bd582a7265742391242908",
                 "def": "to locate something",
-                "example": "",
                 "speech_part": "verb",
                 "synonyms": [
                     "place"
@@ -69736,7 +70083,21 @@
                 "id": "555f59bc393731007e020000",
                 "def": "someone who is not cool",
                 "example": "This party is full of lamestains.",
-                "speech_part": "noun"
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -69756,7 +70117,21 @@
                 "id": "55898f17626133008d7c0000",
                 "def": "vigorously, rapidly, zealously, or forcibly; in a manner which has considerable impact",
                 "example": "These new tacos are selling like gangbusters!",
-                "speech_part": "adverb"
+                "speech_part": "adverb",
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -69776,8 +70151,7 @@
                 "id": "5612d322c5a9ff0003000047",
                 "def": "the quality of a loud and clear voice",
                 "example": "The chemistry professors' lamprophony made them the perfect candidates for the job.",
-                "speech_part": "noun",
-                "synonyms": []
+                "speech_part": "noun"
             }
         ],
         "editors": [
@@ -69798,7 +70172,32 @@
                 "def": "kind of; a little bit; understated",
                 "example": "I'm lowkey sad that they were out of pizza.",
                 "speech_part": "adverb",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "AAVE",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "American",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -69820,7 +70219,32 @@
                 "def": "kind of; a little bit; understated",
                 "example": "I'm lowkey sad that they were out of pizza.",
                 "speech_part": "adverb",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "AAVE",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "American",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             }
         ],
         "editors": [
@@ -69842,7 +70266,32 @@
                 "def": "kind of; a little bit; understated",
                 "example": "I'm lowkey sad that they were out of pizza.",
                 "speech_part": "adverb",
-                "synonyms": []
+                "labels": [
+                    {
+                        "name": "informal",
+                        "is_dialect": false
+                    },
+                    {
+                        "name": "slang",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "informal",
+                            "is_dialect": false
+                        }
+                    },
+                    {
+                        "name": "American",
+                        "is_dialect": true
+                    },
+                    {
+                        "name": "AAVE",
+                        "is_dialect": true,
+                        "parent": {
+                            "name": "American",
+                            "is_dialect": true
+                        }
+                    }
+                ]
             }
         ],
         "editors": [

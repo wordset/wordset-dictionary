@@ -1,10 +1,10 @@
 {
     "xenophobic": {
         "word": "xenophobic",
-        "wordset_id": "54bd55fc7265742391ab6000",
+        "wordset_id": "5645bdae31",
         "meanings": [
             {
-                "id": "54bd55fc7265742391ad6000",
+                "id": "6f50157c76",
                 "def": "suffering from xenophobia, or the fear of outsiders",
                 "example": "Those remarks make it pretty clear how xenophobic you are.",
                 "speech_part": "adjective"
@@ -21,10 +21,10 @@
     },
     "xanthous": {
         "word": "xanthous",
-        "wordset_id": "54bd560c7265742391ed8f00",
+        "wordset_id": "f71f9720cc",
         "meanings": [
             {
-                "id": "54bd560c7265742391ef8f00",
+                "id": "fc3a76e2f1",
                 "def": "of the color intermediate between green and orange in the color spectrum",
                 "example": "The new rug you bought is fairly xanthous, don't you think?",
                 "speech_part": "adjective",
@@ -50,10 +50,10 @@
     },
     "xxvii": {
         "word": "xxvii",
-        "wordset_id": "54bd56487265742391045601",
+        "wordset_id": "77a1aec695",
         "meanings": [
             {
-                "id": "54bd56487265742391065601",
+                "id": "d4fea7855f",
                 "def": "being seven more than twenty",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -64,10 +64,10 @@
     },
     "xxviii": {
         "word": "xxviii",
-        "wordset_id": "54bd56487265742391115601",
+        "wordset_id": "517a3ca0f7",
         "meanings": [
             {
-                "id": "54bd56487265742391135601",
+                "id": "e54bb9c23b",
                 "def": "the Roman numeral for 28",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -92,10 +92,10 @@
     },
     "x": {
         "word": "x",
-        "wordset_id": "54bd564872657423911a5501",
+        "wordset_id": "0daa6695c3",
         "meanings": [
             {
-                "id": "54bd564872657423911c5501",
+                "id": "dc5abff7e9",
                 "def": "the Roman numeral for 10",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -109,7 +109,7 @@
                 ]
             },
             {
-                "id": "54bd564872657423911e5501",
+                "id": "33930a25cb",
                 "def": "the 24th letter of the Roman alphabet",
                 "example": "The farmer signed with an x.",
                 "speech_part": "noun",
@@ -129,10 +129,10 @@
     },
     "xxix": {
         "word": "xxix",
-        "wordset_id": "54bd564872657423911e5601",
+        "wordset_id": "797917c907",
         "meanings": [
             {
-                "id": "54bd56487265742391205601",
+                "id": "c651ef5e44",
                 "def": "the Roman numeral for 29",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -158,10 +158,10 @@
     },
     "xi": {
         "word": "xi",
-        "wordset_id": "54bd564872657423912a5501",
+        "wordset_id": "0dee376a0c",
         "meanings": [
             {
-                "id": "54bd564872657423912c5501",
+                "id": "8d5cdcc800",
                 "def": "the Roman numeral for 11",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -175,7 +175,7 @@
                 ]
             },
             {
-                "id": "54bd564872657423912e5501",
+                "id": "cd0361967f",
                 "def": "the 14th letter of the Greek alphabet",
                 "speech_part": "noun"
             }
@@ -191,10 +191,10 @@
     },
     "xxx": {
         "word": "xxx",
-        "wordset_id": "54bd564872657423912b5601",
+        "wordset_id": "714b4e5e79",
         "meanings": [
             {
-                "id": "54bd564872657423912d5601",
+                "id": "7d0027b336",
                 "def": "the Roman numeral for 30",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -219,10 +219,10 @@
     },
     "xxxi": {
         "word": "xxxi",
-        "wordset_id": "54bd56487265742391345601",
+        "wordset_id": "84b4e33af9",
         "meanings": [
             {
-                "id": "54bd56487265742391365601",
+                "id": "43d5392da5",
                 "def": "thirty-one in Roman numerals",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -241,10 +241,10 @@
     },
     "xii": {
         "word": "xii",
-        "wordset_id": "54bd56487265742391395501",
+        "wordset_id": "65eb2f35bb",
         "meanings": [
             {
-                "id": "54bd564872657423913b5501",
+                "id": "aeff5f34ad",
                 "def": "the Roman numeral for 12",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -269,10 +269,10 @@
     },
     "xxxii": {
         "word": "xxxii",
-        "wordset_id": "54bd564872657423913d5601",
+        "wordset_id": "702664316d",
         "meanings": [
             {
-                "id": "54bd564872657423913f5601",
+                "id": "5f1b60a36d",
                 "def": "the Roman numeral for 32",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -297,10 +297,10 @@
     },
     "xxxiii": {
         "word": "xxxiii",
-        "wordset_id": "54bd56487265742391465601",
+        "wordset_id": "35850d807f",
         "meanings": [
             {
-                "id": "54bd56487265742391485601",
+                "id": "7098f4d9f7",
                 "def": "the Roman numeral for 33",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -325,10 +325,10 @@
     },
     "xiii": {
         "word": "xiii",
-        "wordset_id": "54bd564872657423914b5501",
+        "wordset_id": "2ee78f843f",
         "meanings": [
             {
-                "id": "54bd564872657423914d5501",
+                "id": "392346271c",
                 "def": "the Roman numeral for 13",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -353,10 +353,10 @@
     },
     "xxxiv": {
         "word": "xxxiv",
-        "wordset_id": "54bd564872657423914f5601",
+        "wordset_id": "77449718d2",
         "meanings": [
             {
-                "id": "54bd56487265742391515601",
+                "id": "873ec46862",
                 "def": "the Roman numeral for 34",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -381,10 +381,10 @@
     },
     "xiv": {
         "word": "xiv",
-        "wordset_id": "54bd56487265742391585501",
+        "wordset_id": "a81ac6cf03",
         "meanings": [
             {
-                "id": "54bd564872657423915a5501",
+                "id": "8938d357a5",
                 "def": "the Roman numeral for 14",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -409,10 +409,10 @@
     },
     "xxxv": {
         "word": "xxxv",
-        "wordset_id": "54bd56487265742391585601",
+        "wordset_id": "e3e46f9ad3",
         "meanings": [
             {
-                "id": "54bd564872657423915a5601",
+                "id": "370b374ec0",
                 "def": "the Roman numeral for 35",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -437,10 +437,10 @@
     },
     "xxxvi": {
         "word": "xxxvi",
-        "wordset_id": "54bd56487265742391615601",
+        "wordset_id": "629f01316b",
         "meanings": [
             {
-                "id": "54bd56487265742391635601",
+                "id": "2fd3ad62fb",
                 "def": "the Roman numeral for 36",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -465,10 +465,10 @@
     },
     "xv": {
         "word": "xv",
-        "wordset_id": "54bd56487265742391655501",
+        "wordset_id": "600f817d50",
         "meanings": [
             {
-                "id": "54bd56487265742391675501",
+                "id": "c1ae361f03",
                 "def": "the Roman numeral for 15",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -493,10 +493,10 @@
     },
     "xxxvii": {
         "word": "xxxvii",
-        "wordset_id": "54bd564872657423916a5601",
+        "wordset_id": "a07c6d4ff4",
         "meanings": [
             {
-                "id": "54bd564872657423916c5601",
+                "id": "0843e40a47",
                 "def": "the Roman numeral for 37",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -521,10 +521,10 @@
     },
     "xvi": {
         "word": "xvi",
-        "wordset_id": "54bd56487265742391725501",
+        "wordset_id": "c3e4201b05",
         "meanings": [
             {
-                "id": "54bd56487265742391745501",
+                "id": "8a5d7d5aa1",
                 "def": "the Roman numeral for 16",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -549,10 +549,10 @@
     },
     "xxxviii": {
         "word": "xxxviii",
-        "wordset_id": "54bd56487265742391735601",
+        "wordset_id": "f423e0a1db",
         "meanings": [
             {
-                "id": "54bd56487265742391755601",
+                "id": "52ef1c873b",
                 "def": "the Roman numeral for 38",
                 "speech_part": "adjective",
                 "labels": [
@@ -574,10 +574,10 @@
     },
     "xvii": {
         "word": "xvii",
-        "wordset_id": "54bd564872657423917f5501",
+        "wordset_id": "e8f3299a51",
         "meanings": [
             {
-                "id": "54bd56487265742391815501",
+                "id": "5ca101d674",
                 "def": "the Roman numeral for 17",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -602,10 +602,10 @@
     },
     "xl": {
         "word": "xl",
-        "wordset_id": "54bd56487265742391895601",
+        "wordset_id": "83268f5941",
         "meanings": [
             {
-                "id": "54bd564872657423918b5601",
+                "id": "a9be828eec",
                 "def": "the Roman numeral for 40",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -630,10 +630,10 @@
     },
     "xviii": {
         "word": "xviii",
-        "wordset_id": "54bd564872657423918c5501",
+        "wordset_id": "02e290257f",
         "meanings": [
             {
-                "id": "54bd564872657423918e5501",
+                "id": "145aec59aa",
                 "def": "the Roman numeral for 18",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -652,10 +652,10 @@
     },
     "xix": {
         "word": "xix",
-        "wordset_id": "54bd56487265742391995501",
+        "wordset_id": "b9e7946ea9",
         "meanings": [
             {
-                "id": "54bd564872657423919b5501",
+                "id": "1cd9582cc5",
                 "def": "the Roman numeral for 19",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -680,10 +680,10 @@
     },
     "xlii": {
         "word": "xlii",
-        "wordset_id": "54bd564872657423919e5601",
+        "wordset_id": "e8f4324c88",
         "meanings": [
             {
-                "id": "54bd56487265742391a05601",
+                "id": "d32fdbc18a",
                 "def": "the Roman numeral for 42",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -708,10 +708,10 @@
     },
     "xx": {
         "word": "xx",
-        "wordset_id": "54bd56487265742391a75501",
+        "wordset_id": "09c5201610",
         "meanings": [
             {
-                "id": "54bd56487265742391a95501",
+                "id": "856dda8b00",
                 "def": "the Roman numeral for 20",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -736,10 +736,10 @@
     },
     "xliii": {
         "word": "xliii",
-        "wordset_id": "54bd56487265742391a75601",
+        "wordset_id": "30b1751c6d",
         "meanings": [
             {
-                "id": "54bd56487265742391a95601",
+                "id": "44d92320e2",
                 "def": "the Roman numeral for 43",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -764,10 +764,10 @@
     },
     "xliv": {
         "word": "xliv",
-        "wordset_id": "54bd56487265742391b05601",
+        "wordset_id": "1773d131dd",
         "meanings": [
             {
-                "id": "54bd56487265742391b25601",
+                "id": "8b78df5234",
                 "def": "the Roman numeral for 44",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -792,10 +792,10 @@
     },
     "xxi": {
         "word": "xxi",
-        "wordset_id": "54bd56487265742391b55501",
+        "wordset_id": "a2d853655e",
         "meanings": [
             {
-                "id": "54bd56487265742391b75501",
+                "id": "e349850e8b",
                 "def": "the Roman numeral for 21",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -820,10 +820,10 @@
     },
     "xlv": {
         "word": "xlv",
-        "wordset_id": "54bd56487265742391bb5601",
+        "wordset_id": "9009cc122e",
         "meanings": [
             {
-                "id": "54bd56487265742391bd5601",
+                "id": "d75b786e00",
                 "def": "the Roman numeral for 45",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -848,10 +848,10 @@
     },
     "xxii": {
         "word": "xxii",
-        "wordset_id": "54bd56487265742391c35501",
+        "wordset_id": "8fd59f85b1",
         "meanings": [
             {
-                "id": "54bd56487265742391c55501",
+                "id": "91a05c578f",
                 "def": "the Roman numeral for 22",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -876,10 +876,10 @@
     },
     "xlvi": {
         "word": "xlvi",
-        "wordset_id": "54bd56487265742391c45601",
+        "wordset_id": "e2ef43ddb6",
         "meanings": [
             {
-                "id": "54bd56487265742391c65601",
+                "id": "3fe84997b2",
                 "def": "the Roman numeral for 46",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -904,10 +904,10 @@
     },
     "xlvii": {
         "word": "xlvii",
-        "wordset_id": "54bd56487265742391cd5601",
+        "wordset_id": "b6320fd782",
         "meanings": [
             {
-                "id": "54bd56487265742391cf5601",
+                "id": "e0e48bba70",
                 "def": "the Roman numeral for 47",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -932,10 +932,10 @@
     },
     "xxiii": {
         "word": "xxiii",
-        "wordset_id": "54bd56487265742391d05501",
+        "wordset_id": "783dd6bf66",
         "meanings": [
             {
-                "id": "54bd56487265742391d25501",
+                "id": "b2a4e897ad",
                 "def": "the Roman numeral for 23",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -960,10 +960,10 @@
     },
     "xlviii": {
         "word": "xlviii",
-        "wordset_id": "54bd56487265742391d65601",
+        "wordset_id": "4765b3156b",
         "meanings": [
             {
-                "id": "54bd56487265742391d85601",
+                "id": "b281a65588",
                 "def": "the Roman numeral for 48",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -988,10 +988,10 @@
     },
     "xxiv": {
         "word": "xxiv",
-        "wordset_id": "54bd56487265742391dd5501",
+        "wordset_id": "ed62bf8424",
         "meanings": [
             {
-                "id": "54bd56487265742391df5501",
+                "id": "458f748a78",
                 "def": "the Roman numeral for 24",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -1010,10 +1010,10 @@
     },
     "xxv": {
         "word": "xxv",
-        "wordset_id": "54bd56487265742391ea5501",
+        "wordset_id": "04c378012e",
         "meanings": [
             {
-                "id": "54bd56487265742391ec5501",
+                "id": "deb0f5adc4",
                 "def": "the Roman numeral for 25",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -1038,10 +1038,10 @@
     },
     "xxvi": {
         "word": "xxvi",
-        "wordset_id": "54bd56487265742391f75501",
+        "wordset_id": "09b07b63e9",
         "meanings": [
             {
-                "id": "54bd56487265742391f95501",
+                "id": "d4da320eab",
                 "def": "the Roman numeral for 26",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -1066,10 +1066,10 @@
     },
     "xc": {
         "word": "xc",
-        "wordset_id": "54bd564972657423917f5801",
+        "wordset_id": "188fa29de3",
         "meanings": [
             {
-                "id": "54bd56497265742391815801",
+                "id": "3b78db3639",
                 "def": "the Roman numeral for 90",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -1094,10 +1094,10 @@
     },
     "xci": {
         "word": "xci",
-        "wordset_id": "54bd56497265742391885801",
+        "wordset_id": "bf6b328ad7",
         "meanings": [
             {
-                "id": "54bd564972657423918a5801",
+                "id": "d25266ae26",
                 "def": "the Roman numeral for 91",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -1122,10 +1122,10 @@
     },
     "xcl": {
         "word": "xcl",
-        "wordset_id": "54bd564972657423918d5901",
+        "wordset_id": "5de6668c8c",
         "meanings": [
             {
-                "id": "54bd564972657423918f5901",
+                "id": "06125f6bbf",
                 "def": "the Roman numeral for 190",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -1150,10 +1150,10 @@
     },
     "xciii": {
         "word": "xciii",
-        "wordset_id": "54bd564972657423919a5801",
+        "wordset_id": "21821640d9",
         "meanings": [
             {
-                "id": "54bd564972657423919c5801",
+                "id": "fa1f22518a",
                 "def": "the Roman numeral for 93",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -1178,10 +1178,10 @@
     },
     "xciv": {
         "word": "xciv",
-        "wordset_id": "54bd56497265742391a35801",
+        "wordset_id": "3ccd3600f7",
         "meanings": [
             {
-                "id": "54bd56497265742391a55801",
+                "id": "091ceff116",
                 "def": "nintey-four in Roman numerals",
                 "speech_part": "adjective"
             }
@@ -1197,10 +1197,10 @@
     },
     "xcv": {
         "word": "xcv",
-        "wordset_id": "54bd56497265742391ac5801",
+        "wordset_id": "2a88ba352f",
         "meanings": [
             {
-                "id": "54bd56497265742391ae5801",
+                "id": "cd24500fc8",
                 "def": "the Roman numeral for 95",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -1225,10 +1225,10 @@
     },
     "xcvi": {
         "word": "xcvi",
-        "wordset_id": "54bd56497265742391b55801",
+        "wordset_id": "6445948b04",
         "meanings": [
             {
-                "id": "54bd56497265742391b75801",
+                "id": "ef0a0a4a21",
                 "def": "the Roman numeral for 96",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -1253,10 +1253,10 @@
     },
     "xcvii": {
         "word": "xcvii",
-        "wordset_id": "54bd56497265742391be5801",
+        "wordset_id": "eef69775e6",
         "meanings": [
             {
-                "id": "54bd56497265742391c05801",
+                "id": "e59d667415",
                 "def": "the number 97 in Roman numerals",
                 "example": "It's my xcvii birthday, Augustus!",
                 "speech_part": "adjective",
@@ -1276,10 +1276,10 @@
     },
     "xcviii": {
         "word": "xcviii",
-        "wordset_id": "54bd56497265742391c75801",
+        "wordset_id": "c0e83dc31d",
         "meanings": [
             {
-                "id": "54bd56497265742391c95801",
+                "id": "5777d1dc18",
                 "def": "the Roman numeral for 98",
                 "speech_part": "adjective",
                 "synonyms": [
@@ -1306,10 +1306,10 @@
     },
     "xeric": {
         "word": "xeric",
-        "wordset_id": "54bd565372657423910a7b01",
+        "wordset_id": "5f1a35aeac",
         "meanings": [
             {
-                "id": "54bd565372657423910c7b01",
+                "id": "24959211ae",
                 "def": "being deficient in moisture",
                 "example": "The Sahara desert is a xeric environment – it rarely rains there.",
                 "speech_part": "adjective",
@@ -1332,10 +1332,10 @@
     },
     "xerophytic": {
         "word": "xerophytic",
-        "wordset_id": "54bd565372657423910e7b01",
+        "wordset_id": "3c10a0f425",
         "meanings": [
             {
-                "id": "54bd56537265742391107b01",
+                "id": "2aa387b76c",
                 "def": "adapted to a dry environment",
                 "example": "Cacti are xerophytic plants.",
                 "speech_part": "adjective"
@@ -1352,10 +1352,10 @@
     },
     "xenogeneic": {
         "word": "xenogeneic",
-        "wordset_id": "54bd56537265742391a57b01",
+        "wordset_id": "bcf0e4b36e",
         "meanings": [
             {
-                "id": "54bd56537265742391a77b01",
+                "id": "d7d3ee4287",
                 "def": "denoting or relating to cells or tissues from individuals belonging to different species",
                 "example": "The xenogenic reactions of trees and mosses is quite fascinating.",
                 "speech_part": "adjective",
@@ -1386,10 +1386,10 @@
     },
     "X-linked": {
         "word": "X-linked",
-        "wordset_id": "54bd5665726574239179b401",
+        "wordset_id": "e87c78620d",
         "meanings": [
             {
-                "id": "54bd566572657423917bb401",
+                "id": "75e0ba7ee5",
                 "def": "relating to genes or characteristics or conditions carried on the X chromosome",
                 "example": "I think it might be an X-linked mutation.",
                 "speech_part": "adjective",
@@ -1428,10 +1428,10 @@
     },
     "xerographic": {
         "word": "xerographic",
-        "wordset_id": "54bd56657265742391e8b201",
+        "wordset_id": "cacfb35d04",
         "meanings": [
             {
-                "id": "54bd56657265742391eab201",
+                "id": "66c9509879",
                 "def": "of or relating to copying paper or other items, aka xerography",
                 "example": "Our xerographic machine was on the fritz.",
                 "speech_part": "adjective"
@@ -1448,10 +1448,10 @@
     },
     "X-raying": {
         "word": "X-raying",
-        "wordset_id": "54bd568a72657423913f3d02",
+        "wordset_id": "82d8f3a646",
         "meanings": [
             {
-                "id": "54bd568a7265742391413d02",
+                "id": "75458302ac",
                 "def": "obtaining images by the use of X rays",
                 "example": "The pictures from the X-raying were analyzed by the dentist.",
                 "speech_part": "noun"
@@ -1468,10 +1468,10 @@
     },
     "xerography": {
         "word": "xerography",
-        "wordset_id": "54bd568a72657423919b3d02",
+        "wordset_id": "60c6c25f6e",
         "meanings": [
             {
-                "id": "54bd568a72657423919d3d02",
+                "id": "5ae187a2f9",
                 "def": "forming an image by the action of light on a specially coated charged plate",
                 "example": "The machine used xerography to print copies.",
                 "speech_part": "noun"
@@ -1488,10 +1488,10 @@
     },
     "xeroradiography": {
         "word": "xeroradiography",
-        "wordset_id": "54bd568a72657423919e3d02",
+        "wordset_id": "b535e5219e",
         "meanings": [
             {
-                "id": "54bd568a7265742391a03d02",
+                "id": "dff19146e3",
                 "def": "radiography using X-rays and xerographic techniques",
                 "example": "The radiologist specialized in xeroradiography.",
                 "speech_part": "noun",
@@ -1532,10 +1532,10 @@
     },
     "xenotransplant": {
         "word": "xenotransplant",
-        "wordset_id": "54bd56957265742391b86702",
+        "wordset_id": "8a07f7864a",
         "meanings": [
             {
-                "id": "54bd56957265742391ba6702",
+                "id": "680a17d53d",
                 "def": "a surgical procedure in which tissue or whole organs are transfered from one species to another species",
                 "speech_part": "noun",
                 "synonyms": [
@@ -1546,10 +1546,10 @@
     },
     "xenotransplantation": {
         "word": "xenotransplantation",
-        "wordset_id": "54bd56957265742391bb6702",
+        "wordset_id": "445114bbbf",
         "meanings": [
             {
-                "id": "54bd56957265742391bd6702",
+                "id": "b3628ed597",
                 "def": "a surgical procedure in which tissue or whole organs are transfered from one species to another species",
                 "example": "The comparable sizes of organs in pigs and humans means that xenotransplantation could be feasible.",
                 "speech_part": "noun",
@@ -1583,10 +1583,10 @@
     },
     "xanthomonad": {
         "word": "xanthomonad",
-        "wordset_id": "54bd56977265742391107002",
+        "wordset_id": "714178917e",
         "meanings": [
             {
-                "id": "54bd56977265742391127002",
+                "id": "a3b706c596",
                 "def": "bacteria producing yellow non-water-soluble pigments",
                 "example": "I cultured a flask full of xanthomonad.",
                 "speech_part": "noun",
@@ -1617,10 +1617,10 @@
     },
     "xylophone": {
         "word": "xylophone",
-        "wordset_id": "54bd56e57265742391849503",
+        "wordset_id": "ff153d2824",
         "meanings": [
             {
-                "id": "54bd56e57265742391869503",
+                "id": "37bb637455",
                 "def": "a percussion instrument with wooden bars tuned to produce a chromatic scale, with resonators to help with the sound quality",
                 "example": "The children were encouraged to play the xylophone.",
                 "speech_part": "noun",
@@ -1640,10 +1640,10 @@
     },
     "X ray": {
         "word": "X ray",
-        "wordset_id": "54bd56f07265742391f4bd03",
+        "wordset_id": "13040b7fef",
         "meanings": [
             {
-                "id": "54bd56f07265742391f6bd03",
+                "id": "99e0ce0b3b",
                 "def": "a radiogram made by exposing photographic film to X rays",
                 "speech_part": "noun",
                 "synonyms": [
@@ -1651,7 +1651,7 @@
                 ]
             },
             {
-                "id": "54bd56f07265742391f7bd03",
+                "id": "8333b9b13a",
                 "def": "electromagnetic radiation of short wavelength produced when high-speed electrons strike a solid target",
                 "speech_part": "noun",
                 "synonyms": [
@@ -1663,10 +1663,10 @@
     },
     "X-ray": {
         "word": "X-ray",
-        "wordset_id": "54bd56f07265742391f8bd03",
+        "wordset_id": "43744e1cfe",
         "meanings": [
             {
-                "id": "54bd56f07265742391fabd03",
+                "id": "e73a7895b3",
                 "def": "a radiogram made by exposing photographic film to X rays",
                 "speech_part": "noun",
                 "synonyms": [
@@ -1674,7 +1674,7 @@
                 ]
             },
             {
-                "id": "54bd56f07265742391fbbd03",
+                "id": "a5d16cbbe1",
                 "def": "electromagnetic radiation of short wavelength produced when high-speed electrons strike a solid target",
                 "speech_part": "noun",
                 "synonyms": [
@@ -1685,10 +1685,10 @@
     },
     "Xerox": {
         "word": "Xerox",
-        "wordset_id": "54bd56fe72657423910bf103",
+        "wordset_id": "9a8e982dd1",
         "meanings": [
             {
-                "id": "54bd56fe72657423910df103",
+                "id": "895e36ff4f",
                 "def": "a duplicator (trade mark Xerox) that copies graphic matter by the action of light on an electrically charged photoconductive insulating surface in which the latent image is developed with a resinous powder",
                 "speech_part": "noun",
                 "synonyms": [
@@ -1699,10 +1699,10 @@
     },
     "xerographic copier": {
         "word": "xerographic copier",
-        "wordset_id": "54bd56fe72657423910ef103",
+        "wordset_id": "61021281f4",
         "meanings": [
             {
-                "id": "54bd56fe726574239110f103",
+                "id": "962816f977",
                 "def": "a duplicator that copies graphic matter by the action of light on an electrically charged photoconductive insulating surface in which the latent image is developed with a resinous powder",
                 "example": "The office has a xerographic copier for making multiples of its newsletters.",
                 "speech_part": "noun",
@@ -1722,15 +1722,15 @@
     },
     "xerox": {
         "word": "xerox",
-        "wordset_id": "54bd56fe726574239114f103",
+        "wordset_id": "559a7067ed",
         "meanings": [
             {
-                "id": "54bd56fe726574239116f103",
+                "id": "02c3c80587",
                 "def": "a copy made by a xerographic printer",
                 "speech_part": "noun"
             },
             {
-                "id": "54bd56fe726574239118f103",
+                "id": "b741f3f771",
                 "def": "reproduce by xerography",
                 "speech_part": "verb",
                 "synonyms": [
@@ -1741,10 +1741,10 @@
     },
     "X-OR circuit": {
         "word": "X-OR circuit",
-        "wordset_id": "54bd56fe72657423911cf103",
+        "wordset_id": "bcdaf12f55",
         "meanings": [
             {
-                "id": "54bd56fe72657423911ef103",
+                "id": "51c8f11e45",
                 "def": "gate for exclusive OR",
                 "speech_part": "noun",
                 "synonyms": [
@@ -1756,10 +1756,10 @@
     },
     "XOR circuit": {
         "word": "XOR circuit",
-        "wordset_id": "54bd56fe72657423911ff103",
+        "wordset_id": "a692f11e5b",
         "meanings": [
             {
-                "id": "54bd56fe726574239121f103",
+                "id": "23ec2581a7",
                 "def": "gate for exclusive OR",
                 "speech_part": "noun",
                 "synonyms": [
@@ -1778,10 +1778,10 @@
     },
     "XOR gate": {
         "word": "XOR gate",
-        "wordset_id": "54bd56fe726574239122f103",
+        "wordset_id": "6caa53cfcd",
         "meanings": [
             {
-                "id": "54bd56fe726574239124f103",
+                "id": "4b370faa8c",
                 "def": "gate for exclusive OR, used in circuit design",
                 "speech_part": "noun",
                 "synonyms": [
@@ -1806,10 +1806,10 @@
     },
     "xiphoid process": {
         "word": "xiphoid process",
-        "wordset_id": "54bd57107265742391e73504",
+        "wordset_id": "b086c57793",
         "meanings": [
             {
-                "id": "54bd57107265742391e93504",
+                "id": "ca75841bdd",
                 "def": "smallest of the three parts of the breastbone",
                 "speech_part": "noun",
                 "labels": [
@@ -1839,10 +1839,10 @@
     },
     "xenograft": {
         "word": "xenograft",
-        "wordset_id": "54bd571872657423915c5504",
+        "wordset_id": "57ea128cfb",
         "meanings": [
             {
-                "id": "54bd571872657423915e5504",
+                "id": "d39037baff",
                 "def": "tissue from an animal of one species used as a temporary graft, as in cases of severe burns, on an individual of another species",
                 "example": "The surgeons used skin from a pig as a xenograft.",
                 "speech_part": "noun",
@@ -1862,10 +1862,10 @@
     },
     "x-axis": {
         "word": "x-axis",
-        "wordset_id": "54bd57217265742391fc7604",
+        "wordset_id": "1400c446a4",
         "meanings": [
             {
-                "id": "54bd57217265742391fe7604",
+                "id": "46a3a85885",
                 "def": "the horizontal axis in a plane coordinate system",
                 "example": "We marked the x-axis with the number of visitors that the museum received.",
                 "speech_part": "noun",
@@ -1896,10 +1896,10 @@
     },
     "xenolith": {
         "word": "xenolith",
-        "wordset_id": "54bd576c7265742391a98d05",
+        "wordset_id": "ed1e620dcb",
         "meanings": [
             {
-                "id": "54bd576c7265742391ab8d05",
+                "id": "29169ddade",
                 "def": "a piece of rock of different origin from the igneous rock in which it is embedded",
                 "speech_part": "noun",
                 "labels": [
@@ -1929,10 +1929,10 @@
     },
     "xylophonist": {
         "word": "xylophonist",
-        "wordset_id": "54bd578a7265742391bbfa05",
+        "wordset_id": "3369324d50",
         "meanings": [
             {
-                "id": "54bd578a7265742391bdfa05",
+                "id": "007cc87034",
                 "def": "someone who plays a xylophone",
                 "example": "The xylophonist played the Danse Macabre.",
                 "speech_part": "noun"
@@ -1949,10 +1949,10 @@
     },
     "xenogenesis": {
         "word": "xenogenesis",
-        "wordset_id": "54bd57a47265742391b35606",
+        "wordset_id": "4f51687b7e",
         "meanings": [
             {
-                "id": "54bd57a47265742391b55606",
+                "id": "e52502ba81",
                 "def": "the production of offspring that is distinct from either parent",
                 "example": "The two creatures did not look alike, but were thought to be different stages in xenogenesis.",
                 "speech_part": "noun",
@@ -1986,10 +1986,10 @@
     },
     "xerophyte": {
         "word": "xerophyte",
-        "wordset_id": "54bd57dc7265742391881c07",
+        "wordset_id": "de2c709d31",
         "meanings": [
             {
-                "id": "54bd57dc72657423918a1c07",
+                "id": "8d1d77b72a",
                 "def": "plant adapted for life with a limited supply of water",
                 "example": "The gardener loved the easy maintenance of the xerophyte.",
                 "speech_part": "noun",
@@ -2009,10 +2009,10 @@
     },
     "xerophytic plant": {
         "word": "xerophytic plant",
-        "wordset_id": "54bd57dc72657423918b1c07",
+        "wordset_id": "5fbc5426cf",
         "meanings": [
             {
-                "id": "54bd57dc72657423918d1c07",
+                "id": "1f3c7887ee",
                 "def": "plant adapted for life with a limited supply of water",
                 "example": "The xerophytic plant was well adapted to the high desert climate.",
                 "speech_part": "noun",
@@ -2032,10 +2032,10 @@
     },
     "xerophile": {
         "word": "xerophile",
-        "wordset_id": "54bd57dc72657423918e1c07",
+        "wordset_id": "f54648d40d",
         "meanings": [
             {
-                "id": "54bd57dc7265742391901c07",
+                "id": "5d15b0d255",
                 "def": "plant adapted for life with a limited supply of water",
                 "example": "Cacti are some of the most well-known xerophiles.",
                 "speech_part": "noun",
@@ -2055,10 +2055,10 @@
     },
     "xerophilous plant": {
         "word": "xerophilous plant",
-        "wordset_id": "54bd57dc7265742391911c07",
+        "wordset_id": "a74448a690",
         "meanings": [
             {
-                "id": "54bd57dc7265742391931c07",
+                "id": "8fa022965a",
                 "def": "plant adapted for life with a limited supply of water",
                 "example": "The cactus is the easiest example of a xerophilous plant.",
                 "speech_part": "noun",
@@ -2092,10 +2092,10 @@
     },
     "xylem": {
         "word": "xylem",
-        "wordset_id": "54bd57dc7265742391e81b07",
+        "wordset_id": "641a96b3c6",
         "meanings": [
             {
-                "id": "54bd57dc7265742391ea1b07",
+                "id": "8fc6fdd400",
                 "def": "the woody part of plants: the supporting and water-conducting tissue, consisting primarily of tracheids and vessels",
                 "example": "The xylem carries water up into the tree.",
                 "speech_part": "noun",
@@ -2126,10 +2126,10 @@
     },
     "xanthelasma": {
         "word": "xanthelasma",
-        "wordset_id": "54bd57f67265742391907407",
+        "wordset_id": "6a327a4385",
         "meanings": [
             {
-                "id": "54bd57f67265742391927407",
+                "id": "81acb3b8f0",
                 "def": "xanthoma of the eyelids",
                 "speech_part": "noun",
                 "labels": [
@@ -2159,10 +2159,10 @@
     },
     "xanthoma": {
         "word": "xanthoma",
-        "wordset_id": "54bd57f67265742391937407",
+        "wordset_id": "e9ef404da9",
         "meanings": [
             {
-                "id": "54bd57f67265742391957407",
+                "id": "18a1ac3a02",
                 "def": "a skin problem marked by the development of irregular yellow nodules on the eyelids, neck and back",
                 "example": "The patient is suffering from xanthoma.",
                 "speech_part": "noun",
@@ -2193,10 +2193,10 @@
     },
     "xanthoma disseminatum": {
         "word": "xanthoma disseminatum",
-        "wordset_id": "54bd57f67265742391967407",
+        "wordset_id": "a6c4cc3d0e",
         "meanings": [
             {
-                "id": "54bd57f67265742391987407",
+                "id": "9be59ef8e0",
                 "def": "rare chronic xanthoma of adults in which orange or brownish papules develop on many surfaces of the body",
                 "speech_part": "noun",
                 "labels": [
@@ -2226,10 +2226,10 @@
     },
     "xanthomatosis": {
         "word": "xanthomatosis",
-        "wordset_id": "54bd57f67265742391997407",
+        "wordset_id": "d9065a1701",
         "meanings": [
             {
-                "id": "54bd57f672657423919b7407",
+                "id": "aa63d6ce68",
                 "def": "widespread xanthomas (especially on elbows and knees)",
                 "speech_part": "noun",
                 "synonyms": [
@@ -2242,10 +2242,10 @@
     },
     "xanthoma multiplex": {
         "word": "xanthoma multiplex",
-        "wordset_id": "54bd57f672657423919c7407",
+        "wordset_id": "90b6048d2e",
         "meanings": [
             {
-                "id": "54bd57f672657423919e7407",
+                "id": "a2842f92fe",
                 "def": "widespread yellowish deposits of cholesterol, found especially on the elbows and knees",
                 "example": "The child presented with xanthoma multiplex.",
                 "speech_part": "noun",
@@ -2279,10 +2279,10 @@
     },
     "xanthosis": {
         "word": "xanthosis",
-        "wordset_id": "54bd57f67265742391a87407",
+        "wordset_id": "45224f7553",
         "meanings": [
             {
-                "id": "54bd57f67265742391aa7407",
+                "id": "bad9805c57",
                 "def": "an abnormal yellow discoloration of the skin",
                 "example": "The child was so unhealthy that the skin displayed xanthosis.",
                 "speech_part": "noun",
@@ -2313,10 +2313,10 @@
     },
     "xenophobia": {
         "word": "xenophobia",
-        "wordset_id": "54bd57fa72657423916d8207",
+        "wordset_id": "334cc14715",
         "meanings": [
             {
-                "id": "54bd57fa72657423916f8207",
+                "id": "89a0d8b072",
                 "def": "a fear of foreigners or strangers",
                 "example": "I think your xenophobia might be cured by a trip abroad.",
                 "speech_part": "noun"
@@ -2333,10 +2333,10 @@
     },
     "xanthopsia": {
         "word": "xanthopsia",
-        "wordset_id": "54bd57fd72657423911f8e07",
+        "wordset_id": "470976bb0a",
         "meanings": [
             {
-                "id": "54bd57fd7265742391218e07",
+                "id": "afc94472b0",
                 "def": "visual defect in which objects appear to have a yellowish hue",
                 "example": "The drug digitalin is thought to cause xanthopsia.",
                 "speech_part": "noun"
@@ -2353,10 +2353,10 @@
     },
     "xerotes": {
         "word": "xerotes",
-        "wordset_id": "54bd57fd7265742391378b07",
+        "wordset_id": "1df90e3ab6",
         "meanings": [
             {
-                "id": "54bd57fd7265742391398b07",
+                "id": "ce2480cd6a",
                 "def": "the condition of not containing or being covered by a liquid, especially water",
                 "example": "The xerotes of the skin was helped by applying a wax.",
                 "speech_part": "noun",
@@ -2382,10 +2382,10 @@
     },
     "xeroderma": {
         "word": "xeroderma",
-        "wordset_id": "54bd57fd72657423914a8b07",
+        "wordset_id": "ffe6550853",
         "meanings": [
             {
-                "id": "54bd57fd72657423914c8b07",
+                "id": "5176e8bb5a",
                 "def": "a mild form of ichthyosis characterized by abnormal dryness and roughness of the skin",
                 "speech_part": "noun",
                 "synonyms": [
@@ -2396,10 +2396,10 @@
     },
     "xerodermia": {
         "word": "xerodermia",
-        "wordset_id": "54bd57fd72657423914d8b07",
+        "wordset_id": "0ab0564909",
         "meanings": [
             {
-                "id": "54bd57fd72657423914f8b07",
+                "id": "660824bfb6",
                 "def": "a mild form of ichthyosis characterized by abnormal dryness and roughness of the skin",
                 "speech_part": "noun",
                 "synonyms": [
@@ -2432,10 +2432,10 @@
     },
     "xeroderma pigmentosum": {
         "word": "xeroderma pigmentosum",
-        "wordset_id": "54bd57fd7265742391508b07",
+        "wordset_id": "c011a947cd",
         "meanings": [
             {
-                "id": "54bd57fd7265742391528b07",
+                "id": "f8cfd86891",
                 "def": "a rare genetic condition characterized by an eruption of exposed skin occurring in childhood and photosensitivity with severe sunburn",
                 "speech_part": "noun",
                 "labels": [
@@ -2465,10 +2465,10 @@
     },
     "xerophthalmia": {
         "word": "xerophthalmia",
-        "wordset_id": "54bd57fd7265742391538b07",
+        "wordset_id": "b4d10337ee",
         "meanings": [
             {
-                "id": "54bd57fd7265742391558b07",
+                "id": "dec5d6f20c",
                 "def": "abnormal dryness of the conjunctiva and cornea of the eyes",
                 "speech_part": "noun",
                 "synonyms": [
@@ -2481,10 +2481,10 @@
     },
     "xerophthalmus": {
         "word": "xerophthalmus",
-        "wordset_id": "54bd57fd7265742391568b07",
+        "wordset_id": "9873e35578",
         "meanings": [
             {
-                "id": "54bd57fd7265742391588b07",
+                "id": "d8883972fe",
                 "def": "abnormal dryness of the conjunctiva and cornea of the eyes",
                 "speech_part": "noun",
                 "synonyms": [
@@ -2517,10 +2517,10 @@
     },
     "xeroma": {
         "word": "xeroma",
-        "wordset_id": "54bd57fd7265742391598b07",
+        "wordset_id": "4314dad75f",
         "meanings": [
             {
-                "id": "54bd57fd72657423915b8b07",
+                "id": "553c0ca1dc",
                 "def": "abnormal dryness of the conjunctiva and cornea of the eyes",
                 "example": "Your eyes have a condition called xeroma.",
                 "speech_part": "noun",
@@ -2554,10 +2554,10 @@
     },
     "xerostomia": {
         "word": "xerostomia",
-        "wordset_id": "54bd57fd72657423915f8b07",
+        "wordset_id": "67cbea91e6",
         "meanings": [
             {
-                "id": "54bd57fd7265742391618b07",
+                "id": "5bdbd97762",
                 "def": "abnormal dryness of the mouth resulting from decreased secretion of saliva",
                 "speech_part": "noun",
                 "synonyms": [
@@ -2568,10 +2568,10 @@
     },
     "xanthemia": {
         "word": "xanthemia",
-        "wordset_id": "54bd57fd72657423917d8d07",
+        "wordset_id": "19c92074a7",
         "meanings": [
             {
-                "id": "54bd57fd72657423917f8d07",
+                "id": "c428e45fd3",
                 "def": "excess carotene in the blood stream",
                 "example": "Eating too many carrots had contributed to the child's xanthemia.",
                 "speech_part": "noun",
@@ -2613,10 +2613,10 @@
     },
     "xenon": {
         "word": "xenon",
-        "wordset_id": "54bd580072657423915e9607",
+        "wordset_id": "43b584e95b",
         "meanings": [
             {
-                "id": "54bd58007265742391609607",
+                "id": "81da5eb232",
                 "def": "a colorless, odorless, inert gaseous element occurring in the earth's atmosphere in trace amounts",
                 "example": "The canister was filled with xenon.",
                 "speech_part": "noun"
@@ -2636,10 +2636,10 @@
     },
     "xanthophyll": {
         "word": "xanthophyll",
-        "wordset_id": "54bd580172657423916e9b07",
+        "wordset_id": "79cae7d652",
         "meanings": [
             {
-                "id": "54bd58017265742391709b07",
+                "id": "24705b2067",
                 "def": "yellow carotenoid pigments in plants and animal fats and egg yolks",
                 "speech_part": "noun",
                 "synonyms": [
@@ -2651,10 +2651,10 @@
     },
     "xanthophyl": {
         "word": "xanthophyl",
-        "wordset_id": "54bd58017265742391719b07",
+        "wordset_id": "6bc234984e",
         "meanings": [
             {
-                "id": "54bd58017265742391739b07",
+                "id": "3ac9da6156",
                 "def": "yellow carotenoid pigments in plants and animal fats and egg yolks",
                 "speech_part": "noun",
                 "synonyms": [
@@ -2687,10 +2687,10 @@
     },
     "xanthate": {
         "word": "xanthate",
-        "wordset_id": "54bd580b726574239150be07",
+        "wordset_id": "60cf5183f6",
         "meanings": [
             {
-                "id": "54bd580b726574239152be07",
+                "id": "291bdadc55",
                 "def": "a salt or ester of xanthic acid",
                 "speech_part": "noun",
                 "labels": [
@@ -2720,10 +2720,10 @@
     },
     "xanthic acid": {
         "word": "xanthic acid",
-        "wordset_id": "54bd580b726574239153be07",
+        "wordset_id": "834147dffb",
         "meanings": [
             {
-                "id": "54bd580b726574239155be07",
+                "id": "ad1aa428cc",
                 "def": "any of a class of unstable organic acids containing sulphur",
                 "speech_part": "noun",
                 "labels": [
@@ -2753,10 +2753,10 @@
     },
     "xanthine": {
         "word": "xanthine",
-        "wordset_id": "54bd580b726574239156be07",
+        "wordset_id": "59dad95550",
         "meanings": [
             {
-                "id": "54bd580b726574239158be07",
+                "id": "28c32647e1",
                 "def": "crystalline oxidation product of the metabolism of nucleoproteins",
                 "example": "Once generated from guanine, xanthine is often turned into uric acid.",
                 "speech_part": "noun",
@@ -2787,10 +2787,10 @@
     },
     "xylose": {
         "word": "xylose",
-        "wordset_id": "54bd580b7265742391a3bd07",
+        "wordset_id": "bc42ac7d65",
         "meanings": [
             {
-                "id": "54bd580b7265742391a5bd07",
+                "id": "c6f6548a3d",
                 "def": "a sugar extracted from wood or straw",
                 "example": "Xylose is found in most plants that humans consume.",
                 "speech_part": "noun",
@@ -2824,10 +2824,10 @@
     },
     "xenotime": {
         "word": "xenotime",
-        "wordset_id": "54bd580b7265742391c4bd07",
+        "wordset_id": "d3b490559a",
         "meanings": [
             {
-                "id": "54bd580b7265742391c6bd07",
+                "id": "fce74d11d1",
                 "def": "a brown-to-yellow mineral that is a phosphate of yttrium in crystalline form",
                 "speech_part": "noun",
                 "labels": [
@@ -2857,10 +2857,10 @@
     },
     "xylene": {
         "word": "xylene",
-        "wordset_id": "54bd580b7265742391c7bd07",
+        "wordset_id": "02f8cfc859",
         "meanings": [
             {
-                "id": "54bd580b7265742391c9bd07",
+                "id": "348b627bed",
                 "def": "a colorless flammable volatile liquid hydrocarbon used as a solvent",
                 "speech_part": "noun",
                 "synonyms": [
@@ -2871,10 +2871,10 @@
     },
     "xylol": {
         "word": "xylol",
-        "wordset_id": "54bd580b7265742391cabd07",
+        "wordset_id": "9b4dd5c3bc",
         "meanings": [
             {
-                "id": "54bd580b7265742391ccbd07",
+                "id": "ac048d37f1",
                 "def": "a colorless flammable volatile liquid hydrocarbon used as a solvent",
                 "example": "The only way the powder would dissolve was in xylol.",
                 "speech_part": "noun",
@@ -2908,16 +2908,16 @@
     },
     "x-ray": {
         "word": "x-ray",
-        "wordset_id": "54bd58237265742391fa1208",
+        "wordset_id": "246a657738",
         "meanings": [
             {
-                "id": "54bd58237265742391fc1208",
+                "id": "810ebcf526",
                 "def": "take an x-ray of something or somebody",
                 "example": "The doctor x-rayed my chest",
                 "speech_part": "verb"
             },
             {
-                "id": "54bd58237265742391fe1208",
+                "id": "b8b1c3e910",
                 "def": "examine by taking x-rays",
                 "speech_part": "verb"
             }

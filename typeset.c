@@ -19,16 +19,58 @@ int in_token=0;
 
 FILE *o=NULL;
 
+struct word {
+  char word[1024];
+  char body[8192];
+};
+
+#define MAX_WORDS 100000
+struct word words[MAX_WORDS];
+int word_count=0;
+int word_started=0;
+
+int compare_words(const void *a,const void *b)
+{
+  const struct word *aa=a;
+  const struct word *bb=b;
+  return strcasecmp(aa->word,bb->word);
+}
+
+void word_begin(char *word)
+{
+  if (word_started) {
+    word_started=0;
+    word_count++;
+  }
+  
+  strcpy(words[word_count].word,word);
+  words[word_count].body[0]=0;
+  word_started=1;
+}
+
+void word_append(char *t)
+{
+  if ((strlen(t)+strlen(words[word_count].body))<8192) {
+    strcpy(&words[word_count].body[strlen(words[word_count].body)],t);
+  }
+}
+
+
 void emit_definition(void)
 {
-  fprintf(o,"\$\\bullet\$ \\ (%s) {%s.}\n",
+
+  char buf[8192];
+  
+  snprintf(buf,8192,"$\\bullet$ \\ (%s) {%s.}\n",
 	 word_type,word_def);
-  if(word_example[0]) fprintf(o," \\textit{``%s''}\n",word_example);
-  if (word_syns[0]) {
-    fprintf(o," \\textsc{Synonyms:} %s\n",word_syns);
+  word_append(buf);
+  if(word_example[0]) {
+    snprintf(buf,8192," \\textit{``%s''}\n",word_example);
+    word_append(buf);
   }
-  if (word_def) {
-    
+  if (word_syns[0]) {
+    snprintf(buf,8192," \\textsc{Synonyms:} %s\n",word_syns);
+    word_append(buf);
   }
 }
 
@@ -63,8 +105,11 @@ void token_end(int depth, int colonP)
   //   printf("'%s' (%s) @ %d, %d\n",token,token_type,depth,colonP);
   if ((!colonP)&&(depth==2)&&(!strcmp(token_type,"word")))
     {
-      fprintf(o,"\\par \\markboth{%s}{%s}\\textbf{%s}\n",
+      word_begin(token);
+      char buf[8192];
+      snprintf(buf,8192,"\\par \\markboth{%s}{%s}\\textbf{%s}\n",
 	     token,token,token);
+      word_append(buf);
     }
 
   
@@ -75,6 +120,8 @@ void token_end(int depth, int colonP)
 void parse_file(FILE *f)
 {
   int depth=0;
+
+  word_count=0;
   
   data_len=fread(data,1,MAX_FILE_SIZE,f);
   fprintf(stderr,"%d bytes\n",data_len);
@@ -128,6 +175,11 @@ void parse_file(FILE *f)
       break;
     }
   }
+
+  // Sort words and output them
+  qsort(words,word_count,sizeof(struct word),compare_words);
+
+  for(int i=0;i<word_count;i++) fprintf(o,"%s",words[i].body);  
 }
 
 int main(int argc,char **argv)

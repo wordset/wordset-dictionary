@@ -82333,6 +82333,7 @@
             {
                 "id": "29373c945e",
                 "def": "a salesman who travels to call on customers",
+                "example": "A traveling salesman tried to sell me a set of knives.",
                 "speech_part": "noun",
                 "synonyms": [
                     "bagman"

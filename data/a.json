@@ -11255,7 +11255,7 @@
             {
                 "id": "cd05f983ad",
                 "def": "something having the property of being analogous to something else",
-                "example": "That argument is analogue to the one we just proved wrong.",
+                "example": "That argument is an analogue of the one we just proved wrong.",
                 "speech_part": "noun"
             }
         ],
@@ -11271,11 +11271,17 @@
     "analog": {
         "word": "analog",
         "wordset_id": "5ebcb8d9ea",
+        "labels": [
+            {
+                "name": "American",
+                "is_dialect": true
+            }
+        ],
         "meanings": [
             {
                 "id": "bcee189e72",
                 "def": "of a circuit or device having an output that is proportional to the input",
-                "example": "analogue device",
+                "example": "This analog device picks up radio signals from all over the world.",
                 "speech_part": "adjective",
                 "synonyms": [
                     "linear"
@@ -11284,6 +11290,7 @@
             {
                 "id": "cc1a78ef04",
                 "def": "something having the property of being analogous to something else",
+                "example": "That argument is an analog of the one we just proved wrong.",
                 "speech_part": "noun",
                 "synonyms": [
                     "parallel"

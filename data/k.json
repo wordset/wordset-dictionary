@@ -11348,10 +11348,10 @@
             {
                 "id": "2f32c30261",
                 "def": "sympathy arising from a kind heart",
+                "example": "Your kindheartedness toward the downtrodden is an example for us all.",
                 "speech_part": "noun",
                 "synonyms": [
                     "kind-heartedness",
-                    " kindheartedness"
                 ]
             }
         ]
@@ -11363,7 +11363,7 @@
             {
                 "id": "b3481749d4",
                 "def": "sympathy arising from a kind heart",
-                "example": "You kind-heartedness toward the downtrodden is an example for us all.",
+                "example": "Your kind-heartedness toward the downtrodden is an example for us all.",
                 "speech_part": "noun",
                 "synonyms": [
                     "kindheartedness"

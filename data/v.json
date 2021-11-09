@@ -5380,7 +5380,7 @@
             {
                 "id": "08754cacc8",
                 "def": "seen in the mind as a mental image",
-                "example": "I was having difficulty painting the visualized image.",
+                "example": "Have you visualised your championship win?",
                 "speech_part": "adjective"
             }
         ],
@@ -6750,6 +6750,32 @@
             "msingle",
             "zellerpress",
             "lefurjah"
+        ]
+    },
+    "victimised": {
+        "word": "victimised",
+        "wordset_id": "adc44870e7",
+        "labels": [
+            {
+                "name": "British",
+                "is_dialect": true
+            }
+        ],
+        "meanings": [
+            {
+                "id": "15dceaf367",
+                "def": "being made a victim, i.e. being treated unjustly or cruelly",
+                "example": "The victimised townspeople hired an army to protect them from invaders.",
+                "speech_part": "adjective"
+            }
+        ],
+        "editors": [
+            "lefurjah"
+        ],
+        "contributors": [
+            "luxfactaest",
+            "zellerpress",
+            "hcatlin"
         ]
     },
     "victimized": {
@@ -9597,13 +9623,19 @@
     "vaporization": {
         "word": "vaporization",
         "wordset_id": "5a33a3ebcd",
+        "labels": [
+            {
+                "name": "American",
+                "is_dialect": true
+            }
+        ],
         "meanings": [
             {
                 "id": "b68ab676c5",
                 "def": "annihilation by vaporizing something",
+                "example": "The bomb caused the immediate vaporization of thousands of people.",
                 "speech_part": "noun",
                 "synonyms": [
-                    " vaporization",
                     "vaporisation"
                 ]
             },
@@ -9612,13 +9644,17 @@
                 "def": "the process of becoming a vapor",
                 "speech_part": "noun",
                 "synonyms": [
-                    " vaporization",
-                    "vaporisation",
-                    "evaporation",
-                    "vapour",
-                    "vapor"
+                    "vaporisation"
                 ]
             }
+        ],
+        "editors": [
+            "lefurjah"
+        ],
+        "contributors": [
+            "luxfactaest",
+            "msingle",
+            "zellerpress"
         ]
     },
     "vaporisation": {
@@ -28849,11 +28885,10 @@
         "meanings": [
             {
                 "id": "6a31a18070",
-                "def": "an important or influential (and often overbearing) person",
+                "def": "an important or influential person",
                 "speech_part": "noun",
                 "synonyms": [
                     "VIP",
-                    " very important person",
                     "high-up",
                     "dignitary",
                     "panjandrum",
@@ -30781,6 +30816,12 @@
     "virilization": {
         "word": "virilization",
         "wordset_id": "5b62d36f41",
+        "labels": [
+            {
+                "name": "American",
+                "is_dialect": true
+            }
+        ],
         "meanings": [
             {
                 "id": "b8bb60b57e",
@@ -30788,6 +30829,21 @@
                 "speech_part": "noun",
                 "synonyms": [
                     "masculinization"
+                ]
+            },
+            {
+                "id": "37b9739b1f",
+                "def": "the normal development of male sexual characteristics in a male",
+                "speech_part": "noun",
+                "labels": [
+                    {
+                        "name": "medical",
+                        "is_dialect": false,
+                        "parent": {
+                            "name": "technical",
+                            "is_dialect": false
+                        }
+                    }
                 ]
             }
         ],

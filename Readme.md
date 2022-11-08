@@ -82,7 +82,7 @@ Is it Complete?
 
 Alas, nothing is ever complete. However, we started the project by utilizing
 the Princeton WordNet project, and then made many thousands of modifications
-of that. But, with 177k words, and 63,936 manual edits by volunteers it's as
+of that. But, with 177k meanings, and 63,936 manual edits by volunteers it's as
 complete as it will be.
 
 What about WordNet?
